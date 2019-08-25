@@ -3664,7 +3664,7 @@ HIDER_DISABLE_LORE:
 TITLE_JOIN_LOBBY: '§7Our Discord: §6vk.cc/a5Kq7y2'
 SUBTITLE_JOIN_LOBBY: '§7Fun-group: §cvk.com/memeslc'
 ALREADY_ON_SERVER: '§6Server §8| §cYou are already on this server!'
-PROMO_ITEM_NAME: '§aDISCOUNT!'
+PROMO_ITEM_NAME: '§c§lMEGA DISCOUNT at ETERNITYGAMES.NET!'
 REWARD_FOR_HIGHER_VERSION: ' §6+5 coins (play in 1.12 or higher)'
 PLAY_FORMAT: '/play <game>'
 
