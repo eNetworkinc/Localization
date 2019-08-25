@@ -210,7 +210,7 @@ ITEMS_LOBBY_SELECTORS_NAME: '§eВыбор лобби'
 ITEMS_LOBBY_SELECTORS_LORE:
 - '§7Смени лобби и'
 - '§7найди своих друзей'
-ITEMS_LOBBY_PROFILE_NAME: '§eПрофиль игрока'
+ITEMS_LOBBY_PROFILE_NAME: '§eПрофиль игрока %s'
 ITEMS_LOBBY_PROFILE_LORE:
 - '§7Полезная информация'
 
