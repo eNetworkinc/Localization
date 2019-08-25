@@ -5467,7 +5467,7 @@ HIDER_DISABLE_LORE:
 TITLE_JOIN_LOBBY: '§7Наш Discord: §6vk.cc/a5Kq7y2'
 SUBTITLE_JOIN_LOBBY: '§7Фан-группа: §cvk.com/memeslc'
 ALREADY_ON_SERVER: '§6Сервер §8| §cВы уже находитесь на этом сервере!'
-PROMO_ITEM_NAME: '§aСКИДКИ!'
+PROMO_ITEM_NAME: '§cСкидочки на сайте - §6§lEternityGames.net'
 REWARD_FOR_HIGHER_VERSION: ' §6+5 монет (игра на 1.12 или выше)'
 PLAY_FORMAT: '/play <игра>'
 
