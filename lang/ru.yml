@@ -5463,11 +5463,11 @@ HIDER_DISABLE_NAME: '§cСкрыть игроков'
 HIDER_DISABLE_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы скрыть игроков'
-TITLE_JOIN_LOBBY: '§7Наш Discord: §6vk.cc/a5Kq7y2'
-SUBTITLE_JOIN_LOBBY: '§7Фан-группа: §cvk.com/memeslc'
+TITLE_JOIN_LOBBY: '§7вступай в дискорд: §6https://vk.cc/9JRo66'
+SUBTITLE_JOIN_LOBBY: '§7наш паблик ВК: §cvk.com/etgnet'
 ALREADY_ON_SERVER: '§6Сервер §8| §cВы уже находитесь на этом сервере!'
 PROMO_ITEM_NAME: '§cСкидочки на сайте - §6§lEternityGames.net'
-REWARD_FOR_HIGHER_VERSION: ' §6+5 монет (игра на 1.12 или выше)'
+REWARD_FOR_HIGHER_VERSION: ' §6+5 монет (игра на 1.14 или выше)'
 PLAY_FORMAT: '/play <игра>'
 
 THANKS_FOR_MARKING_MAP:
