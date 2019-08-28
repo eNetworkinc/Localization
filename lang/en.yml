@@ -1365,10 +1365,8 @@ TAB_HEADER:
 - '§fOnline-Store:'
 - '§elast-craft.com'
 - ''
-TAB_FOOTER: 
-- ''
-- '§fYou are on the server:'
-- '§e%s'
+TAB_FOOTER_1: '§fYou are in:'
+TAB_FOOTER_2: '§e%s'
 AUTH_PLEASE: §7Log in - §e/login §f[§epassword§f]
 REGISTER_PLEASE: §7Register - §e/reg §f[§epassword§f] §f[§erepeat password §f]
 AUTH_NOTIFICATION_TITLE_REGISTER: §7For continuation register
