@@ -1359,12 +1359,6 @@ RECIPE_FURNACE: 'For, to get this item, you need fry in furnace §c%s§f'
 RECIPE_LIST_VIEW: 'Item have %s something recipes. Enter §a/%s %s <number> §ffor watching correct'
 #сурв киты
 REDIRECT_ERROR: '§cCannot find right server('
-TAB_HEADER:
-- '§6§lLastCraft'
-- ''
-- '§fOnline-Store:'
-- '§elast-craft.com'
-- ''
 TAB_FOOTER_1: '§fYou are in:'
 TAB_FOOTER_2: '§e%s'
 AUTH_PLEASE: §7Log in - §e/login §f[§epassword§f]
