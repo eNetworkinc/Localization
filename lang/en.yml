@@ -17,7 +17,7 @@ RULES_COMMAND_HOVER: '§fClick here to open url'
 
 NO_PERMS: '§cYou do not have permission'
 NO_PERMS_GROUP: '§cYou do not have permission, buy %s§c or higher'
-NO_PERMS_SHULKER_ONLY: '§cYou do not have permission, this function is only for §7§lSHULKER'
+NO_PERMS_OBSIDIAN_ONLY: '§cYou do not have permission, this function is only for §d§lOBSIDIAN'
 
 PLAYER_LEFT: '§fPlayer %s§f has left the game'
 PING: '§6Server §8| §fYour ping is §a%s §fms'
