@@ -1293,16 +1293,8 @@ RECIPE_FURNACE: 'Для того, щоб отримати цей предмет,
 RECIPE_LIST_VIEW: 'У предмета %s кілька рецептів. Введіть §a/%s %s <номер> §fдля перегляду конкретного'
 
 REDIRECT_ERROR: '§cНеможливо знайти відповідний сервер('
-TAB_HEADER:
-- '§6§lLastCraft'
-- ''
-- '§fОнлайн-магазин:'
-- '§elast-craft.com'
-- ''
-TAB_FOOTER: 
-- ''
-- '§fВи перебуваєте на сервері:'
-- '§e%s'
+TAB_FOOTER_1: '§fВи перебуваєте на сервері'
+TAB_FOOTER_2: '§e%s'
 AUTH_PLEASE: §7Авторизуйтесь - §e/login §f[§eпароль§f]
 REGISTER_PLEASE: §7Зареєструйтесь - §e/reg §f[§eпароль§f] §f[§eповтор пароля§f]
 AUTH_NOTIFICATION_TITLE_REGISTER: §7Для продовження зареєструйтесь
@@ -3671,7 +3663,7 @@ AUTH_INFO_PLAYER:
 GUILD_CANT_SET_THIS_RANK: '§6Гільдії §8| §fВи не можете встановити такий ранг гравцю'
 GUILD_PLAYER_ALREADY_LEADER: '§6Гільдії §8| §fВи не можете передати права управління гільдією самому собі'
 GOODGAME_FORMAT: '/gg <нік>' 
-GOODGAME_ANSWER_MESSAGE: 'Адміністрація §6§lLastCraft §eбажає Вам приємної гри на сервері. Звертайтеся до нас ще!)'
+GOODGAME_ANSWER_MESSAGE: 'Адміністрація §6§lEternityGames §eбажає Вам приємної гри на сервері. Звертайтеся до нас ще!)'
 ISLAND_ADD_PLAYER_REQUEST_1: ' %s §fпропонує вам грати разом на своєму острові'
 ISLAND_ADD_PLAYER_REQUEST_2: ' §fДля прийняття запиту пишіть '
 ISLAND_ADD_PLAYER_REQUEST_3: ' §fДля скасування запиту пиши '
