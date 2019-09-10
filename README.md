@@ -10,5 +10,5 @@
 #[EN]
 join us - ``play.EternityGames.net``
 
-Sup, mate! If u playing at eternitygames.net and u having a wish to helping them, i have job at u!
-here have a file to translate
+wSup, mate! If u playing at eternitygames.net and u having a wish to helping them, i have job fo u!
+here have a key to translate this project, if u have time to help them - then let's doid it!
