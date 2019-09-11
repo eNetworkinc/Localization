@@ -21,6 +21,9 @@ NO_PERMS_OBSIDIAN_ONLY: '§cYou do not have permission, this function is only fo
 
 PLAYER_LEFT: '§fPlayer %s§f has left the game'
 PING: '§6Server §8| §fYour ping is §a%s §fms'
+BOSS_BAR_LOBBY:
+- '§fUSE PROMO §a§lOPEN §fHE GIVING §c20%§f OFF'
+
 
 ANARCHY_KILL_MOB: '§6+%s %s for killing a mob'
 
