@@ -2418,10 +2418,6 @@ FORUM_ACCOUNT_NOT_LINKED: §c⚠ Warning! §fYou already register §cin forum§f
 DAILY_REWARD_KEY: '§eDaily rewards'
 WEEKLY_REWARD_KEY: '§eWeekly rewards'
 MONTHLY_REWARD_KEY: '§eMonthly rewards'
-REWARD_GUI_NAME: 'Reward'
-REWARD_CLICK_TO_CLAIM:
- - ' '
- - ' §e▸ Click, to claim reward'
 REWARD_DONATE_ITEM: '§eOnline-purchase'
 REWARD_DONATE_ITEM_LORE:
  - ' '
@@ -6211,6 +6207,7 @@ DAILY_REWARD_KEY: '§eDaily rewards'
 WEEKLY_REWARD_KEY: '§eWeekly rewards'
 MONTHLY_REWARD_KEY: '§eMonthly rewards'
 REWARD_GUI_NAME: 'Reward'
+REWARD_YOU_GOT_REWARDS: '§fYou have successfully received the next rewards:'
 REWARD_CLICK_TO_CLAIM:
  - ' '
  - ' §e▸ Click, to claim reward'
