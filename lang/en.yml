@@ -2417,7 +2417,6 @@ FORUM_ACCOUNT_LINKED:
 FORUM_ACCOUNT_NOT_LINKED: §c⚠ Warning! §fYou already register §cin forum§f, do this right now - §e/forum
 DAILY_REWARD_KEY: '§eDaily rewards'
 WEEKLY_REWARD_KEY: '§eWeekly rewards'
-MONTHLY_REWARD_KEY: '§eMonthly rewards'
 REWARD_DONATE_ITEM: '§eOnline-purchase'
 REWARD_DONATE_ITEM_LORE:
  - ' '
@@ -2426,19 +2425,6 @@ REWARD_DONATE_ITEM_LORE:
  - '§7need, You can visit our'
  - '§7online-store and purchase it there'
  - '§deternitygames.net'
-REWARD_HOLOGRAM:
- - '§bReward'
- - '§7Click, to open'
-REWARDS_1:
- - 'reward'
- - ''
- - 's'
- - 's'
-AVAILABLE_1:
- - 'Available'
- - ''
- - ''
- - ''
  
 ALERT_COOLDOWN: '§cError, write message in global chat can only one in minute'
 GUILD_TOP_FORMAT:
@@ -6217,14 +6203,6 @@ REWARD_YOU_CAN_CLAIM_IN:
  - '§e%s'
  - ' '
  - ' §c▸ Reward already claim'
-REWARD_DONATE_ITEM: '§eOnline-purchase'
-REWARD_DONATE_ITEM_LORE:
- - ' '
- - '§7If available rewards no,'
- - '§7a souls or keys very'
- - '§7need, You can visit our'
- - '§7online-store and purchase it there'
- - '§deternitygames.net'
 REWARD_HOLOGRAM:
  - '§bReward'
  - '§7Click, to open'
