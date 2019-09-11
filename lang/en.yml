@@ -2416,7 +2416,12 @@ FORUM_ACCOUNT_LINKED:
  - ' §f- Password: §a%s'
 FORUM_ACCOUNT_NOT_LINKED: §c⚠ Warning! §fYou already register §cin forum§f, do this right now - §e/forum
 DAILY_REWARD_KEY: '§eDaily rewards'
-WEEKLY_REWARD_KEY: '§eWeekly rewards'
+DAILY_REWARD_LORE_KEY:
+- ' '
+- '§7Daily reward that'
+- '§7includes:'
+- '§8 • §fSouls §7(from §6100 §7to §6200§7)'
+- '§8 • §fEXP §7(from §a100 §7to §a300§7)'
 REWARD_DONATE_ITEM: '§eOnline-purchase'
 REWARD_DONATE_ITEM_LORE:
  - ' '
@@ -6189,8 +6194,15 @@ FORUM_ACCOUNT_LINKED:
  - ' §f- Email: §a%s'
  - ' §f- Password: §a%s'
 FORUM_ACCOUNT_NOT_LINKED: §c⚠ Warning! §fYou already register §cin forum§f, do this right now - §e/forum
-DAILY_REWARD_KEY: '§eDaily rewards'
 WEEKLY_REWARD_KEY: '§eWeekly rewards'
+WEEKLY_REWARD_LORE_KEY:
+- ' '
+- '§7Weekly reward that'
+- '§7includes:'
+- '§8 • §fSouls §7(from §6300 §7to §6400§7)'
+- '§8 • §fEXP §7(from §a700 §7to §a1.000§7)'
+- '§8 • §fCosmetic key §7(from §d2§7 to §d3§7)'
+- '§8 • §fGame key §7(from §d1§7 to §d2§7)'
 MONTHLY_REWARD_KEY: '§eMonthly rewards'
 REWARD_GUI_NAME: 'Reward'
 REWARD_YOU_GOT_REWARDS: '§fYou have successfully received the next rewards:'
