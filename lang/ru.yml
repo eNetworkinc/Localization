@@ -1910,10 +1910,11 @@ AUTH_PLEASE_NO_VK:
 - '§f§l|       §7Не мешало бы его привязать!'
 - '§f§l|'
 - '§f§l|       §bДля входа, используйте §8-§6 /l [пароль]'
-REGISTER_PLEASE: §7Зарегистрируйтесь - §e/reg §f[§eпароль§f] §f[§eповтор пароля§f]
+REGISTER_PLEASE: §fЗарегистрируйтесь §8- §6/reg §f[§eпароль§f]
 AUTH_NOTIFICATION_TITLE_REGISTER: §7Для продолжения зарегистрируйтесь
 AUTH_NOTIFICATION_TITLE_LOGIN: §7Для продолжения авторизуйтесь
-AUTH_TIME_EXPIRED: §cВремя авторизации истекло
+REGISTER_TIME_EXPIRED: '\n\n§c[kickout]\n\n§6Время регистрации истекло, перезайдите'
+AUTH_TIME_EXPIRED: '\n\n§c[kickout]\n\n§6Время авторизации истекло, перезайдите'
 ALREADY_AUTHORIZED: §cВы уже авторизованы!
 FAIL_AUTH: §cОшибка, неверный пароль!
 SUCCESS_AUTH: §fАвторизация успешна! Приятной игры :)
