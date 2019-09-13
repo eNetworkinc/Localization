@@ -90,7 +90,7 @@ PAGE_ARROW_LORE:
 - '§7Нажмите для перехода'
 - '§7на %s страницу'
 
-KEY_BOX: 'У вас %s'
+KEY_BOX: '%sУ вас %s %s'
 BOX_NAME: 'Сундук удачи'
 BOX_SUB_NAME: '§7Нажмите, чтобы открыть'
 BOX_NO_KEY: '§cУ вас нет ключей'
@@ -2215,6 +2215,7 @@ GUI_ANOTHER_LOBBY_FRIENDS:
 GUI_LOBBY_FRIEND_MAX: '§7и другие...'
 GROUP_SET_FORMAT: '/group set <ник> <донат-группа>'
 GROUP_INVALID: '§cВы указали неверную группу. Доступные группы: §fDEFAULT, GOLD, DIAMOND, EMERALD, MEGALODON, OBSIDIAN'
+USER_NOT_FOUND: '§cИгрок не найден в базе.'
 FRIENDS_REDIRECTING: '§6Друзья §8| §fВы были телепортированы на сервер игрока %s §f(§7%s§f)'
 AUTH_HELP:
 - '§7/auth info <ник> §f- Посмотреть информацию об игроке'
