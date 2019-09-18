@@ -4507,6 +4507,11 @@ LOBBY_SETTINGS_PRIVATE_MESSAGE_LORE:
 - '§cВНИМАНИЕ! §7Ваши друзья все равно'
 - '§7смогут вам писать, даже если вы'
 - '§7отключите личные сообщения'
+LOBBY_SETTINGS_VK_LEAK_NAME: 'Вконтакте' 
+LOBBY_SETTINGS_VK_LEAK_LORE: 
+- '§7Позволяет включить или выключить' 
+- '§7отображение вашего VK другим игрокам' 
+- '§7по команде §f/vk <ник>'
 LOBBY_SETTINGS_FRIENDS_REQUEST_NAME: 'Приглашения в друзья'
 LOBBY_SETTINGS_FRIENDS_REQUEST_LORE:
 - '§7Позволяет включить или выключить'
