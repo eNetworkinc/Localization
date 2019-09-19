@@ -1911,13 +1911,15 @@ AUTH_PLEASE_NO_VK:
 - '§f§l|'
 - '§f§l|       §bДля входа, используйте §8-§6 /l [пароль]'
 REGISTER_PLEASE: §fЗарегистрируйтесь §8- §6/reg §f[§eпароль§f]
-AUTH_NOTIFICATION_TITLE_REGISTER: §7Для продолжения зарегистрируйтесь
-AUTH_NOTIFICATION_TITLE_LOGIN: §7Для продолжения авторизуйтесь
+AUTH_NOTIFICATION_TITLE_REGISTER: '                     §c[регистрация]'
+AUTH_NOTIFICATION_TITLE_REGISTER_SUB: '                                         §f/reg [пароль]'
+AUTH_NOTIFICATION_TITLE_LOGIN: '                     §c[авторизация]'
+AUTH_NOTIFICATION_TITLE_LOGIN_SUB: '                                         §f/l [пароль]'
 REGISTER_TIME_EXPIRED: '\n\n§c[kickout]\n\n§6Время регистрации истекло, перезайдите'
 AUTH_TIME_EXPIRED: '\n\n§c[kickout]\n\n§6Время авторизации истекло, перезайдите'
 ALREADY_AUTHORIZED: §cВы уже авторизованы!
 FAIL_AUTH: §cОшибка, неверный пароль!
-SUCCESS_AUTH: §fАвторизация успешна! Приятной игры :)
+SUCCESS_AUTH: §fВы успешно вошли, приятной игры
 YOU_HAVE_JUST_LOGGED_OUT: §cВы вышли из своего аккаунта
 NOT_PREMIUM_ANYMORE: §6Лицензия §8| §fВход через лицензию отключен, надеюсь ты помнишь свой пароль, ибо он тебе пригодится
 YOU_ARE_NOW_PREMIUM: §6Лицензия §8| §fПоздравляем, теперь вход возможен только с §aлицензионного аккаунта!
