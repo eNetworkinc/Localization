@@ -3658,6 +3658,16 @@ ISLAND_BUY_UPGRADE_PRICE_LORE:
 - '§7Цена: §ax%s изумрудных блоков'
 - ''
 - '§e▶ Нажмите, чтобы купить'
+ISLAND_ACHIEVEMENT_NAME: 'Достижения' 
+5578 ISLAND_ACHIEVEMENT_LORE: 
+- '§7Список всех достижений' 
+- '§7на этом режиме' 
+- ' ' 
+- '§7Выполнено: §f%s§7/§c%s' 
+- ' ' 
+- ' §e▸ Нажмите, чтобы открыть список' 
+
+ISLAND_BUY_GENERATOR: '§6SkyBlock §8| §fИгрок %s §fулучшил генератор для вашего острова до §a%s §fуровня'
 ISLAND_UPGRADE_NETHER_NAME: 'Ад'
 ISLAND_UPGRADE_NETHER_LORE:
 -
