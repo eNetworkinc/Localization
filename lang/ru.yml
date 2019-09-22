@@ -3654,6 +3654,18 @@ ISLAND_MAX_UPGRADE: '§6SkyBlock §8| §cОшибка! У вас уже макс
 ISLAND_UPGRADE_BUY_ERROR: '§6SkyBlock §8| §fУ вас недостаточно §aизумрудных блоков§f для этой покупки (необходимо §7x%s§f)'
 ISLAND_BUY_UPGRADE_TERRITORY: '§6SkyBlock §8| §fИгрок %s §fкупил расширение территории острова'
 ISLAND_BUY_UPGRADE: '§6SkyBlock §8| §fИгрок %s §fкупил улучшение §a%s'
+ACHIEVEMENT_DONE: '§eВыполнено' 
+ACHIEVEMENT_NO_DONE: '§cНе выполнено' 
+ACHIEVEMENT_PERCENT: '§7Выполнено: §c%s' 
+ISLAND_ACHIEVEMENT_NAME: 'Достижения' 
+ISLAND_ACHIEVEMENT_LORE: 
+'§7Список всех достижений' 
+- '§7на этом режиме' 
+- ' ' 
+- '§7Выполнено: §f%s§7/§c%s' 
+- ' ' 
+- ' §e▸ Нажмите, чтобы открыть список' 
+ISLAND_ACHIEVEMENT_GUI_NAME: 'Настройки острова ▸ Достижения' 
 ISLAND_BUY_UPGRADE_PRICE_LORE:
 - '§7Цена: §ax%s изумрудных блоков'
 - ''
