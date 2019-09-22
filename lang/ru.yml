@@ -3659,7 +3659,7 @@ ACHIEVEMENT_NO_DONE: '§cНе выполнено'
 ACHIEVEMENT_PERCENT: '§7Выполнено: §c%s' 
 ISLAND_ACHIEVEMENT_NAME: 'Достижения' 
 ISLAND_ACHIEVEMENT_LORE: 
-'§7Список всех достижений' 
+- '§7Список всех достижений' 
 - '§7на этом режиме' 
 - ' ' 
 - '§7Выполнено: §f%s§7/§c%s' 
