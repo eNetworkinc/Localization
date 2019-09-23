@@ -3657,6 +3657,10 @@ ISLAND_BUY_UPGRADE: '§6SkyBlock §8| §fИгрок %s §fкупил улучш�
 ACHIEVEMENT_DONE: '§eВыполнено'
 ACHIEVEMENT_NO_DONE: '§cНе выполнено'
 ACHIEVEMENT_PERCENT: '§7Выполнено: §c%s'
+ISLAND_GENERATOR_GUI_LORE:
+- ''
+- 'gui'
+ISLAND_DEFAULT_GENERATOR_NAME: 'генератор'
 ISLAND_ACHIEVEMENT_NAME: 'Достижения'
 ISLAND_ACHIEVEMENT_LORE: 
 - ' '
