@@ -312,6 +312,7 @@ ERROR_COMMAND: '§cОшибка, пишите %s'
 ERROR_COMMAND_IN_GAME: '%s§cДанная команда не доступна во время игры'
 ERROR_COMMAND_IN_LOBBY: '§cДанная команда доступна только во время игры'
 ERROR_TO_LOBBY: '§cОшибка при телепортации в лобби'
+ERROR_TO_LICENSE: '§cОшибка при подключении лицензии'
 CHANNEL_NOT_FOUND: '§cКанал %s не найден'
 
 YOU_REWARD_MSG: 'Вы заработали'
@@ -1919,6 +1920,7 @@ REGISTER_TIME_EXPIRED: '\n\n§c[kickout]\n\n§6Время регистрации
 AUTH_TIME_EXPIRED: '\n\n§c[kickout]\n\n§6Время авторизации истекло, перезайдите'
 ALREADY_AUTHORIZED: §cВы уже авторизованы!
 FAIL_AUTH: §cОшибка, неверный пароль!
+
 SUCCESS_AUTH: §fВы успешно вошли, приятной игры
 YOU_HAVE_JUST_LOGGED_OUT: §cВы вышли из своего аккаунта
 NOT_PREMIUM_ANYMORE: §6Лицензия §8| §fВход через лицензию отключен, надеюсь ты помнишь свой пароль, ибо он тебе пригодится
