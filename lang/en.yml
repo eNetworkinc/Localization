@@ -4994,9 +4994,9 @@ BOX_BUY_MONEY: '§6Buy keys using souls'
 BOX_BUY_GOLD: '§eBuy keys using gold'
 BOX_NO_OPEN: '§cYou cant open this box at this minimode!'
 BOX_BUY_LORE_MAIN:
+- ''
 - '§7Buy for %s %s §8§l⇩'
 - ''
-- '§7Discount is §f%s'
 BOX_NO_BUY_LORE:
 - '§cYou cant buy this key using this'
 - '§cmethod =('
