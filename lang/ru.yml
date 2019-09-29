@@ -6741,7 +6741,7 @@ NONE: 'Без редкости'
 COMMON: 'Обычный'
 RARE: 'Редкий'
 EPIC: 'Эпический'
-ELITERY: 'Легендарный'
+LEGENDARY: 'Легендарный'
 
 ARCADE_LOBBY_BOARD_STATS: '§7[Общая статистика]'
 
