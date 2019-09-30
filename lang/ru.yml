@@ -345,7 +345,7 @@ SOULS_1:
 SOULS_2:
 - 'душ'
 - 'y'
-- 'ы'
+- 'и'
 - ''
 PLAYERS_1:
 - 'игрок'
@@ -1267,7 +1267,7 @@ GAMEMENU_SKYWARS_LORE:
 - '§71 шаг и вы летите вниз.'
 - ''
 GAMEMENU_SKYPVP_LORE:
-- '§8Битвы на островах'
+- '§8ПВП выживание'
 - ''
 - '§7Выживание среди алмазников.'
 - '§7Данный режим предназначен'
@@ -1955,10 +1955,12 @@ PLEASE_SETUP_EMAIL: §c⚠ Внимание! §fВы не привязали §c
 PLEASE_SETUP_EMAIL_HOVER:
 - '§fНажмите сюда,'
 - '§fчтобы добавить почту'
+NOT_HAVE_VK: '§6ВКонтакте §8|§f К вашему аккаунту не привязан профиль §9VK'
 INVALID_PASSWORD_LENGTH: §cВыбранный пароль короткий, либо слишком длинный
 PASSWORDS_MISMATCH: §cОшибка, указанные пароли не совпадают!
 PASSWORD_HAS_BEEN_CHANGED: §eВаш пароль был успешно изменен
 LOGIN_USAGE: /login <ваш пароль>
+CODE_USAGE: /code <код>
 REGISTER_USAGE: /reg <пароль> <повтор пароля>
 CHANGEPASS_FORMAT: '/changepass <старый пароль> <новый пароль>'
 SKIN_HAS_BEEN_RESET: §6Скин §8| §fВаш скин был сброшен
