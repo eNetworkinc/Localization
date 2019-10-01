@@ -37,6 +37,7 @@ HOLO_TOP_MONTHLY:
 - '§6§l%s'
 - '§fPlayer top (for victories)'
 - '§fFor §e%s'
+HE_IS_COMMING: ''
 
 JOIN_PLAYER_TO_LOBBY: '%s §6joined the lobby!'
 JOIN_DONATER_TO_LOBBY: '§e>§a>§b> %s §6joined the lobby! §b<§a<§e<'
@@ -465,7 +466,6 @@ GUI_HELP_ITEM_1_LORE:
 - '§e/hub §7or §e/lobby §7- Return to main lobby'
 - '§e/online §7- Online from all servers'
 - '§e/find <Nickname> §7- Find a player'
-- '§e/staff §7- Server staff online'
 GUI_HELP_ITEM_2_NAME: '§bPrivileges'
 GUI_HELP_ITEM_2_LORE:
 - '§7List of paid statuses:'
@@ -482,6 +482,8 @@ GUI_HELP_ITEM_2_LORE:
 - '§7Online §dwww.eternitygames.net'
 GUI_HELP_ITEM_3_NAME: '§bPlaying with friends'
 GUI_HELP_ITEM_3_LORE:
+- '§cThis function has been using for next update'
+- ''
 - '§7For a comfortable game with friends'
 - '§7use the commands below'
 - ''
@@ -503,24 +505,8 @@ GUI_HELP_ITEM_3_LORE:
 - '§7A regular player has a maximum of §c20§7 friends!'
 GUI_HELP_ITEM_4_NAME: '§bAccount Security'
 GUI_HELP_ITEM_4_LORE:
-- '§7After registration we recommend'
-- '§7to link your email to your account:'
-- '§e/email add <email> <confirm email>'
-- ''
-- '§7To change the password, use:'
-- '§e/changepassword <Old password> <New password>'
-- ''
-- '§7If you lose your password, type the command:'
-- '§e/email recovery <Email>'
-- '§7A new password will be sent to your mail'
-- ''
-- '§7Also we recommend to use Google Authenticator'
-- '§7to maximize your account security'
-- '§7Type §e/gauth §7and scan QR Code in your'
-- '§7Google Authenticator application.'
-- ''
-- '§7GAuth will ask you a code after'
-- '§7every login (except session login)'
+- '§7This function only for Russian users'
+- '§eSorry =)'
 GUI_HELP_ITEM_5_NAME: '§bSkin set'
 GUI_HELP_ITEM_5_LORE:
 - '§7We have a skin system'
@@ -550,6 +536,8 @@ GUI_HELP_ITEM_6_LORE:
 - '§7player, then disable it'
 - '§7By writing a command in chat: §e/ignore <player>'
 - ''
+- '§cThis function has been using for next update'
+- ''
 - '§e/ignorelist §7- List of all'
 - '§7blocked players'
 GUI_HELP_ITEM_7_NAME: '§bLinks'
@@ -573,6 +561,8 @@ GUI_HELP_ITEM_8_LORE:
 - '§e▸ View detailed information'
 GUI_HELP_ITEM_9_NAME: '§bCollective game'
 GUI_HELP_ITEM_9_LORE:
+- '§cThis function has been using for next update'
+- ''
 - '§7If you want to play with friends,'
 - '§7this option (§cparty§7) special for you.'
 - '§7When party leader go to some'
@@ -591,6 +581,8 @@ GUI_HELP_ITEM_9_LORE:
 - '§cmembers no more 10 people!'
 GUI_HELP_ITEM_10_NAME: '§bGuilds'
 GUI_HELP_ITEM_10_LORE:
+- '§cThis function has been using for next update'
+- ''
 - '§7Unite in group with other'
 - '§7players and play together.'
 - ''
@@ -940,6 +932,7 @@ KIT_DEFAULT_LORE:
 TPTOGGLE_ITEM_NAME: '§aTeleportation §f- §a%s'
 ENABLED: 'Enabled'
 DISABLED: 'Disbaled'
+SYSTEM_DISABLED_NAME: '§cFor next update'
 SYSTEM_DISABLED_LORE:
 - '§cThis feature is disabled'
 HOME_GUI_LORE:
