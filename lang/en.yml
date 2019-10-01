@@ -38,8 +38,8 @@ HOLO_TOP_MONTHLY:
 - '§fPlayer top (for victories)'
 - '§fFor §e%s'
 
-JOIN_PLAYER_LO_LOBBY: '%s §6joined the lobby!'
-JOIN_DONATER_LO_LOBBY: '§e>§a>§b> %s §6joined the lobby! §b<§a<§e<'
+JOIN_PLAYER_TO_LOBBY: '%s §6joined the lobby!'
+JOIN_DONATER_TO_LOBBY: '§e>§a>§b> %s §6joined the lobby! §b<§a<§e<'
 
 NO_FOUND_PLAYER: '§cPlayer %s§c was not found or they are offline'
 NO_NEVER_PLAYER: '§cError, player %s has never played at server'
