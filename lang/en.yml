@@ -52,7 +52,7 @@ PAGE_ARROW_LORE:
 - '§7Click to go'
 - '§7on %s page'
 
-KEY_BOX: '%sYou have %s %s'
+KEY_BOX: '%sAvailable %s %s'
 BOX_NAME: 'Mystery Portal'
 BOX_SUB_NAME: '§b§lRIGHT CLICK'
 BOX_NO_KEY: '§cYou do not have keys'
