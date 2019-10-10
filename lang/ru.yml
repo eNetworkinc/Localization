@@ -94,7 +94,7 @@ PAGE_ARROW_LORE:
 
 KEY_BOX: '%sУ вас %s %s'
 BOX_NAME: 'Магический портал'
-BOX_SUB_NAME: '§7Нажмите, чтобы открыть'
+BOX_SUB_NAME: '§b§lПРАВЫЙ КЛИК'
 BOX_NO_KEY: '§cУ вас нет сундуков'
 BOX_WORK: '§cПодождите... Портал открывается!'
 BOX_OPEN_YOU: '§fВы начали открывать сундук...'
