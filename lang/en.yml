@@ -53,7 +53,7 @@ PAGE_ARROW_LORE:
 - '§7on %s page'
 
 KEY_BOX: '%sAvailable %s %s'
-BOX_NAME: '§6Mystery Portal'
+BOX_NAME: '§aMystery Portal'
 BOX_SUB_NAME: '§e§lRIGHT CLICK'
 BOX_NO_KEY: '§cYou do not have keys'
 BOX_WORK: '§cWait... Someone is opening the chest!'
