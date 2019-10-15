@@ -4137,6 +4137,9 @@ YOU_CANT_SEE_ANOTHER_PLAYERS_STATS: '§cОшибка, просматривать
 MONTHLY_STATS_NAME: 'Статистика за месяц'
 ALL_TIME_STATS_NAME: 'Статистика за все время'
 
+EGGWARS_GENERATOR: 'Генератор %s'
+EGGWARS_GENERATOR_CLICK: '§7Нажмите, для прокачки'
+
 GAME_START_EGGWARS_LORE:
 - '§eВаша задача выжить на арене, получая преимущество'
 - '§eпри помощи улучшения генераторов. Вы возрождаетесь,'
@@ -8506,6 +8509,10 @@ DEAD_BUSH: 'Мертвый куст'
 FIREBALL: 'Огненный шар'
 IRON_BARDING: 'Железная броня'
 GOLD_BARDING: 'Золотая броня'
+GOLD_GENERATOR: 'золота'
+IRON_GENERATOR: 'железа'
+DIAMOND_GENERATOR: 'алмазов'
+EMERALD_GENERATOR: 'эмеральдов'
 DIAMOND_BARDING: 'Алмазная броня'
 LONG_GRASS: 'Растительность'
 RED_ROSE: 'Цветы'
