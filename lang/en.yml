@@ -4459,8 +4459,8 @@ AVAILABLE_SERVER_NOT_FOUND: '§6Server §8| §fNo available servers was found'
 LOBBY_SPECTATE_GUI_NAME: 'Spectate a game'
 LOBBY_CHANNEL_GUI_NAME: 'Select %s mode map'
 LOBBY_CHANNEL_MAP_LORE:
-- '§7Total arenas: §c%s'
-- '§7Empty arenas: §c%s'
+- '§7Arena Map: §c%s'
+- '§7Online: §c%s'
 LOBBY_CHANNEL_GUI_NO_SERVERS:
 - '§cError: no available'
 - '§cserver was found'

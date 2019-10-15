@@ -456,6 +456,7 @@ BOARD_GLOBAL_ONLINE: 'Онлайн проекта'
 BOARD_BUSTER: 'Активный бустер'
 BOARD_NO_BUSTER: '§c▻ §7Активных бустеров нет'
 BOARD_GROUP: 'Ваш ранг'
+BOARD_UPGRADES: 'Улучшений'
 BOARD_TOTAL_WINS: 'Всего побед'
 BOARD_TOTAL_GEN: 'Улучшено генераторов'
 BOARD_TOTAL_BED: 'Сломано кроватей'
@@ -1855,6 +1856,7 @@ SKYBLOCK_SHOP_OTHER: 'Магазин разного'
 SKYBLOCK_SHOP_LOOT: 'Магазин дропа'
 SKYBLOCK_SHOP_EXCHANGER: 'Магазин обменник'
 SKYBLOCK_SHOP_CUSTOM: 'Магазин редкостей'
+EGGWARS_SHOP_UPGRADE: '§aМагазин прокачки'
 PTIME_GUI_NAME: 'Смена времени'
 PTIME_ITEM_LORE:
 - ''
@@ -4134,6 +4136,12 @@ YOU_CANT_SEE_ANOTHER_PLAYERS_STATS: '§cОшибка, просматривать
 
 MONTHLY_STATS_NAME: 'Статистика за месяц'
 ALL_TIME_STATS_NAME: 'Статистика за все время'
+
+GAME_START_EGGWARS_LORE:
+- '§eВаша задача выжить на арене, получая преимущество'
+- '§eпри помощи улучшения генераторов. Вы возрождаетесь,'
+- '§eпока яйцо дракона не сломано. Защитите его!'
+
 INGAME_STATS_MESSAGES_TITLE:
 - ''
 - ' §cВНИМАНИЕ! §fБудет отображена статистика только'
@@ -4214,6 +4222,7 @@ GAME_TITLE_TEAM_WIN: '§7Ваша команда победила в этой и
 GAME_TITLE_SOLO_WIN: '§7Вы остались последним выжившим игроком'
 GAME_TITLE_OVER: '§c§lИГРА ОКОНЧЕНА'
 GAME_TITLE_NOT_WINNER: '§7Вы проиграли в этой игре'
+GAME_TITLE_EGG_DESTROY: '§aВаше яйцо уничтожено'
 HUB_HORSE_HOLO:
 - '§eПрокат ездовых животных'
 - 'Нажмите, чтобы взять лошадку'
