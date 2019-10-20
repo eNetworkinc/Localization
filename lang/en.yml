@@ -2513,16 +2513,19 @@ FORUM_ACCOUNT_NOT_LINKED: §c⚠ Warning! §fYou already register §cin forum§f
 DAILY_REWARD_KEY: '§eDaily rewards'
 WEEKLY_REWARD_KEY: '§eWeekly rewards'
 MONTHLY_REWARD_KEY: '§eMonthly rewards'
-REWARD_GUI_NAME: 'Reward'
-REWARD_CLICK_TO_CLAIM:
- - ' '
- - ' §e▸ Click, to claim reward'
+REWARD_GUI_NAME: 'The Delivery Doggy'
+DONATER_REWARD_LORE_KEY:
+- '§7Your free monthly §b%s §7(Total of §b%s§7)'
+- '§7Mystery Portals for %s have arriveed!'
+- ''
+- '§7Requires %s'
+CLICK_TO_CLAIM:
+ - '§cClick to loot!'
 REWARD_YOU_CAN_CLAIM_IN:
- - ' '
- - '§7Can be get in:'
- - '§e%s'
- - ' '
- - ' §c▸ Reward already claim'
+ - '§7You already picked up this'
+ - '§7delivery, come back later!'
+ - ''
+ - '§7Next Delivery: %s'
 REWARD_DONATE_ITEM: '§eOnline-purchase'
 REWARD_DONATE_ITEM_LORE:
  - ' '
@@ -2530,9 +2533,9 @@ REWARD_DONATE_ITEM_LORE:
  - '§7a souls or keys very'
  - '§7need, You can visit our'
  - '§7online-store and purchase it there'
- - '§dlast-craft.net'
+ - '§deternitygames.net'
 REWARD_HOLOGRAM:
- - '§aMr.Doggy'
+ - '§aDelivery Doggy'
  - '§e§lRIGHT CLICK'
 REWARDS_1:
  - 'reward'
@@ -2541,7 +2544,7 @@ REWARDS_1:
  - 's'
 AVAILABLE_1:
  - 'Available'
- - ''
+ - 's'
  - ''
  - ''
  
@@ -5566,4 +5569,15 @@ MONTHLY_REWARD_LORE_KEY:
 - '§8 • §fGame Keys §7(§d2§7-§d4§7)'
 - '§8 • §fGame (Costmetic) Keys §7(-§d1§7-§d2§7)'
 REWARD_YOU_GOT_REWARDS: '§fYou succesfuly got this rewards:'
+REWARD_CASES: '§cMystery Portal Delivery'
+REWARD_CASES_LORE:
+- ''
+- ''
+- ''
+- ''
+REWARD_CASES_LORE_CLAIMED:
+- '§7You  already picked up this'
+- '§7delivery, come back later!'
+- ''
+- '§7Next Delivery: %s'
 EXP_REWARD_LOCALE: ' §7+ §a%s §fexperience'
