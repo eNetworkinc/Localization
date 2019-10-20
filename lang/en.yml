@@ -1306,6 +1306,7 @@ SKYBLOCK_SHOP_FARMING: 'Store farming'
 SKYBLOCK_SHOP_RES: 'Store resources'
 SKYBLOCK_SHOP_OTHER: 'Store different things'
 SKYBLOCK_SHOP_LOOT: 'Store drops'
+EGGWARS_GENERATOR_RESPAWN: '§fSpawn in: §c'
 PTIME_GUI_NAME: 'Change of time'
 PTIME_ITEM_LORE:
 - ''
