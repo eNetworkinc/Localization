@@ -29,6 +29,9 @@ ANSWER_YES: 'Yes'
 ANSWER_NO: 'No'
 ABSENT: 'Absent'
 
+EGGWARS_GENERATOR: 'Generator %s'
+EGGWARS_GENERATOR_CLICK: '§7Click, to upgrade'
+
 HOLO_TOP_ALL:
 - '§6§l%s'
 - '§fPlayer top (for victories)'
