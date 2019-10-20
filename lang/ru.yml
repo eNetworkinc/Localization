@@ -3115,6 +3115,7 @@ REWARD_GUI_NAME: 'Деливери Догги'
 CLICK_TO_CLAIM:
 - ''
 - ' §e▸ Нажмите, чтобы получить!'
+REWARD_LOOTED: '§cВы уже получили эту посылку! Возвращайтесь через %s!'
 REWARD_CASES: '§cMystery Portal деливери'
 DONATER_REWARD_LORE_KEY:
 - '§7Доставлено §b%s §7бесплатных эжемесячных'

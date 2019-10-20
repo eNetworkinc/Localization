@@ -2515,6 +2515,7 @@ WEEKLY_REWARD_KEY: '§eWeekly rewards'
 MONTHLY_REWARD_KEY: '§eMonthly rewards'
 REWARD_GUI_NAME: 'The Delivery Doggy'
 REWARD_CASES: '§cMystery Portal Delivery'
+REWARD_LOOTED: '§cYou have already looted this delivery! Check back in %s!'
 DONATER_REWARD_LORE_KEY:
 - '§7Your free monthly §b%s §7(Total of §b%s§7)'
 - '§7Mystery Portals for %s have arriveed!'
