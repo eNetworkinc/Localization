@@ -5039,7 +5039,7 @@ MONEY_KEY_LORE:
 - '§7Use this box to find'
 - '§6SOULS §7and §bEXP'
 - ''
-GROUP_KEY: '%sDonation Box'
+GROUP_KEY: '§eDonation Box'
 GROUP_KEY_LORE:
 - ''
 - '§7Use this key to find'
