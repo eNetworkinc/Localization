@@ -5564,7 +5564,7 @@ MONTHLY_REWARD_LORE_KEY:
 - '§8 • §fCosmtic Keys §7(§d4§7-§d6§7)'
 - '§8 • §fGame Keys §7(§d2§7-§d4§7)'
 - '§8 • §fGame (Costmetic) Keys §7(-§d1§7-§d2§7)'
-REWARD_YOU_GOT_REWARDS: '§fYou succesfuly got this rewards:'
+REWARD_YOU_GOT_REWARDS: '§aYou have successfully claimed:'
 REWARD_CASES_LORE_CLAIMED:
 - '§7You  already picked up this'
 - '§7delivery, come back later!'
