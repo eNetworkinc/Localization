@@ -4968,7 +4968,7 @@ TEAM_LOSE: '§f%s §fhad fail! (this team not contains any player more)'
 LEVEL_REWARD_NAME: 'Eternity Level Reward %s'
 LEVEL_REWARD_LORE1:
 - ' '
-- '§7You can`t claim this yet!'
+- '§cYou can`t claim this yet!'
 LEVEL_REWARD_LORE2:
 - ' '
 - '§aYou have already claimed this reward!'
