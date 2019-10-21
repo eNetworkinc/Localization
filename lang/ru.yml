@@ -1488,6 +1488,8 @@ DONATE_MENU_PREFIX_LORE:
 PREFIX_CHANGE_LORE:
 - '§7Сменить префикс на: %s'
 - ''
+- '§7Пример: %s'
+- ''
 - '§e▸ Щелкните, чтобы установить префикс'
 PREFIX_CHANGE_LORE2:
 - ''

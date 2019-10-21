@@ -922,6 +922,8 @@ DONATE_MENU_PREFIX_LORE:
 PREFIX_CHANGE_LORE:
 - '§7Change the prefix to: %s'
 - ''
+- '§7Example: %s'
+- ''
 - '§e▸ Tap to set the prefix'
 PREFIX_CHANGE_LORE2:
 - ''
