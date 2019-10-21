@@ -371,6 +371,8 @@ BOARD_RANK_YOU: 'Your rank'
 
 REGION_NOT_FOUND: 'Not found'
 
+SITE_LINK: '§eRanks, Boxes for Mystery Portals, §dSouls §eand§b Cristals§e: §chttps://eternitygames.net'
+
 PROFILE_MAIN_GUI_NAME: 'My Profile'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bPersonal Information'
 PROFILE_MAIN_ITEM_PLAYER_LORE:

@@ -474,6 +474,8 @@ BOARD_RANK_YOU: 'Ваш ранг'
 
 REGION_NOT_FOUND: 'Не найден'
 
+SITE_LINK: '§eПривилегии, Сундучки для Mystery Portal`а, §dДуши §eи§b Кристалики§e: §chttps://eternitygames.net'
+
 PROFILE_MAIN_GUI_NAME: 'Мой Профиль'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bВаша персональная информация'
 PROFILE_MAIN_ITEM_PLAYER_LORE:
