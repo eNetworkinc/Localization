@@ -4965,17 +4965,21 @@ GAME_SHOP_GUI_ITEMS_BUY: '§e▸ LMB to buy'
 GAME_REJOIN: '§fYou have rejoined to your previous game'
 TEAM_LOSE: '§f%s §fhad fail! (this team not contains any player more)'
 
-LEVEL_REWARD_NAME: 'Reward while reaching level %s'
+LEVEL_REWARD_NAME: 'Eternity Level Reward %s'
 LEVEL_REWARD_LORE1:
-- '§7When you reach level §f%s §7, you recieve:'
+- ' '
+- '§7You can`t claim this yet!'
 LEVEL_REWARD_LORE2:
 - ' '
-- '§e▸ Claim reward'
+- '§aYou have already claimed this reward!'
+LEVEL_REWARD_LORE3:
+- ' '
+- '§eClick to claim!'
 LEVELING_LOAD_NAME: '§aInformation loading, wait'
 LEVELING_LOAD_LORE:
 - '§7Info about your level is loading, wait'
-LEVEL_NO_LEVEL: '§cYour level is still smaller then required for claiming!'
-LEVEL_ALLREADY_GIVE: '§cYou already claimed this reward!'
+LEVEL_NO_LEVEL: '§cYou can`t claim that reward!'
+LEVEL_ALLREADY_GIVE: '§cYou`ve already claimed that reward!'
 LEVEL_NO_OTHER_REWARD: '§cClaim all previous rewards to claim this!'
 LEVEL_REWARD_COSMETIC:  '§8+ %s §7game cosmetics'
 LEVEL_REWARD_GADGET: '§8+ %s §7gadget'
