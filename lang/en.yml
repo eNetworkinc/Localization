@@ -386,6 +386,8 @@ PROFILE_MAIN_ITEM_PLAYER_LORE:
 - ''
 - '§7Friends: §a%s§7/§f%s'
 - '§7Skin: §f%s'
+- ''
+- '§eClick to see the Eternity Store link.'
 PROFILE_MAIN_ITEM_LEVEL_NAME: 'Leveling'
 PROFILE_MAIN_ITEM_LEVEL_LORE:
 - '§7While playing on the server you get'

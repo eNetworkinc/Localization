@@ -491,6 +491,8 @@ PROFILE_MAIN_ITEM_PLAYER_LORE:
 - '§7Скин: §f%s'
 - ''
 - '§cСкоро будет больше информации'
+- ''
+- '§eЩелкните, чтобы посмотреть ссылку на магазин Eternity'
 
 PROFILE_MAIN_ITEM_LEVEL_NAME: 'Уровень'
 PROFILE_MAIN_ITEM_LEVEL_LORE:
