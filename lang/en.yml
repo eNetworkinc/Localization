@@ -418,11 +418,15 @@ PROFILE_MAIN_ITEM_DONATE_LORE:
 - ''
 - '§e▸ Open the donation menu'
 
-PROFILE_MAIN_ITEM_LANG_NAME: 'Switch language'
-
+PROFILE_MAIN_ITEM_LANG_NAME: 'Select Language'
+PROFILE_MAIN_ITEM_LANG_LORE1:
+- '§7Change your language.'
+- ''
+- ''
+- '§7Currently available:'
 PROFILE_MAIN_ITEM_LANG_LORE2:
 - ''
-- '§cTranslation and languages will be supplemented!'
+- '§7More language coming soon!'
 - ''
 - '§e▸ Open the language menu'
 PROFILE_MAIN_ITEM_SETTINGS_NAME: 'Settings'
