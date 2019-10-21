@@ -472,7 +472,7 @@ PROFILE_DONATE_MENU_LORE:
 - ''
 - '§e▸ Open the donate menu'
 PROFILE_LANG_ITEM_LORE1: '§7Change language to %s'
-PROFILE_LANG_ITEM_LORE2: '§e▸ Click to change language'
+PROFILE_LANG_ITEM_LORE2: '§e▸ Tap to change language'
 PROFILE_LANG_ITEM_LORE3: '§aSelected'
 PROFILE_LANG_ITEM_BOOK_NAME: '§aHelp us Translate Eternity'
 PROFILE_LANG_ITEM_BOOK_LORE:
@@ -876,7 +876,7 @@ CHANNEL_BEST_SERVER_LORE:
 - '§7 Online: §a%s§7/§c%s'
 - '§7 Map: §e%s'
 - ''
-- '§e▸ Click to connect to %s'
+- '§e▸ Tap to connect to %s'
 CHANNEL_MAP_LORE1: '§7Total servers: §c%s'
 CHANNEL_MAP_LORE2: '§7Free servers: §c%s'
 
@@ -922,11 +922,17 @@ DONATE_MENU_PREFIX_LORE:
 PREFIX_CHANGE_LORE:
 - '§7Change the prefix to: %s'
 - ''
-- '§e▸ Click to set the prefix'
+- '§e▸ Tap to set the prefix'
 PREFIX_CHANGE_LORE2:
 - ''
 - '§aPrefix selected'
-
+DONATE_MENU_GLOWING_NAME: 'Glowing in Lobby'
+DONATE_MENU_GLOWING_LORE:
+- '§7Change your Glowing Color'
+- '§7'
+- '§7Available for §e§lGOLD §7or higher!'
+- ''
+- '§e▸ Tap to open menu'
 FAVORITE_LORE_ADD: '§aRight click to add to Favorites'
 FAVORITE_LORE_REMOVE: '§cRight click to remove from Favorites'
 FAVORITE_CLEAR: '§cClear favorites'
@@ -976,14 +982,14 @@ HOME_GUI_LORE:
 - ''
 - '§7At the moment you have §a%s §7%s'
 - ''
-- '§e▸ Click to open menu'
+- '§e▸ Tap to open menu'
 KIT_GUI_LORE:
 - ''
 - '§7Get list of all'
 - '§7available kits and'
 - '§7select available ones'
 - ''
-- '§e▸ Click to open menu'
+- '§e▸ Tap to open menu'
 WARP_GUI_LORE:
 - ''
 - '§7Manage your'
@@ -1002,7 +1008,7 @@ CALL_GUI_LORE:
 - ''
 - '§7Waiting answer §a%s §7%s'
 - ''
-- '§e▸ Click to open menu'
+- '§e▸ Tap to open menu'
 CREATE_WARP_FORMAT: '/createwarp <name>'
 DEL_WARP_FORMAT: '/delwarp <name>'
 WARP_TO: 'You were telepoted to warp §a%s'
@@ -1063,13 +1069,13 @@ MYWARP_ITEM_CHANGER_LORE:
 - ''
 - '§7View personal warp list'
 - ''
-- '§e▸ Click to switch'
+- '§e▸ Tap to switch'
 WARP_ITEM_CHANGER_NAME: 'Public warps'
 WARP_ITEM_CHANGER_LORE:
 - ''
 - '§7View public warp list'
 - ''
-- '§e▸ Click to switch'
+- '§e▸ Tap to switch'
 CALL_ITEM_HEAD_LORE:
 - ''
 - '§7Request will be deleted'
@@ -1087,7 +1093,7 @@ NO_PERMS_KIT:
 - '§cpurchase %s§c or higher'
 KIT_LORE_ENABLE:
 - ''
-- '§e▸ Click, to select a kit'
+- '§e▸ Tap, to select a kit'
 KIT_LORE_DISABLE:
 - ''
 - '§cKit will be available in'
@@ -1109,7 +1115,7 @@ HOME_LORE:
 - ' §7Y: §c%s'
 - ' §7Z: §c%s'
 - ''
-- '§e▸ Click to teleport'
+- '§e▸ Tap to teleport'
 HOMES_1:
 - 'house'
 - 'а'
@@ -1150,7 +1156,7 @@ WARP_ITEM_LORE:
 - ' §7Y: §c%s'
 - ' §7Z: §c%s'
 - ''
-- '§e▸ Click, to teleport'
+- '§e▸ Tap, to teleport'
 MYWARP_ITEM_LORE_PRIVATE:
 - ''
 - '§7At the moment this warp'
@@ -1158,14 +1164,14 @@ MYWARP_ITEM_LORE_PRIVATE:
 - '§7in general list warps and available'
 - '§7only for friends (/f list)'
 - ''
-- '§e▸ Click, to open the warp'
+- '§e▸ Tap, to open the warp'
 MYWARP_ITEM_LORE_PUBLIC:
 - ''
 - '§7At the moment this warp'
 - '§7is public. Its available'
 - '§7for everyone'
 - ''
-- '§e▸ Click, to close warp'
+- '§e▸ Tap, to close warp'
 WARP_ITEM_EMPTY_NAME: '§cOn the server no active warps'
 WARP_ITEM_EMPTY_LORE: 
 - '§7At the moment on server'
@@ -1345,7 +1351,7 @@ PTIME_ITEM_LORE:
 - ''
 - '§7Only for %s §7and higher'
 - ''
-- '§e▸ Click, to open menu'
+- '§e▸ Tap, to open menu'
 PTIME_ERROR: '§cError, you must enter a number'
 PTIME: 'Time set on §a%s'
 PTIME_RESET: 'Time and weather reset'
@@ -1357,7 +1363,7 @@ PTIME_ITEM_WEATHER_LORE:
 - ''
 - '§7Only for %s §7and higher'
 - ''
-- '§e▸ Click, to change'
+- '§e▸ Tap, to change'
 NAME_IS_INVALID: '§cthere are illegal characters in nickname. Allowed use only numbers and english characters!'
 RAINY: rainy
 SUNNY: sunny
@@ -1368,7 +1374,7 @@ PTIME_ITEM_RESET_LORE:
 - '§7Return player server'
 - '§7time and weather'
 - ''
-- '§e▸ Click, to change'
+- '§e▸ Tap, to change'
 PTIME_ITEM_WATCH_NAME: '§aChange the time'
 PTIME_ITEM_WATCH_LORE:
 - ''
@@ -1377,7 +1383,7 @@ PTIME_ITEM_WATCH_LORE:
 - ''
 - '§7Only for %s §7and higher'
 - ''
-- '§e▸ Click, to change'
+- '§e▸ Tap, to change'
 DAY: day
 NIGHT: night
 MORNING: morning
@@ -1673,7 +1679,7 @@ GUI_ANOTHER_LOBBY_FRIENDS:
 - '§7Online: §a%s'
 - ''
 - '§7Friends in lobby:'
-- ' §e▸ Click here to connect'
+- ' §e▸ Tap here to connect'
 GUI_LOBBY_FRIEND_MAX: '§7and  others...'
 GROUP_SET_FORMAT: '/group set <player name> <rank>'
 GROUP_INVALID: '§cYou entered invalid group. Available ranks: §fDEFAULT, GOLD, NINJA, HERO, SUPERSTAR, ELITE'
@@ -1863,13 +1869,13 @@ AUCTION_MYGUI_ITEM_LORE:
 - '§7Open list with my goods,'
 - '§7which put up for auction'
 - ''
-- '§e▸ Click, to open list'
+- '§e▸ Tap, to open list'
 AUCTION_CATEGORY_LORE:
 - ''
 - '§7At the moment you enable'
 - '§7display items- §f%s'
 - ''
-- '§e▸ Click, to change category'
+- '§e▸ Tap, to change category'
 AUCTION_NO_ITEMS_LORE:
 - ''
 - '§7Seems i nothing found'
@@ -1888,7 +1894,7 @@ AUCTION_SUB_TYPE_LORE:
 - '§7Sort all all items'
 - '§7by this type'
 - ''
-- '§e▸ Click, to select this type'
+- '§e▸ Tap, to select this type'
 AUCTION_COMMAND_HELP:
 - '§7/ah §f- open auction'
 - '§7/ah sell <price> [amount] §f- expose items in hand on sale'
@@ -1946,12 +1952,12 @@ SHOP_LORE_SELL_ALL:
 - '§7After sales all items'
 - '§7you will receive §c%s'
 - ''
-- '§e▸ Click, to sell'
+- '§e▸ Tap, to sell'
 SHOP_LORE_CHANGED:
 - ''
 - '§7Change amount items'
 - ''
-- '§e▸ Click, to change'
+- '§e▸ Tap, to change'
 CANCEL_NAME: '§cCancel'
 CONFIRMED_NAME: 'Confirm'
 SHOP_FORMAT: '/shop <shop name>'
@@ -2165,7 +2171,7 @@ GUILD_RANK_LORE:
  - '§7Rank permissions:'
 GUILD_RANK_LORE_CLICK:
  - ' '
- - '§e▸ Click to manage'
+ - '§e▸ Tap to manage'
 
 GUILD_RANK_NAME: '§eRank %s'
 GUILD_RANKS_EDIT_NAME: 'Ranks ‣ %s'
@@ -2180,7 +2186,7 @@ RANK_RENAME_ICON_LORE:
  - '§7Current rank name:'
  - '§a%s'
  - ' '
- - '§e▸ Click, to rename'
+ - '§e▸ Tap, to rename'
 RANK_REDESIGN_ICON_NAME: '§eDisplay rank name'
 RANK_REDESIGN_ICON_LORE:
  - ' '
@@ -2191,7 +2197,7 @@ RANK_REDESIGN_ICON_LORE:
  - '§7Current display name:'
  - '§a%s'
  - ' '
- - '§e▸ Click, to rename'
+ - '§e▸ Tap, to rename'
 RANK_DELETE_ICON_NAME: '§cDelete rank'
 RANK_DELETE_ICON_LORE:
  - ' '
@@ -2201,7 +2207,7 @@ RANK_DELETE_ICON_LORE:
  - '§7in group default (member)'
  - ' '
 YOU_CANT_DELETE_RANK: '§c▸ Delete standart rank cannot'
-CLICK_TO_DELETE_RANK: '§e▸ Click, to delete rank'
+CLICK_TO_DELETE_RANK: '§e▸ Tap, to delete rank'
 RANK_PRIORITY_ICON_NAME: '§aRank Priority'
 RANK_PRIORITY_ICON_LORE:
  - ' '
@@ -2219,8 +2225,8 @@ YOU_CANT_CHANGE_PRIORITY:
 CLICK_TO_CHANGE_PRIORITY:
  - '§e▸ LMB, to ⤴ priority on 1 u.'
  - '§e▸ RMB, to ⤵ priority on 1 u.'
-PERM_CLICK_TO_REMOVE: '§e▸ Click, to disable'
-PERM_CLICK_TO_ADD: '§e▸ Click, to allow'
+PERM_CLICK_TO_REMOVE: '§e▸ Tap, to disable'
+PERM_CLICK_TO_ADD: '§e▸ Tap, to allow'
 PERM_YOU_CANT: '§c▸ Cannot change permissions this rank'
 YOU_CANT_REMOVE_THIS_RANK: '§cError, you cannot remove standart ranks in guild'
 GUILD_TYPE_TO_REDESIGN: '§6Guild §8| §fWrite in chat new display rank name. It long must not be longer then 32 characters. Allow use colors' 
@@ -2454,7 +2460,7 @@ GUILD_SHOP_LIMIT_LEVEL_LORE:
 - ' '
 GUILD_SHOP_LIMIT_LEVEL: '§eBank upgrade %s'
 GUILD_SHOP_CLICK_TO_PURCHASE:
-- ' §e▸ Click to purchase' 
+- ' §e▸ Tap to purchase' 
 LIMIT_PURCHASE_MESSAGES:
 - '§6Guild §8| §fYou purchase §ebank upgrade %s'
 MEMBER_PURCHASE_MESSAGES:
@@ -2774,7 +2780,7 @@ ISLAND_MEMBER_LORE:
 - '§7Rank: §7%s'
 - '§7On player island: %s'
 - ''
-- '§e▸ Click, to manage player'
+- '§e▸ Tap, to manage player'
 ISLAND_MEMBER_OFFLINE: '§coffline'
 ISLAND_MEMBER_SETTINGS_OWNER: '§6SkyBlock §8| §cError, you cannot customize permissions island owner!'
 ISLAND_REQUESTS_ERROR: '§6SkyBlock §8| §cError, you already have island, you need not invites'
@@ -3065,7 +3071,7 @@ CATEGORY_PERK_CHOOSE_LORE:
 - '§7Opened: §a%s%% §8(§e%s§f/§e%s§8)'
 - '%s'
 - ' '
-- '§e▸ Click to open'
+- '§e▸ Tap to open'
 CATEGORY_KIT_NAME: 'Kits'
 CATEGORY_KIT_CHOOSE_NAME: 'Kit selection'
 CATEGORY_KIT_CHOOSE_LORE:
@@ -3077,14 +3083,14 @@ CATEGORY_KIT_CHOOSE_LORE:
 - '§7Opened: §a%s%% §8(§e%s§f/§e%s§8)'
 - '%s'
 - ' '
-- '§e▸ Click to open'
+- '§e▸ Tap to open'
 ITEM_CATEGORY_GUI_NAME: 'Items'
 ITEM_CLICK_TO_SELECT: 
 - ' '
-- '§e▸ Click to select item'
+- '§e▸ Tap to select item'
 ITEM_CLICK_TO_UNSELECT: 
 - ' '
-- '§e▸ Click to unselect item'
+- '§e▸ Tap to unselect item'
 ITEM_CANT_SELECT:
 - ' '
 - '§cYou cannot select this item'
@@ -3093,13 +3099,13 @@ ITEM_CLICK_TO_PURCHASE:
  - ' '
  - '%s'
  - ' '
- - '§e▸ Click to purchase item'
+ - '§e▸ Tap to purchase item'
 ITEM_CLICK_TO_PURCHASE_WITH_DISCOUNT: 
  - ' '
  - '%s'
  - ' '
  - '§fYour discount is %s%%'
- - '§e▸ Click to purchase item'
+ - '§e▸ Tap to purchase item'
 ITEM_CANT_PURCHASE:
  - ' '
  - '§cYou cannot purchase this item'
@@ -3131,7 +3137,7 @@ TEAM_SELECTOR_ALREADYIN:
  - '§c▸ You already in this team'
 TEAM_SELECTOR_SELECT:
  - ' '
- - '§e▸ Click, to select'
+ - '§e▸ Tap, to select'
 TEAM_SELECTOR_FULL:
  - ' '
  - '§c▸ Team is full'
@@ -3174,7 +3180,7 @@ SPEC_SPEED_ALREADY:
  - '§c▸ You had already selected this speed'
 SPEC_SPEED_CLICK:
  - ' '
- - '§e▸ Click to change speed'
+ - '§e▸ Tap to change speed'
 SPECTATOR_SETTINGS_CHANGED: '§6Spectating §8| §fMove speed was changed'
 
 SPECTATOR_SETTINGS_NOSPEED_NAME: '§cNo speed'
@@ -3185,18 +3191,18 @@ SPECTATOR_SETTINGS_NO_FLY_NAME: '§aEnable permanent fly'
 SPECTATOR_SETTINGS_FLY_NAME: '§cDisable permanent fly'
 SPECTATOR_SETTINGS_NO_FLY_LORE:
  - ' '
- - '§e▸ Click, to enable'
+ - '§e▸ Tap, to enable'
 SPECTATOR_SETTINGS_FLY_LORE:
  - ' '
- - '§e▸ Click, to disable'
+ - '§e▸ Tap, to disable'
 SPECTATOR_SETTINGS_VISION_NAME: '§cDisable night vision'
 SPECTATOR_SETTINGS_NO_VISION_NAME: '§aEnable night vision'
 SPECTATOR_SETTINGS_VISION_LORE:
  - ' '
- - '§e▸ Click, to disable'
+ - '§e▸ Tap, to disable'
 SPECTATOR_SETTINGS_NO_VISION_LORE:
  - ' '
- - '§e▸ Click, to enable'
+ - '§e▸ Tap, to enable'
 SPECTATOR_SETTINGS_HIDE_NAME: '§cHide spectators'
 SPECTATOR_SETTINGS_SHOW_NAME: '§aShow spectators'
 SPECTATOR_SETTINGS_VISION_ON: '§6Spectating §8| §fNight vision enabled'
@@ -3208,7 +3214,7 @@ SPECTATOR_SETTINGS_SHOW_LORE:
  - '§7this settings you can again'
  - '§7see them'
  - ' '
- - '§e▸ Click to show'
+ - '§e▸ Tap to show'
 SPECTATOR_SETTINGS_HIDE_LORE:
  - ' '
  - '§7Now you see others'
@@ -3216,7 +3222,7 @@ SPECTATOR_SETTINGS_HIDE_LORE:
  - '§7this settings they are hide'
  - '§7for you.'
  - ' '
- - '§e▸ Click to hide'
+ - '§e▸ Tap to hide'
 SPECTATOR_SETTINGS_HIDING: '§6Spectating §8| §fNow you cannot see other spectators'
 SPECTATOR_SETTINGS_SHOWN: '§6Spectating §8| §fYou can see another spectators again'
 KIT_SG_ARCHER: 'Archer'
@@ -3381,13 +3387,13 @@ SURVIVALGAMES_SOLO_TYPE_LORE:
  - '§7Solo survival games'
  - '§7mode'
  - ' '
- - '§e▸ Click, to open'
+ - '§e▸ Tap, to open'
 SURVIVALGAMES_DUO_TYPE_LORE:
  - ' '
  - '§7Double survival games'
  - '§7mode'
  - ' '
- - '§e▸ Click, to open'
+ - '§e▸ Tap, to open'
 SG_GAME_DESC:
  - 'Fight with others for the right to be best'
  - 'In this you help items from chests, and'
@@ -3692,7 +3698,7 @@ ISLAND_ACHIEVEMENT_LORE:
 - ' '
 - '§7Completed: §f%s§7/§c%s'
 - ' '
-- ' §e▸ Click, to open list'
+- ' §e▸ Tap, to open list'
 ISLAND_ACHIEVEMENT_GUI_NAME: 'Island settings ▸ achievements'
 ACHIEVEMENT_COMPLETE: '§a§l§kX§r §6§lACHIEVEMENT COMPLETED §a§l§kX§r'
 INVENTORY_IS_FULL: '§cError, your inventory is full'
@@ -3804,15 +3810,15 @@ ISLAND_ACHIEVEMENT_PIG_LORE:
 - '§8 • §7Pigs §fх2'
 SKYWARS_SOLO_TYPE_SHOP_LORE:
 - ' '
-- '§e▸ Click, to open store for'
+- '§e▸ Tap, to open store for'
 - ' §esolo mode'
 SKYWARS_DUO_TYPE_SHOP_LORE:
 - ' '
-- '§e▸ Click, to open store for'
+- '§e▸ Tap, to open store for'
 - ' §edouble mode'
 SKYWARS_TEAM_TYPE_SHOP_LORE:
 - ' '
-- '§e▸ Click, to open store for'
+- '§e▸ Tap, to open store for'
 - ' §eteam mode'
 SW_YOUR_TEAMMATE_IS_DEAD: '§cYour teammate (%s§c) has died'
 SW_YOUR_TEAMMATE_IS_AT_LOW_HP: '§cYour teammate %s has a §cvery little health!'
@@ -3842,7 +3848,7 @@ SITE_SHOP_ITEM_LORE_2:
 - '§cATTENTION! You must have %s'
 - '§cfree slot(s) in your inventory'
 - ' '
-- '§e▸ Click, to get'
+- '§e▸ Tap, to get'
 COMMON: 'Common'
 RARE: 'Rare'
 EPIC: 'Epic'
@@ -4207,44 +4213,44 @@ BW_BLOCK_SHOP_LORE:
 - '§7Byuing blocks, chests'
 - '§7cobweb and other stuff'
 - ''
-- '§e▸ Click to open the menu'
+- '§e▸ Tap to open the menu'
 BW_ARMOR_SHOP: 'Armor'
 BW_ARMOR_SHOP_LORE:
 - ''
 - '§7Byuing armor'
 - ''
-- '§e▸ Click to open the menu'
+- '§e▸ Tap to open the menu'
 BW_TOOL_SHOP: 'Instruments'
 BW_TOOL_SHOP_LORE:
 - ''
 - '§7Byuing pickaxes, axes and other'
 - ''
-- '§e▸ Click to open the menu'
+- '§e▸ Tap to open the menu'
 BW_BOW_SHOP: 'Bows'
 BW_BOW_SHOP_LORE:
 - ''
 - '§7Byuing bow and arrows'
 - ''
-- '§e▸ Click to open the menu'
+- '§e▸ Tap to open the menu'
 BW_SWORD_SHOP: 'Weapon'
 BW_SWORD_SHOP_LORE:
 - ''
 - '§7Buying weapon for protection'
 - '§7of your bed'
 - ''
-- '§e▸ Click to open the menu'
+- '§e▸ Tap to open the menu'
 BW_POTION_SHOP: 'Potions'
 BW_POTION_SHOP_LORE:
 - ''
 - '§7Byuing potions and other magical stuff'
 - ''
-- '§e▸ Click to open the menu'
+- '§e▸ Tap to open the menu'
 BW_OTHER_SHOP: 'Other'
 BW_OTHER_SHOP_LORE:
 - ''
 - '§7Byuing of coolest stuff is exactly here!'
 - ''
-- '§e▸ Click to open the menu'
+- '§e▸ Tap to open the menu'
 
 SANDSTONE: 'Sandstone'
 WEB: 'Cobweb'
@@ -4409,7 +4415,7 @@ ITEM_MODES_AVAILABLE:
 
 CATEGORY_CLICK_TO_VIEW_ITEMS:
 - ' '
-- '§e▸ Click to open'
+- '§e▸ Tap to open'
 
 ITEMS_SHOP_GUI_TITLE: 'Items shop'
 
@@ -4487,7 +4493,7 @@ LOBBY_SERVER_SPECTATE_LORE:
 - '§7Map: §b%s'
 - '§7Players: §a%s§7/§c%s'
 - ''
-- '§e§e▸ Click to spectate a game'
+- '§e§e▸ Tap to spectate a game'
 AVAILABLE_SERVER_NOT_FOUND: '§6Server §8| §fNo available servers was found'
 LOBBY_SPECTATE_GUI_NAME: 'Spectate a game'
 LOBBY_CHANNEL_GUI_NAME: 'Select %s mode map'
@@ -4502,7 +4508,7 @@ LOBBY_CHANNEL_BEST_SERVER_LORE:
 - '§7Connect to most optimal'
 - '§7server to play'
 - ''
-- '§e§e▸ Click to find a server'
+- '§e§e▸ Tap to find a server'
 LOBBY_DISABLED_MESSAGE_TO_CHAT: '§cError: you have disabled chat, you can not use it!'
 FAST_MESSAGE_GO: 'Go'
 FAST_MESSAGE_SLEEP: 'Sleeping'
@@ -4535,7 +4541,13 @@ FAST_MESSAGE_GIVE_RESOURCES: 'Give res'
 FAST_MESSAGE_LORE1: '§7Message: §a%s'
 FAST_MESSAGE_LORE2:
 - ''
-- '§e▸ Click to send message'
+- '§e▸ Tap to send message'
+PROFILE_MAIN_ITEM_DONATE_MENU_NAME: 'Donaters Menu'
+PROFILE_MAIN_ITEM_DONATE_MENU_LORE:
+- '§7Additional features'
+- '§7for donators'
+- ''
+- '§e▸ Tap to open menu'
 PROFILE_MAIN_ITEM_COSMETIC_NAME: 'Effects shop'
 PROFILE_MAIN_ITEM_COSMETIC_LORE:
 - '§7Buy and activate different cosmetical improvements:'
@@ -4553,7 +4565,7 @@ DONATE_MENU_JOIN_MESSAGE_LORE:
 - ''
 - '§7Availiable for §e§lGOLD §7or higher!'
 - ''
-- '§e▸ Click to open menu'
+- '§e▸ Tap to open menu'
 JOIN_MESSAGE_NAME: 'Message %s'
 JOIN_MESSAGE_LORE:
 - '§7Custom public message when'
@@ -4562,7 +4574,7 @@ JOIN_MESSAGE_LORE:
 - '§7Notification for players:'
 - '%s'
 JOIN_MESSAGE_LORE_SELECT: '§aMessage selected'
-JOIN_MESSAGE_LORE_NOT_SELECT: '§e▸ Click to select'
+JOIN_MESSAGE_LORE_NOT_SELECT: '§e▸ Tap to select'
 JOIN_MESSAGE_LORE_NOT_AVAILABLE: '§cThis message is not available for you'
 LIMBO_NO_CHAT: '§6Сервер §8| §fSorry, you can not use §achat§f. To back to main lobby use §7/hub §for §7/lobby'
 LIMBO_ITEM_NAME: 'Back to main lobby'
@@ -4608,7 +4620,7 @@ GADGET_SETTINGS_GUI_LORE:
 - '§7Personal settings for customization'
 - '§7of gadgets for every player'
 - ''
-- '§e▸ Click to open menu'
+- '§e▸ Tap to open menu'
 GADGET_DELETED_GUI_NAME: 'Disable gadgets'
 GADGET_DELETED_NOT_FOUND: 'No gadget activated'
 GADGET_DELETED_ALL: 'Disable all gadgets'
@@ -4616,7 +4628,7 @@ GADGET_DELETED_GUI_LORE:
 - ''
 - '§7List of activated gagdets'
 - ''
-- '§e▸ Click to open menu'
+- '§e▸ Tap to open menu'
 GADGETS_GUI_INFO_NAME: '§aGeneral statistics'
 GADGETS_GUI_INFO_LORE1: '§7Gadget types:'
 GADGETS_GUI_INFO_LORE2:
@@ -4635,7 +4647,7 @@ GADGETS_GUI_HAT_LORE:
 - '§7Activated hat:'
 - '%s'
 - ''
-- '§e▸ Click to open a menu'
+- '§e▸ Tap to open a menu'
 GADGETS_GUI_EFFECT_NAME: 'Effects'
 GADGETS_GUI_EFFECT_LORE:
 - ''
@@ -4646,7 +4658,7 @@ GADGETS_GUI_EFFECT_LORE:
 - '§7Activated gadget:'
 - '%s'
 - ''
-- '§e▸ Click to open menu'
+- '§e▸ Tap to open menu'
 GADGETS_GUI_BANNERS_NAME: 'Banners'
 GADGETS_GUI_BANNERS_LORE:
 - ''
@@ -4657,7 +4669,7 @@ GADGETS_GUI_BANNERS_LORE:
 - '§7Activated banner:'
 - '%s'
 - ''
-- '§e▸ Click to open menu'
+- '§e▸ Tap to open menu'
 GADGETS_GUI_SPIRITS_NAME: 'Spirits'
 GADGETS_GUI_SPIRITS_LORE:
 - ''
@@ -4669,7 +4681,7 @@ GADGETS_GUI_SPIRITS_LORE:
 - '§7Activated spirit:'
 - '%s'
 - ''
-- '§e▸ Click to open menu'
+- '§e▸ Tap to open menu'
 GADGETS_GUI_EMOTES_NAME: 'Emotions'
 GADGETS_GUI_EMOTES_LORE:
 - ''
@@ -4681,7 +4693,7 @@ GADGETS_GUI_EMOTES_LORE:
 - '§7Activated emotions:'
 - '%s'
 - ''
-- '§e▸ Click to open menu'
+- '§e▸ Tap to open menu'
 GADGETS_GUI_COMPANION_NAME: 'Companoins'
 GADGETS_GUI_COMPANION_LORE:
 - ''
@@ -4705,7 +4717,7 @@ GADGETS_GUI_MORPH_LORE:
 - '§7Activated morph:'
 - '%s'
 - ''
-- '§e▸ Click to open menu'
+- '§e▸ Tap to open menu'
 GADGETS_GUI_PETS_NAME: 'Pets'
 GADGETS_GUI_PETS_LORE:
 - ''
@@ -4717,7 +4729,7 @@ GADGETS_GUI_PETS_LORE:
 - '§7Activated pet:'
 - '%s'
 - ''
-- '§e▸ Click to open menu'
+- '§e▸ Tap to open menu'
 GADGETS_GUI_GADGETS_NAME: 'Mechanisms'
 GADGETS_GUI_GADGETS_LORE:
 - ''
@@ -4728,7 +4740,7 @@ GADGETS_GUI_GADGETS_LORE:
 - '§7Activated mechanism:'
 - '%s'
 - ''
-- '§e▸ Click to open menu'
+- '§e▸ Tap to open menu'
 GADGETS_HOLIDAY_DEFAULT: '§7Common'
 GADGETS_HOLIDAY_HALLOWEEN: '§6Halloween'
 GADGETS_HOLIDAY_SUMMER: '§eSummer'
