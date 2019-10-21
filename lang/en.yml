@@ -393,6 +393,15 @@ PROFILE_MAIN_ITEM_LEVEL_LORE:
 - '§7To the next level: §a%s XP'
 - ''
 - '§e▸ Open leveling rewards menu'
+PROFILE_MAIN_ITEM_LEVEL_LORE2:
+- '§7While playing on the server you get'
+- '§7XP which is necessary'
+- '§7to raise your level'
+- '§7and receive special awards.'
+- ''
+- '§7Level: §d%s %s §6%s'
+- ''
+- '§7To the next level: §a%s XP'
 PROFILE_MAIN_ITEM_INFO_NAME: 'Help'
 PROFILE_MAIN_ITEM_INFO_LORE:
 - '§7Useful information for'
@@ -4962,7 +4971,9 @@ LEVEL_REWARD_LORE1:
 LEVEL_REWARD_LORE2:
 - ' '
 - '§e▸ Claim reward'
-
+LEVELING_LOAD_NAME: '§aInformation loading, wait'
+LEVELING_LOAD_LORE:
+- '§7Info about your level is loading, wait'
 LEVEL_NO_LEVEL: '§cYour level is still smaller then required for claiming!'
 LEVEL_ALLREADY_GIVE: '§cYou already claimed this reward!'
 LEVEL_NO_OTHER_REWARD: '§cClaim all previous rewards to claim this!'
