@@ -5063,7 +5063,7 @@ BOX_NO_BUY_LORE:
 - '§cYou cant buy this key using this'
 - '§cmethod =('
 BOX_BUY_LORE:
-- '§7Buy %s %s for %s %s'
+- '§7Buy %s %s using %s %s'
 - ''
 - '§e▸ click to buy'
 BOX_KEY_NOT_BUY: '§cThis box not selling now!'
