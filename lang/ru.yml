@@ -6463,6 +6463,13 @@ HOLO_SITESHOP:
 CONVERT_FORMAT: '/convert <кристалы>'
 CONVERT_ERROR: '§cОшибка, нужно указывать только положительное челое число!'
 CONVERT: '§6Магазин §8| §fВы успешно обменяли §e%s §fзолота на §a%s §fмонет'
+BOX_NOT_HAVE_NAME: '§cО нет!'
+BOX_NOT_HAVE_LORE:
+- '§7У вас нет доступных §bСундучков!'
+- '§7Вы можете получить §bMystery Portal Boxes'
+- '§7играя или же купить их'
+- '§7в нашем магазине:'
+- '§eeternitygames'
 BOX_GUI_NAME: 'Mystery Portal > Выбор сундука'
 BOX_GUI_HELP_NAME: '§bПомощь по сундучкам'
 BOX_GUI_HELP_LORE:

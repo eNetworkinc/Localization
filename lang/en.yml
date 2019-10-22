@@ -5021,6 +5021,13 @@ LEVEL_REWARD_SENDMONEY: '§8+ §7Send and recieve souls using §f/sendmoney'
 CONVERT_FORMAT: '/convert <gold>'
 CONVERT_ERROR: '§cWrong number! Please use positive and integer numbers'
 CONVERT: '§6Shop §8| §fYou sucessfuly converted §e%s §fgold to §a%s §fsouls'
+BOX_NOT_HAVE_NAME: '§cOh no!'
+BOX_NOT_HAVE_LORE:
+- '§7You don`t have any §bBoxes!'
+- '§7You can get §bMystery Portal Boxes §7by'
+- '§7playing games or purchasing them'
+- '§7on our store at:'
+- '§eeternitygames'
 BOX_GUI_NAME: 'Mystery Portal > Choose Box'
 BOX_GUI_HELP_NAME: '§bHelp with Boxes'
 BOX_GUI_HELP_LORE:
