@@ -5024,11 +5024,11 @@ CONVERT: '§6Shop §8| §fYou sucessfuly converted §e%s §fgold to §a%s §fsou
 BOX_BUY_SOULS_NAME: '§dSouls'
 BOX_BUY_SOULS_LORE:
 - '§7Tap to buy boxes'
-- '§7for §dSouls'
+- '§7for §dSouls '
 BOX_BUY_CRISTALS_NAME: '§bCristals'
 BOX_BUY_CRISTALS_LORE:
 - '§7Tap to buy boxes'
-- '§7for §bCristals'
+- '§7for §bCristals '
 BOX_NOT_HAVE_NAME: '§cOh no!'
 BOX_NOT_HAVE_LORE:
 - '§7You don`t have any §bBoxes!'
