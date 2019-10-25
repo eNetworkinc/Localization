@@ -5601,11 +5601,6 @@ DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION: '%s§f was killed using lingering potio
 DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION_OF: '%s§f was killed using lingering potion dropped by %s'
 DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD: '%s§f was killed using lingering potion'
 DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD_OF: '%s§f was killed using lingering potion dropped by %s'
-GAME_COSMETIC_NO_LEVEL: '§cError, you do not have%s level to activate ('
-GAME_COSMETIC_LEVEL_ERROR:
-- '§cWARNING! To use this thing '
-- '§c you need to have%s level or any'
-- '§c of available donate statuses!'
 BW_SHOP_COMPASS: 'Locator'
 BW_SHOP_COMPASS_LORE:
 - ' §8▪ §7Locator §8x1'
