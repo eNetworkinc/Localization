@@ -5601,6 +5601,220 @@ DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION: '%s§f was killed using lingering potio
 DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION_OF: '%s§f was killed using lingering potion dropped by %s'
 DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD: '%s§f was killed using lingering potion'
 DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD_OF: '%s§f was killed using lingering potion dropped by %s'
+GAME_COSMETIC_NO_LEVEL: '§cError, you do not have% s level to activate ('
+GAME_COSMETIC_LEVEL_ERROR:
+- '§cWARNING! To use this thing '
+- '§c you need to have% s level or any'
+- '§c of available donate statuses!'
+GAME_COSMETIC_ALREADY_HAVE: '§f You already have this item, you received §6 +% s% s'
+GAME_COSMETIC_MAIN_GUI_NAME: 'Cosmetics'
+GAME_COSMETIC_GUI_ARROW_NAME: 'Arrow Effects'
+GAME_COSMETIC_GUI_ARROW_LORE:
+- ''
+- '§7Purchasing and activation of effects'
+- '§7 flight of arrows that act'
+- '§7in the arenas of all mini-games.'
+- ''
+- '§7 Open: §a% s /% s §6% s'
+- '§7Activated effect:'
+- '% s'
+- ''
+- '§e▸ Click to open menu'
+GAME_COSMETIC_GUI_START_SOUND_NAME: 'Start Sound'
+GAME_COSMETIC_GUI_START_SOUND_LORE:
+- ''
+- '§7 Purchase and activation of sounds'
+- '§7 which you will hear at'
+- '§7start the game.'
+- ''
+- '§7 Open: §a% s /% s §6% s'
+- '§7 Sound activated:'
+- '% s'
+- ''
+- '§e▸ Click to open menu'
+GAME_COSMETIC_GUI_KILL_EFFECT_NAME: 'Kill Effects'
+GAME_COSMETIC_GUI_KILL_EFFECT_LORE:
+- ''
+- '§7Purchasing and activation of effects'
+- '§7 which will be reproduced'
+- '§7about the player you killed.'
+- ''
+- '§7 Open: §a% s /% s §6% s'
+- '§7Activated effect:'
+- '% s'
+- ''
+- '§e▸ Click to open menu'
+GAME_COSMETIC_GUI_COLORABLE_NAME: 'Color Shields and Armor'
+GAME_COSMETIC_GUI_COLORABLE_LORE:
+- ''
+- '§7Purchasing and activating flowers'
+- '§7in which your will be cultivated'
+- '§7 shields and leather armor.'
+- ''
+- '§7 Open: §a% s /% s §6% s'
+- '§7Activated color:'
+- '% s'
+- ''
+- '§e▸ Click to open menu'
+GAME_COSMETIC_0_NAME: 'Sheet Music'
+GAME_COSMETIC_0_LORE:
+- '§7 Play a melody on the notes of Teteva'
+GAME_COSMETIC_1_NAME: 'Smoke'
+GAME_COSMETIC_1_LORE:
+- '§7Greatly complement the effect of a burning arrow!'
+GAME_COSMETIC_2_NAME: 'Fire'
+GAME_COSMETIC_2_LORE:
+- '§7..and this one is also a great addition'
+GAME_COSMETIC_3_NAME: 'Hearts'
+GAME_COSMETIC_3_LORE:
+- '§7 Imagine that you are Cupid. Shoot. '
+GAME_COSMETIC_4_NAME: 'Emerald'
+GAME_COSMETIC_4_LORE:
+- '§7 Streams of joy of the wisest resident'
+- '§7 will give your arrows and'
+- '§7 will bring them right on target!'
+GAME_COSMETIC_5_NAME: 'Fireworks'
+GAME_COSMETIC_5_LORE:
+- '§7 From now on, your arrows are fireworks'
+GAME_COSMETIC_6_NAME: 'Garland'
+GAME_COSMETIC_6_LORE:
+- '§7Create a Christmas mood'
+- '§7 at any time of the year!'
+GAME_COSMETIC_7_NAME: 'Witch'
+GAME_COSMETIC_7_LORE:
+- '§7Magical Stream of the Great Witch'
+- '§7 accompany your every shot'
+GAME_COSMETIC_8_NAME: 'Evil Resident'
+GAME_COSMETIC_8_LORE:
+- '§7 In fact, the resident is not evil, but angry'
+GAME_COSMETIC_9_NAME: 'Cloud'
+GAME_COSMETIC_9_LORE:
+- '§7 If you do not know how clouds appear,'
+- '§7to buy this effect'
+GAME_COSMETIC_10_NAME: 'Immortality'
+GAME_COSMETIC_10_LORE:
+- '§7The effect of immortality bestows on an arrow ...'
+- '§7 immortality. Like she was mortal! '
+GAME_COSMETIC_11_NAME: 'Potions'
+GAME_COSMETIC_11_LORE:
+- '§7Waves of magical powers of all creatures'
+- '§7games will follow your arrow.'
+- '§7Do not anger them'
+GAME_COSMETIC_100_NAME: 'Fireworks'
+GAME_COSMETIC_100_LORE:
+- '§7The start of the game is followed by a holiday'
+- '§7 a firework explosion!'
+GAME_COSMETIC_101_NAME: 'The Blacksmith
+GAME_COSMETIC_101_LORE:
+- '§7 Especially for avid blacksmiths'
+- '§7 prepared a set of your favorite sound'
+- '§7 anvil hammer'
+GAME_COSMETIC_102_NAME: 'Endermere'
+GAME_COSMETIC_102_LORE:
+- '§7 The Land of Enchantment fascinates with its own'
+- '§7 sounds right before the match.'
+- '§7 Worth a try!'
+GAME_COSMETIC_103_NAME: 'Egg Egg'
+GAME_COSMETIC_103_LORE:
+- '§7 Scatter your enemies with their own weapons'
+GAME_COSMETIC_110_NAME: 'Red'
+GAME_COSMETIC_110_LORE:
+- '§7 As red as the blood of your enemies'
+GAME_COSMETIC_111_NAME: 'White'
+GAME_COSMETIC_111_LORE:
+- '§7Great for winter camouflage!'
+GAME_COSMETIC_112_NAME: 'Orange'
+GAME_COSMETIC_112_LORE:
+- '§7 Orange color will give you'
+- '§7 acidity in PvP'
+GAME_COSMETIC_113_NAME: 'Purple'
+GAME_COSMETIC_113_LORE:
+- '§7 Magnificently made purple shield'
+GAME_COSMETIC_114_NAME: 'Blue'
+GAME_COSMETIC_114_LORE:
+- '§7In the iron armor you are transformed'
+- '§7in the blue carriage.'
+GAME_COSMETIC_115_NAME: 'Yellow'
+GAME_COSMETIC_115_LORE:
+- '§7The solar shield will dazzle with its beauty!'
+GAME_COSMETIC_116_NAME: 'Light Green'
+GAME_COSMETIC_116_LORE:
+- '§7Do not confuse with the lime fruit'
+- '§7 Yes, it was like that'
+GAME_COSMETIC_117_NAME: 'Pink'
+GAME_COSMETIC_117_LORE:
+- '§7Most Glamorous Shield'
+GAME_COSMETIC_118_NAME: 'Gray'
+GAME_COSMETIC_118_LORE:
+- '§7 The shield is gray like a mouse'
+- '§7 Sneak also unnoticed!'
+GAME_COSMETIC_119_NAME: 'Silver'
+GAME_COSMETIC_119_LORE:
+- '§7This hue came from the ashes'
+- '§7 Pyromancer on SkyWars.'
+GAME_COSMETIC_120_NAME: 'Turquoise'
+GAME_COSMETIC_120_LORE:
+- '§7 If you cannot choose between'
+- '§7 green and blue, then this is for you!'
+GAME_COSMETIC_121_NAME: 'Violet'
+GAME_COSMETIC_121_LORE:
+- '§7 Luxurious shield for real kings!'
+GAME_COSMETIC_122_NAME: 'Blue'
+GAME_COSMETIC_122_LORE:
+- '§7Now the shield is the sea! Even the arrows soaks up '
+GAME_COSMETIC_123_NAME: 'Brown'
+GAME_COSMETIC_123_LORE:
+- '§7 I hope this is not what we thought about.'
+GAME_COSMETIC_124_NAME: 'Green'
+GAME_COSMETIC_124_LORE:
+- '§7 They say green soothes'
+- '§7 Check on opponents'
+GAME_COSMETIC_125_NAME: 'Black'
+GAME_COSMETIC_125_LORE:
+- '§7Mash the shield with your soul!'
+GAME_COSMETIC_126_NAME: 'Russia'
+GAME_COSMETIC_126_LORE:
+- '§7Putin, vodka, balalaika'
+GAME_COSMETIC_127_NAME: 'Ukraine'
+GAME_COSMETIC_127_LORE:
+- '§7Tse Europe'
+GAME_COSMETIC_128_NAME: 'Whelp'
+GAME_COSMETIC_128_LORE:
+- '§7 Dangerous and sociable little dragon'
+GAME_COSMETIC_129_NAME: 'Skeleton'
+GAME_COSMETIC_129_LORE:
+- '§7Portrait of the last Lord!'
+GAME_COSMETIC_130_NAME: 'Dead Pool'
+GAME_COSMETIC_130_LORE:
+- '§7But you are not immortal, no'
+GAME_COSMETIC_131_NAME: 'Guitar'
+GAME_COSMETIC_131_LORE:
+- '§7 For music connoisseurs'
+GAME_COSMETIC_132_NAME: 'Heart'
+GAME_COSMETIC_132_LORE:
+- '§7 Show everyone how you love them!'
+GAME_COSMETIC_133_NAME: 'Deer'
+GAME_COSMETIC_133_LORE:
+- '§7This is the very deer of Santa!'
+GAME_COSMETIC_134_NAME: 'Pokeball'
+GAME_COSMETIC_134_LORE:
+- '§7 Pikachu will jump out of him!'
+GAME_COSMETIC_135_NAME: 'The Killing Symphony'
+GAME_COSMETIC_135_LORE:
+- '§7 Every time you kill a player,'
+- '§7you do it, to the effect of musical notes!'
+GAME_COSMETIC_136_NAME: 'Romeo'
+GAME_COSMETIC_136_LORE:
+- '§7 Every time you kill a player,'
+- '§7you let him know that you love him!'
+GAME_COSMETIC_137_NAME: 'Lord of the Lightning'
+GAME_COSMETIC_137_LORE:
+- '§7 Every time you kill a player,'
+- '§7the wrath of heaven descends upon his corpse!'
+GAME_COSMETIC_138_NAME: 'Farewell Fireworks'
+GAME_COSMETIC_138_LORE:
+- '§7 Every time you kill a player,'
+- '§7farewell fireworks appear on his grave!'
 BW_SHOP_COMPASS: 'Locator'
 BW_SHOP_COMPASS_LORE:
 - ' §8▪ §7Locator §8x1'
