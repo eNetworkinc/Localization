@@ -5591,7 +5591,6 @@ CATEGORY_KIT_LORE:
 DAMAGE_CAUSE_KILLED_BY_ARROW_OF: '%s§f was shot by %s'
 DAMAGE_CAUSE_KILLED_BY_SPECTRAL_ARROW_OF: '%s§f was shot by %s'
 DAMAGE_CAUSE_KILLED_BY_TIPPED_ARROW_OF: '%s§f was shot by %s'
-GAME_COSMETIC_ALREADY_HAVE: '§fYou already have this item, you got §6+%s %s §finstead'
 DONATE_MENU_JOIN_MESSAGE_ENABLE: '§6Joining Message §8| §fMessage in §a№%s §factivated!'
 DONATE_MENU_JOIN_MESSAGE_BUY: '§6Joining Message §8| §fYou have successfully bought §a%s §fmessage'
 GAMER_NO_KEYS: '§6Server §8| §fError! You have not enough §akeys§f to open a Box! You can buy some keys at §deternitygames.net §7(click)'
@@ -5601,6 +5600,69 @@ DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION: '%s§f was killed using lingering potio
 DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION_OF: '%s§f was killed using lingering potion dropped by %s'
 DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD: '%s§f was killed using lingering potion'
 DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD_OF: '%s§f was killed using lingering potion dropped by %s'
+
+#Game cosmetic:
+GAME_COSMETIC_MAIN_GUI_NAME: 'Cosmetics'
+GAME_COSMETIC_NO_LEVEL: '§cYou can`t claim this'
+GAME_COSMETIC_ALREADY_HAVE: '§fYou already have this item, you got §6+%s %s §finstead'
+GAME_COSMETIC_LEVEL_ERROR:
+- '§cWARNING! To use this item'
+- '§cYou need %s level or any'
+- '§cavailable rank'
+#GUI
+
+GAME_COSMETIC_GUI_ARROW_NAME: 'Projectile Trails'
+GAME_COSMETIC_GUI_ARROW_LORE:
+- '§7Change your projectile'
+- '§7particle trail effect.'
+- '§7'
+- '§7Unlocked: §a%s §8(%s)'
+- '§7Currently Selected:'
+- '§7%s'
+- '§7'
+- '§e▸ Click to open menu'
+GAME_COSMETIC_GUI_START_SOUND_NAME: 'Start Sounds'
+GAME_COSMETIC_GUI_START_SOUND_LORE:
+- '§7Change your sound'
+- '§7when game starting'
+- '§7you hear this music.'
+- ''
+- '§7Unlocked: §a%s §8(%s)'
+- '§7Currently Selected:'
+- '§7%s'
+- '§7'
+- '§e▸ Click to open menu'
+GAME_COSMETIC_GUI_KILL_EFFECT_NAME: 'Kill Effects'
+GAME_COSMETIC_GUI_KILL_EFFECT_LORE:
+- '§7A selection of various'
+- '§7effects to choose from that'
+- '§7will trigger whenever you'
+- '§7kill an enemy!'
+- ''
+- '§7Unlocked: §a%s §8(%s)'
+- '§7Currently Selected:'
+- '§7%s'
+- '§7'
+- '§e▸ Click to open menu'
+GAME_COSMETIC_GUI_COLORABLE_NAME: 'Shield & Armor'
+GAME_COSMETIC_GUI_COLORABLE_LORE:
+- '§7Colored armor and shields!'
+- '§7Show your enemy your'
+- '§7best style!'
+- ''
+- '§7Unlocked: §a%s §8(%s)'
+- '§7Currently Selected:'
+- '§7%s'
+- '§7'
+- '§e▸ Click to open menu'
+
+SPECTATOR_SETTING_NOFLY_LORE:
+- ''
+- '§e▸ Tap to toggle on'
+SPECTATOR_SETTING_FLY_LORE:
+- ''
+- '§e▸ Tap to toggle off'
+
 BW_SHOP_COMPASS: 'Locator'
 BW_SHOP_COMPASS_LORE:
 - ' §8▪ §7Locator §8x1'
