@@ -4274,10 +4274,10 @@ HUB_HORSE_HOLO:
 - '§eПрокат ездовых животных'
 - 'Нажмите, чтобы взять лошадку'
 HUB_VK_HOLO:
-- '§fЗаходите в нашу группу §7§lVK'
+- '§fОбновления и новости в нашем §7§lVK'
 - '§d§lvk.com/etgnet'
 HUB_DISCORD_HOLO:
-- '§fГолосовой чат сервера §7§lDiscord'
+- '§fНаходи новых друзей в нашем §7§lDiscord'
 - '§d§lvk.cc/9JRo66'
 
 DONT_TRY_TO_GET_OUT_OF_THE_PLAY_ZONE: '§cНе пытайтесь покинуть игровую зону!'

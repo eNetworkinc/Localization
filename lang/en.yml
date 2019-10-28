@@ -3433,11 +3433,11 @@ HUB_HORSE_HOLO:
  - '§eSled rental animals'
  - 'Click, to get horse'
 HUB_VK_HOLO:
- - '§fCome in our group §7§lVK'
- - '§d§lvk.com/eternitygames'
+ - '§fRead new update & news on our §7§lVK'
+ - '§d§lvk.com/etgnet'
 HUB_DISCORD_HOLO:
- - '§fVoice server chat §7§lDiscord'
- - '§d§lvk.cc/7BsqTk'
+ - '§fFinder new friend on our §7§lDiscord'
+ - '§d§lvk.cc/9JRo66'
 
 DAMAGE_CAUSE_SUICIDE: '%s§f Decides to commit suicide'
 DAMAGE_CAUSE_ENTITY_EXPLOSION_TO: '%s§f was blown up by a player %s'
@@ -4509,8 +4509,8 @@ AVAILABLE_SERVER_NOT_FOUND: '§6Server §8| §fNo available servers was found'
 LOBBY_SPECTATE_GUI_NAME: 'Spectate a game'
 LOBBY_CHANNEL_GUI_NAME: 'Select %s mode map'
 LOBBY_CHANNEL_MAP_LORE:
-- '§7Arena Map: §c%s'
-- '§7Online: §c%s'
+- '§7Map: §c%s'
+- '§7Players: §c%s'
 LOBBY_CHANNEL_GUI_NO_SERVERS:
 - '§cError: no available'
 - '§cserver was found'
