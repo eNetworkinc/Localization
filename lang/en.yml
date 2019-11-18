@@ -4507,7 +4507,7 @@ LOBBY_SERVER_SPECTATE_LORE:
 - '§e§e▸ Tap to spectate a game'
 AVAILABLE_SERVER_NOT_FOUND: '§6Server §8| §fNo available servers was found'
 LOBBY_SPECTATE_GUI_NAME: 'Spectate a game'
-LOBBY_CHANNEL_GUI_NAME: 'Select %s mode map'
+LOBBY_CHANNEL_GUI_NAME: '%s %s'
 LOBBY_CHANNEL_MAP_LORE:
 - '§8%s'
 - ''
