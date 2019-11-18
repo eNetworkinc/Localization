@@ -1293,7 +1293,7 @@ GAMEMENU_LOBBY_LORE:
 GAMEMENU_ITEM_UPDATE_NAME: '§lОбновлено!'
 GAMEMENU_ITEM_NEW_NAME: '§lНовый!'
 GAMEMENU_ITEM_WIPE: '§lСделали вайп!'
-GAMEMENU_CLICKCONNECT_LORE: 'Нажмите, чтобы подключиться'
+GAMEMENU_CLICKCONNECT_LORE: 'Нажмите, чтобы играть'
 GAMEMENU_VERSION: '§fРекомендуемая версия для игры %s'
 GAMEMENU_SKYWARS_LORE:
 - '§8Битвы на островах'
@@ -4645,10 +4645,12 @@ ISLAND_FLAG_ENTITY_GRIF_LORE:
 - '§7все ваши проблемы'
 AVAILABLE_SERVER_NOT_FOUND: '§6Сервер §8| §fНе удалось найти подходящий сервер'
 LOBBY_SPECTATE_GUI_NAME: 'Наблюдение за игрой'
-LOBBY_CHANNEL_GUI_NAME: 'Выбор карты %s'
+LOBBY_CHANNEL_MAP_LORE: 'Выбор карты %s'
 LOBBY_CHANNEL_MAP_LORE:
-- '§7Карта: §c%s'
-- '§7Игроков: §c%s'
+- '§8%s'
+- ''
+- '§7Доступных Серверов: §c%s'
+- '§7Игроков Онлайн: §c%s'
 LOBBY_CHANNEL_GUI_NO_SERVERS:
 - '§cОшибка, не могу найти'
 - '§cподходящие сервера'

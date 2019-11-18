@@ -744,7 +744,7 @@ GAMEMENU_LOBBY_LORE:
 - '§7Back to main lobby'
 GAMEMENU_ITEM_UPDATE_NAME: '§lUPDATE!'
 GAMEMENU_ITEM_NEW_NAME: '§lNEW!'
-GAMEMENU_CLICKCONNECT_LORE: 'Click to connect'
+GAMEMENU_CLICKCONNECT_LORE: 'Click to Play'
 GAMEMENU_SKYWARS_LORE:
 - '§8Battles on the islands'
 - ''
@@ -4509,8 +4509,12 @@ AVAILABLE_SERVER_NOT_FOUND: '§6Server §8| §fNo available servers was found'
 LOBBY_SPECTATE_GUI_NAME: 'Spectate a game'
 LOBBY_CHANNEL_GUI_NAME: 'Select %s mode map'
 LOBBY_CHANNEL_MAP_LORE:
-- '§7Map: §c%s'
-- '§7Players: §c%s'
+- '§8%s'
+- ''
+- '§7Available Servers: §a%s'
+- '§7Empty online: §c%s'
+LOBBY_CHANNEL_MAP_ANIM_LORE:
+- ''
 LOBBY_CHANNEL_GUI_NO_SERVERS:
 - '§cError: no available'
 - '§cserver was found'
