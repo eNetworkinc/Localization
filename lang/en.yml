@@ -1415,7 +1415,7 @@ TAB_FOOTER:
 - '§fYou are on the server::'
 - '§8[§c%s§8]'
 AUTH_PLEASE: §7Log in- §e/login §f[§epassword§f]
-REGISTER_PLEASE: §7Register- §e/reg §f[§epassword§f] §f[§erepeat password §f]
+REGISTER_PLEASE: §7Register- §e/reg §f[§epassword§f]
 AUTH_NOTIFICATION_TITLE_REGISTER: §7For continuation register
 AUTH_NOTIFICATION_TITLE_LOGIN: §7For continuation log in
 AUTH_TIME_EXPIRED: §cAuthorization timeout
@@ -1446,7 +1446,7 @@ INVALID_PASSWORD_LENGTH: §cThis password is too short or is too long
 PASSWORDS_MISMATCH: §cError, these passwords do not match!
 PASSWORD_HAS_BEEN_CHANGED: §eYour password has been successfully changed
 LOGIN_USAGE: /login <password>
-REGISTER_USAGE: /reg <pasword> <repeat password>
+REGISTER_USAGE: /reg <pasword>
 CHANGEPASS_FORMAT: '/changepass <old password> <new password>'
 SKIN_HAS_BEEN_RESET: §6СSkin §8| §fYour skin has been dropped 
 SELECTED_SKIN_IS_INVALID: §cSkin that you have selected is invalid or an error has occured
