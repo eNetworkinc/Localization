@@ -368,6 +368,8 @@ BOARD_ISLAND_YOU: 'Your island'
 BOARD_ACHIEVEMENT: 'Completed tasks'
 BOARD_OWNER: 'Owner'
 BOARD_RANK_YOU: 'Your rank'
+BOARD_MULTIPLAY_EXP: 'EXP Multiply'
+BOARD_MULTIPLAY_SOULS: 'SOULS Multiply'
 
 REGION_NOT_FOUND: 'Not found'
 

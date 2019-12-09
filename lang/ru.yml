@@ -471,6 +471,8 @@ BOARD_ISLAND_YOU: 'Ваш остров'
 BOARD_ACHIEVEMENT: 'Выполнено достижений'
 BOARD_OWNER: 'Владелец'
 BOARD_RANK_YOU: 'Ваш ранг'
+BOARD_MULTIPLAY_EXP: 'Множитель опыта'
+BOARD_MULTIPLAY_SOULS: 'Множитель душ'
 
 REGION_NOT_FOUND: 'Не найден'
 
@@ -2426,6 +2428,8 @@ PARTY_REQUESTS_TITLE: '§6Party §8| §fСписок приглашений в �
 PARTY_REQUEST: '  §c• §fЗапрос от %s§f, §7§nнажмите чтобы принять'
 PARTY_REQUEST_HOVER: '§fНажмите, чтобы присоединиться к группе'
 PARTY_REQUESTS_FOOTER: ' §fНажмите на запрос который Вы хотите принять'
+PARTY_LEADER: '§6Лидер'
+PARTY_MEMBER: '§aУчастник'
 AUCTION_SHOW_FORMAT: '/ah show <ник>'
 AUCTION_ITEM_LORE:
 - ''
