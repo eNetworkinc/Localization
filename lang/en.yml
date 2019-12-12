@@ -1459,7 +1459,8 @@ ALERT_FORMAT: '/alert <message>'
 SERVER_FORMAT: '/server <server name>'
 SEND_FORMAT: '/send [player name/server/proxy] [server]'
 FIND_RESULT: '§6Server §8| §fPlayer %s §fnow at the server §c%s'
-SERVER_IS_NOT_ONLINE: §cServer not found!
+SERVER_IS_NOT_ONLINE: '§cServer not found!'
+SERVER_CONNECT: '§6Server §8|§a Sending you to %s!'
 SERVER_TELEPORTATION: '§6Server §8| §fYou have been teleported to the server §a%s'
 YOU_HAVE_BEEN_SENT: §6Server §8| %s §fhas teleported you to the server §c%s
 SENDING_PLAYER_TO_SERVER: §6Server §8| §fPlayer %s §fhas been successfully teleported to the server §c%s

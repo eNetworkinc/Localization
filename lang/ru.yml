@@ -2026,7 +2026,7 @@ SEND_FORMAT: '/send [ник/сервер/прокси] [сервер]'
 FIND_RESULT: '§6Сервер §8| §fИгрок %s §fнаходится на сервере §c%s'
 FIND_RESULT_OFFLINE: '§6Сервер §8| §fИгрок %s §fоффлайн, последний раз он был на сервере §c%s'
 SERVER_IS_NOT_ONLINE: §cСервер не найден!
-SERVER_CONNECT: '§6Сервер §8| §fВы подключены к серверу %s'
+SERVER_CONNECT: '§6Сервер §8| §fПеремещаяем Вас на %s!'
 SERVER_TELEPORTATION: '§6Сервер §8| §fВы были телепортированы на сервер §a%s'
 LOBBY_NOT_FOUND: '§6Сервер §8| §fНе смогли подобрать лобби для вас'
 YOU_HAVE_BEEN_SENT: §6Сервер §8| %s §fтелепортировал вас на сервер §c%s
@@ -2264,7 +2264,7 @@ GROUP_PLAYER_ALREADY_DEFAULT: '§cУ данного игрока нет прив
 GROUP_PLAYER_GROUP_CHANGED: '§eИгроку %s §eбыла установлена привилегия %s'
 YOU_CANT_IGNORE_YOURSELF: '§cВы не можете добавить в список игнорируемых самого себя'
 ALREADY_AT_LOBBY: '§cВы уже в главном лобби'
-NO_LOBBY_FOUND: '§cХаб не найден'
+NO_LOBBY_FOUND: '§cЛобби не найдено!'
 REDIRECTED_TO_LOBBY: '§aВы были телепортированы на %s'
 DO_NOT_SPAM: ' §cℹ Не флудите'
 DO_NOT_SEND_SIMILAR_MESSAGES: ' §cℹ Не повторяйте одинаковые сообщения'
