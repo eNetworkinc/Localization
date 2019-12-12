@@ -369,7 +369,7 @@ BOARD_ACHIEVEMENT: 'Completed tasks'
 BOARD_OWNER: 'Owner'
 BOARD_RANK_YOU: 'Your rank'
 BOARD_MULTIPLAY_EXP: 'EXP Multiply'
-BOARD_MULTIPLAY_SOULS: 'SOULS Multiply'
+BOARD_MULTIPLAY_SOULS: 'souls Multiply'
 
 REGION_NOT_FOUND: 'Not found'
 
