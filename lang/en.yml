@@ -3975,6 +3975,7 @@ BW_PICKAXE_LORE:
 - ''
 BW_RANDOMBOX_TAKED: '§bLucky Chest §8>§f You’re get next item: %s'
 BW_BONUS_USE: '§9Bonus §8> §fYou’re activated bonus. Reward: %s'
+BW_SKILL_ALREADY: '§9Skill §8>§f Skill already active'
 BW_SKILL_END: '§9Skill §8> §f Effect gonna end'
 BW_SKILL_FIRE_AURA_USE: '§9Skill §8>§f Fire Aura activated! You’re have §c%s %s§f to incinerate opponents'
 BW_SKILL_FISH_USE: '§9Skill §8>§f Player %s has been lost armor. For %s %s'
