@@ -1074,7 +1074,7 @@ DELHOME_FORMAT: '/delhome <name>'
 S_FORMAT: '/s <player name>'
 TPACCEPT_SENDER: 'You accepted request from player %s'
 TPACCEPT_WHO: 'Player %s §faccepted your request for teleportation'
-TPACCEPT_ERROR: 'You don’t have waiting requests' You’re
+TPACCEPT_ERROR: 'You don’t have waiting requests'
 TPACCEPT_ERROR_PLAYER: 'You don’t have waiting requests from %s'
 TPDENY: 'You declined request from %s'
 TPDENY_YOU: '%s §fdeclined your request for teleportation'
