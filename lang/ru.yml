@@ -4668,9 +4668,6 @@ THANKS_FOR_MARKING_MAP:
 - '§aСпасибо за Ваш голос за карту %s§f!'
 YOU_DIED_CLICK_TO_VOTE: '%s§fОцените карту, на которой Вы играли: '
 CLICK_TO_VOTE_THIS: '§fКликните, чтобы оценить! Оценку нельзя будет изменить позже'
-ACHIEVEMENT_DONE: '§eВыполнено'
-ACHIEVEMENT_NO_DONE: '§cНе выполнено'
-ACHIEVEMENT_PERCENT: '§7Выполнено: §c%s'
 LOBBY_SETTINGS_UNAVAILABLE:
 - ''
 - '§cНедоступно!'

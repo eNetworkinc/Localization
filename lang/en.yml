@@ -1074,7 +1074,7 @@ DELHOME_FORMAT: '/delhome <name>'
 S_FORMAT: '/s <player name>'
 TPACCEPT_SENDER: 'You accepted request from player %s'
 TPACCEPT_WHO: 'Player %s §faccepted your request for teleportation'
-TPACCEPT_ERROR: 'You don’t have waiting requests'
+TPACCEPT_ERROR: 'You don’t have waiting requests' You’re
 TPACCEPT_ERROR_PLAYER: 'You don’t have waiting requests from %s'
 TPDENY: 'You declined request from %s'
 TPDENY_YOU: '%s §fdeclined your request for teleportation'
@@ -3824,7 +3824,7 @@ THANKS_FOR_MARKING_MAP:
 YOU_DIED_CLICK_TO_VOTE: '%s§fVote for the map, at with you played: '
 CLICK_TO_VOTE_THIS: '§fClick, to vote map! Vote cannot change later'
 ACHIEVEMENT_DONE: '§eCompleted'
-ACHIEVEMENT_NO_DONE: '§cnot complete'
+ACHIEVEMENT_NO_DONE: '§cNot Complete'
 ACHIEVEMENT_PERCENT: '§7Complete: §c%s'
 ISLAND_ACHIEVEMENT_NAME: 'Achievements'
 ISLAND_ACHIEVEMENT_LORE:
