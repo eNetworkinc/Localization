@@ -3780,29 +3780,29 @@ ISLAND_FIRST_GENERATOR_LORE:
 - '§7Блоки:'
 - '§eSAND, GRAVEL, CLAY, DIRT, COBBLESTONE'
 - ''
-ISLAND_FIRST_GENERATOR_NAME: '§fГенератор Уровня:§a II'
-ISLAND_FIRST_GENERATOR_LORE:
+ISLAND_SECOND_GENERATOR_NAME: '§fГенератор Уровня:§a II'
+ISLAND_SECOND_GENERATOR_LORE:
 - '§7Добавляет в Ваш генератор'
 - '§7Руды:'
 - '§eCOAL, IRON'
 - '§7+ Увеличен шанс для остального'
 - ''
-ISLAND_FIRST_GENERATOR_NAME: '§fГенератор Уровня:§a III'
-ISLAND_FIRST_GENERATOR_LORE:
+ISLAND_THIRD_GENERATOR_NAME: '§fГенератор Уровня:§a III'
+ISLAND_THIRD_GENERATOR_LORE:
 - '§7Добавляет в Ваш генератор'
 - '§7Руды:'
 - '§eGOLD, REDSTONE'
 - '§7+ Увеличен шанс для остального'
 - ''
-ISLAND_FIRST_GENERATOR_NAME: '§fГенератор Уровня:§a IV'
-ISLAND_FIRST_GENERATOR_LORE:
+ISLAND_FOURTH_GENERATOR_NAME: '§fГенератор Уровня:§a IV'
+ISLAND_FOURTH_GENERATOR_LORE:
 - '§7Добавляет в Ваш генератор'
 - '§7Руды:'
 - '§eDIAMOND'
 - '§7+ Увеличен шанс для остального'
 - ''
-ISLAND_FIRST_GENERATOR_NAME: '§fГенератор Уровня:§b V'
-ISLAND_FIRST_GENERATOR_LORE:
+ISLAND_FIFTH_GENERATOR_NAME: '§fГенератор Уровня:§b V'
+ISLAND_FIFTH_GENERATOR_LORE:
 - '§7Добавляет в Ваш генератор'
 - '§7Руды:'
 - '§eLAPIS, EMERALD'

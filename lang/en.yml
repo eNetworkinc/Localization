@@ -3080,29 +3080,29 @@ ISLAND_FIRST_GENERATOR_LORE:
 - '§7Blocks:'
 - '§eSAND, GRAVEL, CLAY, DIRT, COBBLESTONE'
 - ''
-ISLAND_FIRST_GENERATOR_NAME: '§fGenerator Level:§a II'
-ISLAND_FIRST_GENERATOR_LORE:
+ISLAND_SECOND_GENERATOR_NAME: '§fGenerator Level:§a II'
+ISLAND_SECOND_GENERATOR_LORE:
 - '§7Add in your Generator'
 - '§7Ore:'
 - '§eCOAL, IRON'
 - '§7+ More chance previous'
 - ''
-ISLAND_FIRST_GENERATOR_NAME: '§fGenerator Level:§a III'
-ISLAND_FIRST_GENERATOR_LORE:
+ISLAND_THIRD_GENERATOR_NAME: '§fGenerator Level:§a III'
+ISLAND_THIRD_GENERATOR_LORE:
 - '§7Add in your Generator'
 - '§7Ore:'
 - '§eGOLD, REDSTONE'
 - '§7+ More chance previous'
 - ''
-ISLAND_FIRST_GENERATOR_NAME: '§fGenerator Level:§a IV'
-ISLAND_FIRST_GENERATOR_LORE:
+ISLAND_FOURTH_GENERATOR_NAME: '§fGenerator Level:§a IV'
+ISLAND_FOURTH_GENERATOR_LORE:
 - '§7Add in your Generator'
 - '§7Ore:'
 - '§eDIAMOND'
 - '§7+ More chance previous'
 - ''
-ISLAND_FIRST_GENERATOR_NAME: '§fGenerator Level:§b V'
-ISLAND_FIRST_GENERATOR_LORE:
+ISLAND_FIFTH_GENERATOR_NAME: '§fGenerator Level:§b V'
+ISLAND_FIFTH_GENERATOR_LORE:
 - '§7Add in your Generator'
 - '§7Ore:'
 - '§eLAPIS, EMERALD'
