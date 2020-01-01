@@ -3074,6 +3074,11 @@ ISLAND_GENERATOR_GUI_LORE:
 - ''
 - '§eTap, to open menu'
 - ''
+ISLAND_DEFAULT_GENERATOR_NAME: '§fDefault Generator'
+ISLAND_DEFAULT_GENERATOR_LORE:
+- ''
+- '§7He Generate only Cobblestone'
+- ''
 ISLAND_FIRST_GENERATOR_NAME: '§fGenerator Level:§a I'
 ISLAND_FIRST_GENERATOR_LORE:
 - '§7Add in your Generator'

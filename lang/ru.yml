@@ -3774,6 +3774,11 @@ ISLAND_GENERATOR_GUI_LORE:
 - ''
 - '§eЩелкните, чтобы открыть меню'
 - ''
+ISLAND_DEFAULT_GENERATOR_NAME: '§fОбычный Генератор'
+ISLAND_DEFAULT_GENERATOR_LORE:
+- ''
+- '§7Он создает только Булыжник'
+- ''
 ISLAND_FIRST_GENERATOR_NAME: '§fГенератор Уровня:§a I'
 ISLAND_FIRST_GENERATOR_LORE:
 - '§7Добавляет в Ваш генератор'
