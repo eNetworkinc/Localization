@@ -4014,8 +4014,19 @@ ISLAND_PROFILE_ADDLEVEL_LORE:
 - '§e▶ Click, to open'
 
 WHOIS_LINES_6: ' §f- Version: §a%s'
-
-
+ISLAND_PROFILE_GUI_NAME: 'Island Settings'
+ISLAND_FLAG_GUI_NAME: 'Flags'
+ISLAND_REGUEST_GUI_NAME: 'Pending invitations'
+ISLAND_REQUESTS_ITEM_HEAD_LORE:
+- ''
+- '§7Application will be deleted'
+- '§7through §c%s §7%s'
+- ''
+- '§7Owner of the island:'
+- '§f%s'
+- ''
+- '§e▸ LMB to accept the request'
+- '§e▸ RMB to reject'
 CATEGORY_SOUND_NAME: 'Breaking bed sound'
 CATEGORY_SOUND_LORE:
 - ''
