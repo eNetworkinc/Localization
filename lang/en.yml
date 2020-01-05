@@ -2957,7 +2957,7 @@ ISLAND_COMMAND_HELP:
 ISLAND_CLASSIC_NAME: 'Classic Island'
 ISLAND_CLASSIC_LORE:
 - ''
-- '§7It's a default? Yeap.'
+- '§7It’s classic? Yeap.'
 - ''
 - '§e▶ Tap to select this'
 ISLAND_FARM_NAME: 'Farm Island'
