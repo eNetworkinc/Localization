@@ -1878,7 +1878,7 @@ AUCTION_TYPE_RESOURCES_NAME: 'Resources'
 AUCTION_TYPE_FARMING_NAME: 'Farming'
 AUCTION_TYPE_OTHER_NAME: 'Other'
 AUCTION_TYPE_ALL_NAME: 'All'
-AUCTION_NO_ITEMS_NAME: 'Nothing not found ('
+AUCTION_NO_ITEMS_NAME: 'Nothing was found!'
 AUCTION_CATEGORY_NAME: 'Current category of items'
 AUCTION_MYGUI_ITEM_NAME: '§aMy goods'
 AUCTION_MYGUI_ITEM_LORE:
@@ -2822,7 +2822,8 @@ ISLAND_MEMBER: 'Member'
 ISLAND_IGNORED_GUI_NAME: 'Banned'
 ISLAND_IGNORED_NOTHING_LORE:
 - ''
-- '§aNothing ;)'
+- '§7Your Island not have'
+- '§7banned players.'
 - ''
 ISLAND_IGNORED_LORE:
 - ''
@@ -2987,7 +2988,7 @@ ISLAND_WESTERN_LORE:
 - ''
 - '§e▶ Tap to select this'
 ISLAND_WINTER_NAME: 'Winter Island'
-ISLAND_WINTERLORE:
+ISLAND_WINTER_LORE:
 - ''
 - '§7Yo-ho-ho, do you like snow and frost?'
 - '§7Then this island is definitely for you,'

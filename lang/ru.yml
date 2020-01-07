@@ -2562,7 +2562,7 @@ AUCTION_TYPE_RESOURCES_NAME: 'Ресурсы'
 AUCTION_TYPE_FARMING_NAME: 'Растения'
 AUCTION_TYPE_OTHER_NAME: 'Остальное'
 AUCTION_TYPE_ALL_NAME: 'Все'
-AUCTION_NO_ITEMS_NAME: 'Ничего не найдено ('
+AUCTION_NO_ITEMS_NAME: 'Нечего не найдено!'
 AUCTION_CATEGORY_NAME: 'Текующая категория предметов'
 AUCTION_MYGUI_ITEM_NAME: '§aМои товары'
 AUCTION_MYGUI_ITEM_LORE:
@@ -3478,7 +3478,7 @@ ISLAND_BIOME_GUI_NAME: 'Установка биома'
 ISLAND_IGNORED_NOTHING_LORE:
 - ''
 - '§7На вашем острове нет'
-- '§7заблокированных игроков'
+- '§7забаненых игроков.'
 - ''
 ISLAND_IGNORED_LORE:
 - ''
@@ -3652,7 +3652,7 @@ ISLAND_WESTERN_LORE:
 - ''
 - '§e▶ Нажмите, чтобы выбрать этот остров'
 ISLAND_WINTER_NAME: 'Снежный Остров'
-ISLAND_WINTERLORE:
+ISLAND_WINTER_LORE:
 - ''
 - '§7Йо-хо-хо, любите снег и мороз?'
 - '§7Тогда данный остров точно для вас,'
