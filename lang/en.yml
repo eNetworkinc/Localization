@@ -328,6 +328,7 @@ DAMAGE_CAUSE_DROP: '%s§f crashed to death'
 
 LVL_UP: '§a§l§kX§r §6§lLEVEL UP §a§l§kX§r'
 NEW_LVL: '§fYou received §d%s§f level!'
+LVL_UP_TITLE: 'LEVEL UP'
 EXP_TO_NEW_LVL: '§fYou need §a%s§f more XP to the next level'
 GET_REWARD: '§7Go to the profile to get your reward'
 LEVEL_COMMAND_1: '§9Level §8> §fYou have §d%s§f level'
