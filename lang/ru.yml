@@ -3759,6 +3759,10 @@ ISLAND_ACHIEVEMENT_10_LORE:
 ISLAND_ACHIEVEMENT_11_NAME: 'Скрафтить Деревянные ПолуБлоки'
 ISLAND_ACHIEVEMENT_11_LORE:
 - '§7Создать 20 полу блоков из дерева'
+ISLAND_ACHIEVEMENT_12_NAME: 'ГЕНЕРАТОР'
+ISLAND_ACHIEVEMENT_12_LORE:
+- '§7Создать первый Генератор Булыжника'
+
 ISLAND_IGNORE_ALREADY: '§cОшибка, данный игрок уже в списке!'
 ISLAND_ADD_IGNORE_PLAYER: '§9SkyBlock §8> %s §fбыл добавлен участником %s§f в список нежелательных игроков острова'
 ISLAND_REMOVE_IGNORE_PLAYER: '§9SkyBlock §8> %s §fбыл удален участником %s§f из списка нежелательных игроков острова'
