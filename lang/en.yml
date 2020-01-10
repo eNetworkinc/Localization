@@ -330,7 +330,7 @@ LVL_UP: '§a§l§kX§r §6§lLEVEL UP §a§l§kX§r'
 NEW_LVL: '§fYou received §d%s§f level!'
 LVL_UP_TITLE: 'LEVEL UP'
 EXP_TO_NEW_LVL: '§fYou need §a%s§f more XP to the next level'
-GET_REWARD: '§7Go to the profile to get your reward'
+GET_REWARD: '§fDon’t forget to get your reward §7(Lobby -> Profile -> Levels)'
 LEVEL_COMMAND_1: '§9Level §8> §fYou have §d%s§f level'
 LEVEL_COMMAND_2: '§9Level §8> §fYou need §a%s§f more XP to the next level'
 
