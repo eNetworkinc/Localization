@@ -3821,6 +3821,13 @@ ISLAND_ACHIEVEMENT_4_LORE:
 - '§7Reward:'
 - ' §d10 souls'
 - ' §63 dirt'
+ISLAND_ACHIEVEMENT_5_NAME: 'Reverse'
+ISLAND_ACHIEVEMENT_5_LORE:
+- '§7Restore Lava from Obsidian'
+- ''
+- '§7Reward:'
+- ' §d15 souls'
+- ' §620 cobblestone'
 ISLAND_ACHIEVEMENT_NAME: 'Achievements'
 ISLAND_ACHIEVEMENT_LORE:
 - '§7List of all achievements'
