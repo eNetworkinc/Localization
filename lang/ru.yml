@@ -3738,6 +3738,13 @@ ISLAND_ACHIEVEMENT_3_LORE:
 - '§7Сломай 15 Золотой Руды'
 - ''
 - '§7Награда: §d30 душ'
+ISLAND_ACHIEVEMENT_4_NAME: 'Магазинчик'
+ISLAND_ACHIEVEMENT_4_LORE:
+- '§7Продай 1 предмет в магазине'
+- ''
+- '§7Награда:'
+- ' §d10 душ'
+- ' §63 земли'
 ISLAND_IGNORE_ALREADY: '§cОшибка, данный игрок уже в списке!'
 ISLAND_ADD_IGNORE_PLAYER: '§9SkyBlock §8> %s §fбыл добавлен участником %s§f в список нежелательных игроков острова'
 ISLAND_REMOVE_IGNORE_PLAYER: '§9SkyBlock §8> %s §fбыл удален участником %s§f из списка нежелательных игроков острова'

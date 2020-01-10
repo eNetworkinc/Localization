@@ -3814,6 +3814,13 @@ ISLAND_ACHIEVEMENT_3_LORE:
 - '§7Get 15 Golden Ore'
 - ''
 - '§7Reward: §d30 souls'
+ISLAND_ACHIEVEMENT_4_NAME: 'Shopper'
+ISLAND_ACHIEVEMENT_4_LORE:
+- '§7Sell first item on shop!'
+- ''
+- '§7Reward:'
+- ' §d10 souls'
+- ' §63 dirt'
 ISLAND_ACHIEVEMENT_NAME: 'Achievements'
 ISLAND_ACHIEVEMENT_LORE:
 - '§7List of all achievements'
