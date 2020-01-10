@@ -3723,45 +3723,6 @@ ISLAND_PROFILE_IGNORE_LIST_LORE:
 - '§cне смогут попасть на ваш остров!'
 - ''
 - '§e▶ Нажмите, чтобы открыть список'
-ISLAND_ACHIEVEMENT_0_NAME: 'Создать Остров'
-ISLAND_ACHIEVEMENT_0_LORE:
-- '§7Создайте свой первый Остров'
-ISLAND_ACHIEVEMENT_1_NAME: 'Пересоздать Остров'
-ISLAND_ACHIEVEMENT_1_LORE:
-- '§7Пересоздайте свой остров'
-ISLAND_ACHIEVEMENT_2_NAME: 'Первый Блок'
-ISLAND_ACHIEVEMENT_2_LORE:
-- '§7Добудь свой первый Блок'
-ISLAND_ACHIEVEMENT_3_NAME: 'Золотая Лихорадка'
-ISLAND_ACHIEVEMENT_3_LORE:
-- '§7Сломай 15 Золотой Руды'
-ISLAND_ACHIEVEMENT_4_NAME: 'Магазинчик'
-ISLAND_ACHIEVEMENT_4_LORE:
-- '§7Продай 1 предмет в магазине'
-ISLAND_ACHIEVEMENT_5_NAME: 'Обратка'
-ISLAND_ACHIEVEMENT_5_LORE:
-- '§7Восстановить лаву из обсидиана'
-ISLAND_ACHIEVEMENT_6_NAME: 'Скрафтить Каменный Забор'
-ISLAND_ACHIEVEMENT_6_LORE:
-- '§7Создать 24 каменных забора'
-ISLAND_ACHIEVEMENT_7_NAME: 'Скрафтить Факела'
-ISLAND_ACHIEVEMENT_7_LORE:
-- '§7Создать 30 факелов'
-ISLAND_ACHIEVEMENT_8_NAME: 'Скрафтить Гладкий Камень'
-ISLAND_ACHIEVEMENT_8_LORE:
-- '§7Создать стак Гладкого камня'
-ISLAND_ACHIEVEMENT_9_NAME: 'Стенды'
-ISLAND_ACHIEVEMENT_9_LORE:
-- '§7Создать 10 Армор Стендов'
-ISLAND_ACHIEVEMENT_10_NAME: 'Скрафтить Деревянные Ступеньки'
-ISLAND_ACHIEVEMENT_10_LORE:
-- '§7Создать 20 ступеней из дерева'
-ISLAND_ACHIEVEMENT_11_NAME: 'Скрафтить Деревянные ПолуБлоки'
-ISLAND_ACHIEVEMENT_11_LORE:
-- '§7Создать 20 полу блоков из дерева'
-ISLAND_ACHIEVEMENT_12_NAME: 'ГЕНЕРАТОР'
-ISLAND_ACHIEVEMENT_12_LORE:
-- '§7Создать первый Генератор Булыжника'
 
 ISLAND_IGNORE_ALREADY: '§cОшибка, данный игрок уже в списке!'
 ISLAND_ADD_IGNORE_PLAYER: '§9SkyBlock §8> %s §fбыл добавлен участником %s§f в список нежелательных игроков острова'
@@ -3836,6 +3797,126 @@ ISLAND_BUY_UPGRADE_PRICE_LORE:
 - '§7Цена: §ax%s изумрудных блоков'
 - ''
 - '§e▶ Нажмите, чтобы купить'
+
+ISLAND_ACHIEVEMENT_START_NAME: 'Старт'
+ISLAND_ACHIEVEMENT_START_LORE:
+- '§7Создать остров 1-й раз'
+ISLAND_ACHIEVEMENT_RESTART_NAME: 'Пересоздать'
+ISLAND_ACHIEVEMENT_RESTART_LORE:
+- '§7Пересоздать свой остров'
+ISLAND_ACHIEVEMENT_FIRST_BLOCK_NAME: 'Первый Раз'
+ISLAND_ACHIEVEMENT_FIRST_BLOCK_LORE:
+- '§7Добыть свой первый блок'
+ISLAND_ACHIEVEMENT_SHOPPER_NAME: 'Первый Раз'
+ISLAND_ACHIEVEMENT_SHOPPER_LORE:
+- '§7Закупиться в Магазине'
+ISLAND_ACHIEVEMENT_REVERSE_NAME: 'Первый Раз'
+ISLAND_ACHIEVEMENT_REVERSE_LORE:
+- '§7Восстановить Лаву из Обсидиана'
+ISLAND_ACHIEVEMENT_GENERATOR_NAME: 'Создать генератор'
+ISLAND_ACHIEVEMENT_GENERATOR_LORE:
+- '§7Постройте генератор булыжника'
+- '§7и добудьте булыжник'
+
+ISLAND_ACHIEVEMENT_CRAFT_NAME: 'Скрафтить предметы'
+ISLAND_ACHIEVEMENT_COBBLE_WALL_LORE:
+- '§8 • §7Стена из булыжника §fх24'
+ISLAND_ACHIEVEMENT_TORCH_LORE:
+- '§8 • §7Факела §fх30'
+ISLAND_ACHIEVEMENT_SMOOTH_BRICK_LORE:
+- '§8 • §7Каменных кирпичей §fх64'
+ISLAND_ACHIEVEMENT_ARMOR_STAND_LORE:
+- '§8 • §7Стоек для брони §fх10'
+ISLAND_ACHIEVEMENT_WOOD_STAIRS_LORE:
+- '§8 • §7Дубовых ступенек §fх20'
+ISLAND_ACHIEVEMENT_WOOD_STEP_LORE:
+- '§8 • §7Деревянных плит §fх20'
+ISLAND_ACHIEVEMENT_SIGN_LORE:
+- '§8 • §7Табличек §fх10'
+ISLAND_ACHIEVEMENT_LEVER_LORE:
+- '§8 • §7Рычагов §fх10'
+ISLAND_ACHIEVEMENT_WOOD_PLATE_LORE:
+- '§8 • §7Деревянных напорных пластин §fх10'
+ISLAND_ACHIEVEMENT_STONE_PLATE_LORE:
+- '§8 • §7Каменных напорных пластин §fх10'
+ISLAND_ACHIEVEMENT_WOOD_BUTTON_LORE:
+- '§8 • §7Деревянных кнопок §fх10'
+ISLAND_ACHIEVEMENT_STONE_BUTTON_LORE:
+- '§8 • §7Каменных кнопок §fх10'
+ISLAND_ACHIEVEMENT_FERMENTED_SPIDER_EYE_LORE:
+- '§8 • §7Ферментированных глаз пауков §fх10'
+ISLAND_ACHIEVEMENT_PAINTING_LORE:
+- '§8 • §7Картины §fх10'
+ISLAND_ACHIEVEMENT_CARROT_STICK_LORE:
+- '§8 • §7Удочку с морковью §fх1'
+ISLAND_ACHIEVEMENT_BREAD_LORE:
+- '§8 • §7Хлеба §fх10'
+ISLAND_ACHIEVEMENT_HAY_BLOCK_LORE:
+- '§8 • §7Блоков сена §fх30'
+ISLAND_ACHIEVEMENT_REDSTONE_LAMP_OFF_LORE:
+- '§8 • §7Редстоун ламп §fх10'
+ISLAND_ACHIEVEMENT_PUMPKIN_PIE_LORE:
+- '§8 • §7Тыквенных пирогов §fх8'
+ISLAND_ACHIEVEMENT_BEETROOT_SOUP_LORE:
+- '§8 • §7Свекольных супов §fх10'
+ISLAND_ACHIEVEMENT_BRICK_LORE:
+- '§8 • §7Блоков из красного кирпича §fх64'
+ISLAND_ACHIEVEMENT_LAPIS_BLOCK_LORE:
+- '§8 • §7Лазуритных блоков §fх64'
+ISLAND_ACHIEVEMENT_CONCRETE_POWDER_LORE:
+- '§8 • §7Цемента §fх8'
+ISLAND_ACHIEVEMENT_DIODE_LORE:
+- '§8 • §7Повторителей §fх32'
+ISLAND_ACHIEVEMENT_PISTON_BASE_LORE:
+- '§8 • §7Поршней §fх10'
+ISLAND_ACHIEVEMENT_COMPASS_LORE:
+- '§8 • §7Компасов §fх5'
+ISLAND_ACHIEVEMENT_TNT_LORE:
+- '§8 • §7TNT §fх10'
+ISLAND_ACHIEVEMENT_QUARTZ_BLOCK_LORE:
+- '§8 • §7Кварцевых блоков §fх64'
+ISLAND_ACHIEVEMENT_REDSTONE_COMPARATOR_LORE:
+- '§8 • §7Компараторов §fх24'
+ISLAND_ACHIEVEMENT_BEACON_LORE:
+- '§8 • §7Маяк §fх1'
+ISLAND_ACHIEVEMENT_SLIME_BLOCK_LORE:
+- '§8 • §7Слаймовый блок §fх1'
+ISLAND_ACHIEVEMENT_EMPTY_MAP_LORE:
+- '§8 • §7Пустых карт §fх10'
+ISLAND_ACHIEVEMENT_ENCHANTMENT_TABLE_LORE:
+- '§8 • §7Стол зачарования §fх1'
+ISLAND_ACHIEVEMENT_BOOKSHELF_LORE:
+- '§8 • §7Книжных полок §fх32'
+ISLAND_ACHIEVEMENT_BONE_BLOCK_LORE:
+- '§8 • §7Костяных блоков §fх20'
+ISLAND_ACHIEVEMENT_FURNACE_LORE:
+- '§8 • §7Печь §fх1'
+ISLAND_ACHIEVEMENT_GOLDEN_APPLE_LORE:
+- '§8 • §7Золотое яблоко §fх1'
+ISLAND_ACHIEVEMENT_BREAK_NAME: 'Сломать блоки' #Ломание Блоков
+ISLAND_ACHIEVEMENT_GOLDEN_FEVER_LORE:
+- '§8 • §7Золотая Руда §fх100'
+ISLAND_ACHIEVEMENT_OBSIDIAN_LORE:
+- '§8 • §7Обсидиан §fх32'
+ISLAND_ACHIEVEMENT_FURNACE_NAME: 'Переплавить'
+ISLAND_ACHIEVEMENT_GLASS_LORE:
+- '§8 • §7Стекло §fх32'
+ISLAND_ACHIEVEMENT_GOLD_INGOT_LORE:
+- '§8 • §7Золотых слитков §fх64'
+ISLAND_ACHIEVEMENT_IRON_INGOT_LORE:
+- '§8 • §7Железных слитков §fх64'
+ISLAND_ACHIEVEMENT_BAKED_POTATO_LORE:
+- '§8 • §7Картошки §fх32'
+ISLAND_ACHIEVEMENT_BREED_NAME: 'Размножьте'
+ISLAND_ACHIEVEMENT_COW_LORE:
+- '§8 • §7Коров §fх2'
+ISLAND_ACHIEVEMENT_SHEEP_LORE:
+- '§8 • §7Овец §fх2'
+ISLAND_ACHIEVEMENT_CHICKEN_LORE:
+- '§8 • §7Куриц §fх2'
+ISLAND_ACHIEVEMENT_PIG_LORE:
+- '§8 • §7Свиней §fх2'
+
 ISLAND_BUY_GENERATOR: '§9SkyBlock §8> §fИгрок %s §fулучшил генератор для вашего острова до §a%s §fуровня'
 ISLAND_UPGRADE_NETHER_NAME: 'Ад'
 ISLAND_UPGRADE_NETHER_LORE:
