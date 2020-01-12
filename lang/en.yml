@@ -2651,7 +2651,7 @@ CREATE_ISLAND_LORE:
 - '§7Click on this items to select'
 - '§7special generation to your island'
 #generators
-ISLAND_BUY_GENERATOR: '§9SkyBlock §8> §fPlayer §e%s§f has ben bought the new §e%s§f Level. Price %s of golden blocks'
+ISLAND_BUY_GENERATOR: '§9SkyBlock §8> §fPlayer §e%s§f has ben bought the new §a%s §flevel'
 ISLAND_UPGRADE_BUY_ERROR: '§9SkyBlock §8> §fYou not have enough §agolden blocks§f to bought this. §c(need x%s)'
 ISLAND_CHANGE_GENERATOR: '§9SkyBlock §8> §fPlayer §e%s§f has ben updating the generator §e%s'
 
