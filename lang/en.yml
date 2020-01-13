@@ -1304,7 +1304,7 @@ HOLO_SKYBLOCK_WARP:
 - '§fCommand §a/setwarp <name>'
 - '§fYou can delete warp command §c/delwarp <name>'
 - '§fPrice of creation warp depends on your privilege'
-- '§fFor example, a player §a$2500§f, a §a§lNINJA §a$1500'
+- '§fFor example, a player §e25 Golden blocks§f, a §a§lNINJA §e15 Golden blocks'
 HOLO_SKYBLOCK_GENERATOR:
 - '§fOne of the variants of the cobblestone generator'
 - '§fThe most important thing is that §9water §fwas in contact'
@@ -1927,7 +1927,7 @@ AUCTION_CONFIRMED_GUI_LORE:
 AUCTION_LORE_ITEM:
 - ''
 - '§7Seller: %s'
-- '§7Price: §e%s Golds'
+- '§7Price: §e%s Golden ingots'
 - '§7Expires in:'
 - '§c%s'
 - ''
@@ -1936,8 +1936,8 @@ AUCTION_LORE_ITEM:
 SHOP_HOVER_TEST: '§fClick here,\n§fto open this shop'
 SHOP_LORE_ITEM:
 - ''
-- '§7Price purchase: §e%s Golds'
-- '§7Receive after sale: §c%s Golds'
+- '§7Price purchase: §e%s Golden ingots'
+- '§7Receive after sale: §c%s Golden ingots'
 - ''
 - '§7Click on §fmouse wheel,'
 - '§7to sell all %s'
