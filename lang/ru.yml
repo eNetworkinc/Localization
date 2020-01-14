@@ -2700,7 +2700,7 @@ SHOP_NAMES: '§9Магазин §8> §fДоступные магазины: '
 SHOP_NOT_FOUND: '§cОшибка, магазин %s не найден'
 SHOP_ALL_ITEMS_SELLED_BONUS: '§9Магазин §8> §dВАУ!§f Вы продали много предметов, за такое магазин выдал вам §d%s душ'
 SHOP_ALL_ITEMS_SELLED: '§9Магазин §8> §fВы успешно продали §7%s x%s §fза §a%s Золотых Слитка'
-SHOP_ALL_ITEMS_BUY: '§9Магазин §8> §fВы успешно купили §7%s §fx x%s §fза §a%s Золотых Слитка'
+SHOP_ALL_ITEMS_BUY: '§9Магазин §8> §fВы успешно купили §7%s x%s §fза §a%s Золотых Слитка'
 KICK_PERMISSION: 'Удаление игроков'
 KICK_PERMISSION_LORE:
 - ''
