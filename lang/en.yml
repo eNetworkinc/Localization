@@ -1875,7 +1875,6 @@ AUCTION_ADD_TO_SELL_ERROR: '§9Auction §8> §fError, in your hand not enough am
 AUCTION_ITEM_ALLREADY_SELLED: '§9Auction §8> §fError, item has been sold on, sorry...'
 AUCTION_NO_MONEY: '§9Auction §8> §fError, you have not enough money for buy this item'
 AUCTION_BUY_YOU_ERROR: '§9Auction §8> §fError, you cannot buy yourself...'
-AUCTION_BUY: '§9Auction §8> §fYou successfully buy §7%s §fx §7%s §ffor §e%s %s'
 AUCTION_BUY_SELLER: '§9Auction §8> §fPlayer %s §fbuy your §7%s §7x%s §ffor §e%s %s'
 AUCTION_LIMIT_ERROR: '§9Auction §8> §fError, you have exceeded limit on amount active items. Your limit is §a%s §fitems'
 AUCTION_SHOW_ERROR: '§9Auction §8> §fError, player %s §fhave not active items for selling'
