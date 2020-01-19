@@ -2616,7 +2616,7 @@ AUCTION_CONFIRMED_GUI: 'Подтверждение покупки'
 AUCTION_CONFIRMED_GUI_LORE:
 - ''
 - '§7Вы уверены, что хотите'
-- '§7купить §f%s §7x §f%s '
+- '§7купить §f%s §7x%s '
 - '§7за §e%s %s §7у игрока %s'
 - ''
 AUCTION_LORE_ITEM:
