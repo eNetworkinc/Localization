@@ -22,7 +22,7 @@ CRASH_FORMAT: '/crash <ник игрока>'
 STATS_FORMAT: '/stats <ник игрока>'
 GAMEINFO_FORMAT: '/gameinfo [канал]'
 
-UNKNOWN_SUBCOMMAND: '§cЭтой команды не существует О_о'
+UNKNOWN_SUBCOMMAND: '§cЭтой команды не существует О_о' 
 HELP_PAPER_FOR: '§e▸ Подкоманды для %s:'
 FREE: 'Бесплатно'
 NO_RARITY: 'Без редкости'
