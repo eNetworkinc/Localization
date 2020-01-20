@@ -4040,7 +4040,20 @@ COMMON: 'Common'
 RARE: 'Rare'
 EPIC: 'Epic'
 LEGENDARY: 'Legendary'
-
+ISLAND_ADDLEVEL_SUCCES: '§9SkyBlock§8 >§f Player %s§f raised your island's experience points by §a%s §fpoints'
+ISLAND_ADDLEVEL_ERROR: '§9SkyBlock§8 >§fSorry, this item is §cnot suitable §fto raise the level of the island'
+ISLAND_ADDLEVEL_NAME: 'Drag blocks to this layer'
+ISLAND_ADDLEVEL_LORE:
+- '§7Once you put the right one'
+- '§7block to this slot, it will disappear,'
+- '§7a your island level will rise'
+- ''
+- '§7PS: You can immediately put a stack of blocks §8(x64)'
+ISLAND_ADDLEVEL_HELP_NAME: 'Информация'
+ISLAND_ADDLEVEL_HELP_LORE:
+- ''
+- '§7Уровень острова: §d%s %s §6%s'
+- '§7До следующего уровня: §a%s XP'
 ISLAND_ADDLEVEL_GUI_NAME: 'Island Level'
 ISLAND_PROFILE_ADDLEVEL_NAME: 'Island Level'
 ISLAND_PROFILE_ADDLEVEL_LORE:
