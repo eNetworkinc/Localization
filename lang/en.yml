@@ -4057,7 +4057,7 @@ ISLAND_PROFILE_ADDLEVEL_LORE:
 - '§8• §fEmerald block §8- §a10 §fscores'
 - '§8• §fLapis block §8- §a2 §fscores'
 - ' '
-- '§e▶ Click, to open'
+- '§e▶ Tap, to open'
 
 WHOIS_LINES_6: ' §f- Version: §a%s'
 ISLAND_PROFILE_GUI_NAME: 'Island Settings'
