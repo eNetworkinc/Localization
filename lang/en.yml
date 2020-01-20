@@ -3082,7 +3082,7 @@ ISLAND_GENERATOR_UPGRADE_MAX:
 ISLAND_BUY_UPGRADE_PRICE_LORE:
 - '§7Price: §ex%s Golden Blocks'
 - ''
-- '§e▶ Tap to enlarge'
+- '§e▶ Tap to upgrade'
 ISLAND_DEFAULT_GENERATOR_LORE:
 - '§8 • §7Cobblestone'
 - '§8 • §7Golden ore'
