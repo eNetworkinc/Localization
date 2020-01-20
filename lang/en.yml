@@ -1967,12 +1967,12 @@ SHOP_SELL_LORE_ITEM:
 - '§7Click on §fmouse wheel§7,'
 - '§7to sell all %s'
 - ''
-- '§e▸ RMB, to sell gui'
+- '§e▸ Tap, to sell'
 SHOP_BUY_LORE_ITEM:
 - ''
 - '§7Price purchase: §e%s %s'
 - ''
-- '§e▸ LMB, to buy gui'
+- '§e▸ Tap, to buy menu'
 SHOP_GUIBUY_NAME: 'Bying %s'
 SHOP_GUISELL_NAME: 'Selling %s'
 SHOP_ITEMBUY_LORE:
