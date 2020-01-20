@@ -3178,12 +3178,10 @@ ISLAND_PROFILE_IGNORE_LIST_LORE:
 ISLAND_MAX_UPGRADE: '§9SkyBlock §8> §cError! you already have maximum level this upgrade'
 ISLAND_UPGRADE_TERRITORY_NAME: 'Upgrade territory'
 ISLAND_UPGRADE_TERRITORY_LORE:
-- ''
 - '§7Increasing the maximum size of your island'
 - ''
 - '§7Current level of improvement: §a%s'
-- '§7Maximum level: §c5'
-- ''
+- '§7Maximum level: §cV'
 ISLAND_MEMBER_REMOVE_NAME: 'Kick from Island'
 ISLAND_MEMBER_REMOVE_LORE:
 - '§7Remove island member '

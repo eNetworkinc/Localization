@@ -3974,12 +3974,10 @@ ISLAND_UPGRADE_NETHER_LORE:
 - '§7Покупка ада'
 ISLAND_UPGRADE_TERRITORY_NAME: 'Улучшение территории'
 ISLAND_UPGRADE_TERRITORY_LORE:
-- ''
 - '§7Увеличение максимального размера вашего острова'
 - ''
 - '§7Текующий уровень улучшения: §a%s'
-- '§7Максимальный уровень: §c5'
-- ''
+- '§7Максимальный уровень: §cV'
 ISLAND_MEMBER_REMOVE_NAME: 'Удалить участника острова'
 ISLAND_MEMBER_REMOVE_LORE:
 - ''
