@@ -3080,6 +3080,7 @@ ISLAND_GENERATOR_UPGRADE_MAX:
 - '§7He generated:'
 
 ISLAND_BUY_UPGRADE_PRICE_LORE:
+- ''
 - '§7Price: §ex%s Golden Blocks'
 - ''
 - '§e▶ Tap to upgrade'

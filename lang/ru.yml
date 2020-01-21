@@ -3885,6 +3885,7 @@ ISLAND_GENERATOR_UPGRADE_MAX:
 - '§7В данный момент он дает:'
 
 ISLAND_BUY_UPGRADE_PRICE_LORE:
+- ''
 - '§7Цена: §ex%s Золотых Блоков'
 - ''
 - '§e▶ Щелкните, чтобы прокачать'
