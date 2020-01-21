@@ -3974,6 +3974,11 @@ ISLAND_UPGRADE_NETHER_LORE:
 - ''
 - '§7Покупка ада'
 ISLAND_UPGRADE_TERRITORY_NAME: 'Улучшение территории'
+ISLAND_UPGRADE_TERRITORY_MAX_LORE:
+- '§7Увеличение максимального размера вашего острова'
+- ''
+- '§bУ вас уже максимальный уровень'
+- '§bдля этого улучшения!'
 ISLAND_UPGRADE_TERRITORY_LORE:
 - '§7Увеличение максимального размера вашего острова'
 - ''

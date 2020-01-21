@@ -3076,7 +3076,7 @@ ISLAND_GENERATOR_UPGRADE_LEVEL:
 - '§7Maximum Level: §c%s'
 - '§7He generated:'
 ISLAND_GENERATOR_UPGRADE_MAX:
-- '§7You have the Maximum level: §a%s'
+- '§7You’re have the Maximum level: §a%s'
 - '§7He generated:'
 
 ISLAND_BUY_UPGRADE_PRICE_LORE:
@@ -3176,8 +3176,18 @@ ISLAND_PROFILE_IGNORE_LIST_LORE:
 - '§cwill not be able to get to your island!'
 - ''
 - '§e▶ Tap, to open BlackList'
+ISLAND_UPGRADE_TERRITORY_MAX_LORE:
+- '§7Increasing the maximum size of your island'
+- ''
+- '§bYou’re have Maximum level'
+- '§bon this upgrade!'
 ISLAND_MAX_UPGRADE: '§9SkyBlock §8> §cError! you already have maximum level this upgrade'
 ISLAND_UPGRADE_TERRITORY_NAME: 'Upgrade territory'
+ISLAND_UPGRADE_TERRITORY_MAX_LORE:
+- '§7Increasing the maximum size of your island'
+- ''
+- '§bYou’re have Maximum level'
+- '§bon this upgrade!'
 ISLAND_UPGRADE_TERRITORY_LORE:
 - '§7Increasing the maximum size of your island'
 - ''
