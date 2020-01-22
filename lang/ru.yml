@@ -6658,8 +6658,11 @@ BOX_NOT_HAVE_LORE:
 - '§7Вы можете получить §bMystery Portal Boxes'
 - '§7играя или же купить их'
 - '§7в нашем магазине:'
-- '§eeternitygames'
+- '§eeternitygames.net'
+- ''
+- '§e▸ ПКМ, чтобы откурыть меню покупки'
 BOX_GUI_NAME: 'Mystery Portal > Выбор сундука'
+BOX_GUI_BUY_NAME: 'Mystery Portal > Покупка Сундуков'
 BOX_GUI_HELP_NAME: '§bПомощь по сундучкам'
 BOX_GUI_HELP_LORE:
 - ''

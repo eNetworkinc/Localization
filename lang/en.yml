@@ -5225,8 +5225,11 @@ BOX_NOT_HAVE_LORE:
 - '§7You can get §bMystery Portal Boxes §7by'
 - '§7playing games or purchasing them'
 - '§7on our store at:'
-- '§eeternitygames'
+- '§eeternitygames.net'
+- ''
+- '§e▸ RBM, to open purchase menu'
 BOX_GUI_NAME: 'Mystery Portal > Choose Box'
+BOX_GUI_BUY_NAME: 'Mystery Portal > Buying Boxes'
 BOX_GUI_HELP_NAME: '§bHelp with Boxes'
 BOX_GUI_HELP_LORE:
 - ''
