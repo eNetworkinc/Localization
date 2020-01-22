@@ -3992,7 +3992,7 @@ SITE_SHOP_ITEM_EMPTY_NAME: '§cNo available items'
 SITE_SHOP_ITEM_EMPTY_LORE:
 - '§7You have not available items'
 - '§7Purchase online - §deternitygames.net'
-SITE_SHOP_ITEMS_NAME: '§aItems'
+SITE_SHOP_ITEMS_NAME: '§7Online Store'
 SITE_SHOP_ITEM_LORE_1:
 - ' '
 - '§7Get this items:'
