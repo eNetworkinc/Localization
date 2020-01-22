@@ -6410,7 +6410,7 @@ SITE_SHOP_ITEMS_GUI_NAME: 'Доступные предметы'
 SITE_SHOP_ITEM_EMPTY_NAME: '§cНет доступных предметов'
 SITE_SHOP_ITEM_EMPTY_LORE:
 - '§7У вас нет доступных предметов'
-- '§7Покупка на сайте §dETERNITYGAMES.NET'
+- '§7Покупка на сайте - §dETERNITYGAMES.NET'
 SITE_SHOP_ITEM_LORE_1:
 - '§7Получить следующие предметы:'
 SITE_SHOP_ITEM_LORE_2:
@@ -6420,7 +6420,7 @@ SITE_SHOP_ITEM_LORE_2:
 - ''
 SITE_SHOP_ITEM_LORE_3: '§e▸ Щелкните, чтобы получить'
 SITE_SHOP_ITEM_LORE_4:
-- '§7Цена: §e%s §7золота'
+- '§7Цена: §b%s кристаллов'
 - ''
 - '§e▸ Щелкните, чтобы купить'
 SITE_SHOP_NO_SLOTS: '§9Магазин §8> §cОшибка, свободные слоты не найдены!'
