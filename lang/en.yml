@@ -3991,7 +3991,7 @@ SITE_SHOP_ITEMS_GUI_NAME: 'Available items'
 SITE_SHOP_ITEM_EMPTY_NAME: '§cNo available items'
 SITE_SHOP_ITEM_EMPTY_LORE:
 - '§7You have not available items'
-- '§7Purchase online - §deternitygames.net'
+- '§7Purchase online - §dEternityGames.net'
 SITE_SHOP_ITEMS_NAME: '§7Online Store'
 SITE_SHOP_ITEM_LORE_1:
 - ' '
