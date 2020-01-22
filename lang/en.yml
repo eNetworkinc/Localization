@@ -1298,76 +1298,30 @@ HOLO_SURVIVAL_XPBOOST:
 - '§fmultiplier of experience'
 - '§7Click for activate'
 #skyblock holo
-HOLO_SKYBLOCK_START:
-- '§fTo start the game on mode "§3СSkyblock§f"'
-- '§frun straight in §dportal§f, after the entrance in it'
-- '§fYou will have your own island!'
-HOLO_SKYBLOCK_START2:
-- '§fTo start the game on mode "§3SkyBlock§f"'
-- '§fclick straight on §dNPC§f, after then'
-- '§fDo you have §ayour own island!'
-HOLO_SKYBLOCK_BATYT:
-- '§fYou can create §6trampolines, §fputting'
-- '§fon one on these blocks §epressure plate!'
 HOLO_SKYBLOCK_WARP:
 - '§fYou can create warp for your shop'
 - '§fCommand §a/setwarp <name>'
 - '§fYou can delete warp command §c/delwarp <name>'
 - '§fPrice of creation warp depends on your privilege'
 - '§fFor example, a player §e25 Golden blocks§f, a §a§lNINJA §e15 Golden blocks'
-HOLO_SKYBLOCK_GENERATOR:
-- '§fOne of the variants of the cobblestone generator'
-- '§fThe most important thing is that §9water §fwas in contact'
-- '§fcFlowing §clava §f(NOT SOURCE)'
-HOLO_SKYBLOCK_INFO:
-- '§fOn the island further you can'
-- '§fFind all information, which'
-- '§fwill help start the game on §bSkyBlock'
-HOLO_SKYBLOCK_MRL2:
-- '§fMine is updated every §a5 §fminutes'
-HOLO_SKYBLOCK_MRL:
-- '§fGo to forward, to get to §eautomine'
-- '§fin it you can get §auseful resources'
-HOLO_SKYBLOCK_PVP:
-- '§fEntering the red line'
-- '§fYou enter the §cPvP zone!'
-HOLO_SKYBLOCK_SHOP:
-- '§fHere you can §abuy §for §csell'
-- 'Necessary in everyday life things!'
 HOLO_SKYBLOCK_JOBS:
 - '§9You can get a job to one of the'
 - '§9proposed, to earn money!'
 - '§aGet a job- /jobs browse'
 - '§cLeave- /jobs leave <job name>'
 HOLO_SKYBLOCK_AH:
-- '§9Actioneer'
+- '§bAuctioneer'
 - '§fAllows sell/expose items on auction'
 - '§fMore details can be found, write: §a/ah help'
-- '§7Click, to open'
-HOLO_SKYBLOCK_SHOP_FARMING:
-- '§eFarming'
-- '§7Click, to open'
-HOLO_SKYBLOCK_SHOP_LOOT:
-- '§eDifferent loot'
-- '§7Click, to open'
-HOLO_SKYBLOCK_SHOP_BLOCKS:
-- '§eBlocks'
-- '§7Click, to open'
-HOLO_SKYBLOCK_SHOP_ORES:
-- '§eOres'
-- '§7Click, to open'
-HOLO_SKYBLOCK_SHOP_FOOD:
-- '§eFood'
-- '§7Click, to open'
-HOLO_SKYBLOCK_SHOP_OTHER:
-- '§eMiscellaneous'
-- '§7Click, to open'
-SKYBLOCK_SHOP_BLOCKS: 'Store blocks'
-SKYBLOCK_SHOP_FARMING: 'Store farming'
-SKYBLOCK_SHOP_RES: 'Store resources'
-SKYBLOCK_SHOP_OTHER: 'Store different things'
-SKYBLOCK_SHOP_LOOT: 'Store drops'
-SKYBLOCK_SHOP_EAT: 'Store eat'
+SKYBLOCK_ONLINE_STORE: 'Online Store'
+SKYBLOCK_SHOP_BLOCKS: 'Block Merchant'
+SKYBLOCK_SHOP_FARMING: 'Farm Merchant'
+SKYBLOCK_SHOP_RES: 'Mine Merchant'
+SKYBLOCK_SHOP_OTHER: 'Different things Merchant'
+SKYBLOCK_SHOP_LOOT: 'Looter Merchant'
+SKYBLOCK_SHOP_EAT: 'Food Merchant'
+SKYBLOCK_SHOP_CUSTOM: 'Rarities Merchant'
+SKYBLOCK_EXCHANGER: 'Exchanger'
 EGGWARS_GENERATOR_RESPAWN: '§fSpawn in: §c'
 PTIME_GUI_NAME: 'Change of time'
 PTIME_ITEM_LORE:
