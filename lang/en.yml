@@ -3803,6 +3803,11 @@ SERVERS_NOT_FOUND: '§cError, current servers not found'
 CHAT_LOBBY_OFF:
 - '§4§lATTENTION! §cChat disabled!'
 - '§cYou can enable it in personal profile-> settings'
+ISLAND_TOP_LEVEL: 'level'
+ISLAND_TOP_LEVEL_HOLO:
+- '§9§lIsland Top'
+- '§fTop owners of islands'
+- '§fby the level'
 ISLAND_TOP_KILLS_HOLO:
 - '§9§lTop for killing'
 - '§fTop player by amount'
