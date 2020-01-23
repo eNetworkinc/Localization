@@ -83,7 +83,7 @@ MESSAGE_NOT_FOUND: '§cMessage %s was not found'
 NOT_BEST_SERVER: '§cNot the best server'
 
 HOLO_TOP_MAIN: '§7Click to view another'
-
+HOLO_TOP_UPDATE_NOW: 'Updated!'
 HOLO_INFO_LOBBY:
 - '§fClick on §6NPC§f,'
 - '§fto start the game §7[LBC]§f,'
