@@ -3803,6 +3803,15 @@ SERVERS_NOT_FOUND: '§cError, current servers not found'
 CHAT_LOBBY_OFF:
 - '§4§lATTENTION! §cChat disabled!'
 - '§cYou can enable it in personal profile-> settings'
+
+TOP_MONEY_HOLO:
+- '§9§lTop for Souls'
+- '§fTop Players by Number'
+- '§fearned currency'
+TOP_LEVEL_HOLO:
+- '§9§lTop by level'
+- '§fTop players by'
+- '§finter-server level'
 ISLAND_TOP_LEVEL: 'level'
 ISLAND_TOP_LEVEL_HOLO:
 - '§9§lIsland Top'
