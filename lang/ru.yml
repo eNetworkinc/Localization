@@ -3275,6 +3275,13 @@ SKYBLOCK_TOP_ISLAND_GUI_LORE:
 - '§8• §fУровень: %s'
 - '§8• §fЛидер: %s'
 - '§8• §fУчастники: %s'
+ISLAND_PROFILE_TOP_NAME: 'Топ островов'
+ISLAND_PROFILE_TOP_LORE:
+- '§7Соревнуйтесь своим'
+- '§7островом с другими,'
+- '§7чтобы попасть в §bтоп островов'
+- ''
+- '§e▸ Щелкните, чтобы открыть'
 ISLAND_OPENED_GUI_NAME: 'Публичные острова'
 ISLAND_OPENED_GUI_LORE:
 - ''

@@ -2851,6 +2851,13 @@ SKYBLOCK_TOP_ISLAND_GUI_LORE:
 - '§8• §fLevel: %s'
 - '§8• §fLeader: %s'
 - '§8• §fMembers: %s'
+ISLAND_PROFILE_TOP_NAME: 'Top Islands'
+ISLAND_PROFILE_TOP_LORE:
+- '§7Compete with your'
+- '§7Island to win'
+- '§7the §bIsland Top'
+- ''
+- '§e▸ Tap, to open'
 ISLAND_RESET: '§9SkyBlock §8> §fYour island has been reset and recreated'
 ISLAND_BIOME_SET_ERROR: '§9SkyBlock §8> §fThis biome already set on your island'
 ISLAND_BIOME_NOT_OPEN: '§9SkyBlock §8> §fThis biome you not are available, buy it!'
