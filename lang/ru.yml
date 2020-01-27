@@ -3259,9 +3259,9 @@ ISLAND_MEMBER_BLOCKED: '§9SkyBlock §8> §fПростите, но вы были
 ISLAND_REMOVED: '§9SkyBlock §8> §fОстров успешно удален, вы были перемещены на спавн'
 SKYBLOCK_TOP_ISLAND_GUI_NAME: 'Топ Островов Eternity'
 SKYBLOCK_TOP_ISLAND_GUI_LORE:
-- '§8• §fМесто: '
-- '§8• §fУровень: '
-- '§8• §fЛидер: '
+- '§8• §fМесто: %s'
+- '§8• §fУровень: %s'
+- '§8• §fЛидер: %s'
 - '§8• §fУчастники:'
 ISLAND_OPENED_GUI_NAME: 'Публичные острова'
 ISLAND_OPENED_GUI_LORE:
