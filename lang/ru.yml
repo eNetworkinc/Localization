@@ -3263,7 +3263,7 @@ SKYBLOCK_TOP_ISLAND_GUI_LORE:
 - '§8• §fМесто: %s'
 - '§8• §fУровень: %s'
 - '§8• §fЛидер: %s'
-- '§8• §fУчастники:'
+- '§8• §fУчастники: %s'
 ISLAND_OPENED_GUI_NAME: 'Публичные острова'
 ISLAND_OPENED_GUI_LORE:
 - ''
