@@ -2642,9 +2642,72 @@ CREATE_ISLAND_LORE:
 - '§7I think you have not island?!'
 - '§7Click on this items to select'
 - '§7special generation to your island'
+#spawners
+#Shop
+ISLAND_SPAWNER_SHOP_TITLE: 'Buy a %s'
+ISLAND_SPAWNER_SHOP_SUCCES: '§9SkyBlock §8> §aYour purchase was successful!'
+ISLAND_SPAWNER_SHOP_NAME: 'Spawners Market'
+ISLAND_SPAWNER_STATS_NAME: 'Spawners Stats'
+#boost
+ISLAND_SPAWNER_OVERVIEW_NAME: '%s x%s'
+ISLAND_SPAWNER_BOOST_NAME: 'Boosting %s by %s'
+ISLAND_SPAWNER_BOOST_ITEM: '§7Boost for §6%s §7%s'
+ISLAND_SPAWNER_BOOST_MAIN_LORE:
+- '§aCurrently boosted!'
+- '§7Adding §6%s§7 extra §6%s§7 to every spawn.'
+- '§7Expires in §c%s§7.'
+ISLAND_SPAWNER_BOOST_ITEM_LORE:
+- §7Cost %s Emeralds'
+ISLAND_SPAWNER_BOOST_APPLIED: '§9SkyBlock §8> §aYour boost has been applied.'
+ISLAND_SPAWNER_BOOST_NOT_AFFORD: '§9SkyBlock §8> §cYou cannot afford this booster'
+#general
+ISLAND_SPANER_MAIN_NAME: '§bSpawner Stats'
+ISLAND_SPAWNER_MAIN_SPAWN_ONLY_LORE:
+- '§7Only spawns on §6%s'
+ISLAND_SPAWNER_MAIN_PAUSED_LORE:
+- '§fSpawning Paused Due to:'
+- '§8• §c%s'
+ISLAND_SPAWNER_MAIN_STATS_LORE:
+- '§7Spawned §6%s§7 times so far.'
+ISLAND_SPAWNER_MAIN_UPGRADE_NAME: '§aClick to Upgrade Your Spawner'
+ISLAND_SPAWNER_MAIN_UPGRADE_LORE: '§7Cost: §a%s Levels'
+ISLAND_SPAWNER_MAIN_UPGRADE_MAX_NAME: '§7This  spawner is maxed out!'
+ISLAND_SPAWNER_MAIN_CLICK: '§e▸ Click to open boost menu'
+ISLAND_SPAWNER_NOT_AFFORD_UPGRADE: '§9SkyBlock §8> §fYou cannot afford this upgrade'
+ISLAND_SPAWNER_UPGRADE_MAX: '§9SkyBlock §8> §fThis spawner is maxed out'
+ISLAND_SPAWNER_UPGRADE: '§9SkyBlock §8> §fYou’ve upgraded this spawner to §6x%s'
+ISLAND_SPAWNER_UPGRADED: '§9SkyBlock §8> §fYou maxed out this spawner at §6x%s'
+
+#placed
+ISLAND_SPAWNER_CONDITION_BIOME1: '§9SkyBlock §8> §cNot being placed in a §6%s§7 biome.'
+ISLAND_SPAWNER_CONDITION_BIOME2: '§9SkyBlock §8> §cNot being placed in the correct biome'
+ISLAND_SPAWNER_CONDITION_HEIGHT: '§9SkyBlock §8> §fThe Y coordinate not being between &6%s&7 and &6%s&f.'
+ISLAND_SPAWNER_CONDITION_LIGHT: '§9SkyBlock §8> §fLacking &6light&f.'
+ISLAND_SPAWNER_CONDITION_DARK: '§9SkyBlock §8> §fLacking &6darkness&f.'
+ISLAND_SPAWNER_CONDITION_STORM: '§9SkyBlock §8> §fThere is no storm.'
+ISLAND_SPAWNER_CONDITION_NEARBY_ENT: '§9SkyBlock §8> §cThere are more than &6%sc7 entities around this spawner.'
+ISLAND_SPAWNER_CONDITION_NEARBY_PL: '§9SkyBlock §8> §cThere are less than &6%s&f players within &6%s&f blocks away from this spawner'
+
+ISLAND_SPAWNER_EGG_NEED: '§9SkyBlock §8> §fYou need §6%s §fMonster Eggs to convert this spawner'
+ISLAND_SPAWNER_EGG_SAMETYPE: '§9SkyBlock §8> §cThis already spawns §6%ss§7.'
+#actionbar
+ISLAND_SPAWNER_GOAL_NEED: '§9SkyBlock §8> §cYou need §6%s §fmore kills to get a §6%s Spawner§f.'
+ISLAND_SPAWNER_GOAL_REACHED: '§9SkyBlock §8> §fA §6%s Spawner §fhas been dropped!'
+#event
+ISLAND_SPAWNER_SO_CLOSE: '§9SkyBlock §8> §fThis spawner is too close to another spawner!'
+ISLAND_SPAWNER_COMBINED: '§9SkyBlock §8> §fThis spawner has been combined with another spawner close by %s'
+ISLAND_SPAWNER_LIMIT: '§9SkyBlock §8> §cYou can only place %s spawners'
+ISLAND_SPAWNER_PLACED: '§9SkyBlock §8> §fSpawner %s successfully placed!'
+ISLAND_SPAWNER_BREAK_PAY: '§9SkyBlock §8> §cYou will be charged §6%s %s §7for breaking this spawner. Break again to confirm'
+ISLAND_SPAWNER_BREAK_NOT_ENOUGH: '§9SkyBlock §8> §cYou cannot afford to break this spawner. Price: §6%s %s'
+ISLAND_SPAWNER_BREAK: '§9SkyBlock §8> §fYou broke a §6%s'
+ISLAND_SPAWNER_DOWNGRADED: '§9SkyBlock §8> §fYou’ve downgraded this spawner to §6%sx'
+#misc
+ISLAND_SPAWNER_CONVERT_SUCC: '§9SkyBlock §8> §fYour conversion was successful!'
+
 #generators
 ISLAND_BUY_GENERATOR: '§9SkyBlock §8> §fPlayer §e%s§f has ben bought the new §a%s §flevel'
-ISLAND_UPGRADE_BUY_ERROR: '§9SkyBlock §8> §fYou not have enough §agolden blocks§f to bought this. §c(need x%s)'
+ISLAND_UPGRADE_BUY_ERROR: '§9SkyBlock §8> §fYou not have enough §egolden blocks§f to bought this. §c(need x%s)'
 ISLAND_CHANGE_GENERATOR: '§9SkyBlock §8> §fPlayer §e%s§f has ben updating the generator §e%s'
 
 ISLAND_OPENED_GUI_NAME: 'Public Islands'
@@ -2673,6 +2736,8 @@ ISLAND_NOT_YOU_COMMAND: '§cError, you cannot use this command on a foreign isla
 ISLAND_NOT_YOU: '§cError, you cannot do this, you are not a member of this island!'
 ISLAND_TELEPORT_HOME: '§9SkyBlock §8> §fYou have been teleported to the island of %s§f'
 ISLAND_COMMAND_ADD_FORMAT: '/island add <player name>'
+ISLAND_COMMAND_SPAWNERS_CHANGE_FORMAT: '/change <type>'
+ISLAND_COMMAND_STATS_NO_KILLS: '§9SkyBlock §8> §fYou currently have no mob kills. Go kill something!'
 ISLAND_COMMAND_REMOVE_FORMAT: '/island remove <player name>'
 ISLAND_IGNORE_ALREADY: '§cError, this player already on black list!'
 ISLAND_ADD_IGNORE_PLAYER: '§9SkyBlock §8> %s §fhas successfully add to BlackList at %s'
@@ -2868,6 +2933,7 @@ ISLAND_PROFILE_DAILY_LORE:
 - '§8• §fN/A'
 - ''
 - '§cWill be available in the next patch..'
+ISLAND_SPAWNERS_SUCCESS_GIVE: '§9SkyBlock §8> §fYou have been given %s §6%s'
 ISLAND_RESET: '§9SkyBlock §8> §fYour island has been reset and recreated'
 ISLAND_BIOME_SET_ERROR: '§9SkyBlock §8> §fThis biome already set on your island'
 ISLAND_BIOME_NOT_OPEN: '§9SkyBlock §8> §fThis biome you not are available, buy it!'
