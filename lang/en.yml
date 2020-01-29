@@ -2651,13 +2651,13 @@ ISLAND_SPAWNER_STATS_NAME: 'Spawners Stats'
 #boost
 ISLAND_SPAWNER_OVERVIEW_NAME: '%s x%s'
 ISLAND_SPAWNER_BOOST_NAME: 'Boosting %s by %s'
-ISLAND_SPAWNER_BOOST_ITEM: '§7Boost §6%s by §7%s'
+ISLAND_SPAWNER_BOOST_ITEM: '§7Boost §6%s§7 by §7%s'
 ISLAND_SPAWNER_BOOST_MAIN_LORE:
 - '§aCurrently boosted!'
 - '§7Adding §6%s§7 extra §6%s§7 to every spawn.'
 - '§7Expires in §c%s§7.'
 ISLAND_SPAWNER_BOOST_ITEM_LORE:
-- §7Cost %s Emeralds'
+- '§7Cost §a%s Emeralds'
 ISLAND_SPAWNER_BOOST_APPLIED: '§9SkyBlock §8> §aYour boost has been applied.'
 ISLAND_SPAWNER_BOOST_NOT_AFFORD: '§9SkyBlock §8> §cYou cannot afford this booster'
 #general
@@ -2670,7 +2670,7 @@ ISLAND_SPAWNER_MAIN_PAUSED_LORE:
 ISLAND_SPAWNER_MAIN_STATS_LORE:
 - '§7Spawned §6%s§7 times so far.'
 ISLAND_SPAWNER_MAIN_UPGRADE_NAME: '§aClick to Upgrade Your Spawner'
-ISLAND_SPAWNER_MAIN_UPGRADE_LORE: '§7Cost: §a%s Levels'
+ISLAND_SPAWNER_MAIN_UPGRADE_LORE: '§7Cost: §a%s §e%s'
 ISLAND_SPAWNER_MAIN_UPGRADE_MAX_NAME: '§7This  spawner is maxed out!'
 ISLAND_SPAWNER_MAIN_CLICK: '§e▸ Click to open boost menu'
 ISLAND_SPAWNER_NOT_AFFORD_UPGRADE: '§9SkyBlock §8> §fYou cannot afford this upgrade'
