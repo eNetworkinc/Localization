@@ -2651,7 +2651,7 @@ ISLAND_SPAWNER_STATS_NAME: 'Spawners Stats'
 #boost
 ISLAND_SPAWNER_OVERVIEW_NAME: '%s x%s'
 ISLAND_SPAWNER_BOOST_NAME: 'Boosting %s by %s'
-ISLAND_SPAWNER_BOOST_ITEM: '§7Boost for §6%s §7%s'
+ISLAND_SPAWNER_BOOST_ITEM: '§7Boost §6%s by §7%s'
 ISLAND_SPAWNER_BOOST_MAIN_LORE:
 - '§aCurrently boosted!'
 - '§7Adding §6%s§7 extra §6%s§7 to every spawn.'
