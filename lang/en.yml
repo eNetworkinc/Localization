@@ -2679,14 +2679,14 @@ ISLAND_SPAWNER_UPGRADE: '§9SkyBlock §8> §fYou’ve upgraded this spawner to �
 ISLAND_SPAWNER_UPGRADED: '§9SkyBlock §8> §fYou maxed out this spawner at §6x%s'
 
 #placed
-ISLAND_SPAWNER_CONDITION_BIOME1: '§9SkyBlock §8> §cNot being placed in a §6%s§7 biome.'
-ISLAND_SPAWNER_CONDITION_BIOME2: '§9SkyBlock §8> §cNot being placed in the correct biome'
-ISLAND_SPAWNER_CONDITION_HEIGHT: '§9SkyBlock §8> §fThe Y coordinate not being between &6%s&7 and &6%s&f.'
-ISLAND_SPAWNER_CONDITION_LIGHT: '§9SkyBlock §8> §fLacking &6light&f.'
-ISLAND_SPAWNER_CONDITION_DARK: '§9SkyBlock §8> §fLacking &6darkness&f.'
-ISLAND_SPAWNER_CONDITION_STORM: '§9SkyBlock §8> §fThere is no storm.'
-ISLAND_SPAWNER_CONDITION_NEARBY_ENT: '§9SkyBlock §8> §cThere are more than &6%sc7 entities around this spawner.'
-ISLAND_SPAWNER_CONDITION_NEARBY_PL: '§9SkyBlock §8> §cThere are less than &6%s&f players within &6%s&f blocks away from this spawner'
+ISLAND_SPAWNER_CONDITION_BIOME1: '§cNot being placed in a §6%s§7 biome.'
+ISLAND_SPAWNER_CONDITION_BIOME2: '§cNot being placed in the correct biome'
+ISLAND_SPAWNER_CONDITION_HEIGHT: '§fThe Y coordinate not being between &6%s&7 and &6%s&f.'
+ISLAND_SPAWNER_CONDITION_LIGHT: '§fLacking &6light&f.'
+ISLAND_SPAWNER_CONDITION_DARK: '§fLacking &6darkness&f.'
+ISLAND_SPAWNER_CONDITION_STORM: '§fThere is no storm.'
+ISLAND_SPAWNER_CONDITION_NEARBY_ENT: '§cThere are more than &6%sc7 entities around this spawner.'
+ISLAND_SPAWNER_CONDITION_NEARBY_PL: '§cThere are less than &6%s&f players within &6%s&f blocks away from this spawner'
 
 ISLAND_SPAWNER_EGG_NEED: '§9SkyBlock §8> §fYou need §6%s §fMonster Eggs to convert this spawner'
 ISLAND_SPAWNER_EGG_SAMETYPE: '§9SkyBlock §8> §cThis already spawns §6%ss§7.'
