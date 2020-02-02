@@ -2681,7 +2681,7 @@ ISLAND_SPAWNER_UPGRADED: '§9SkyBlock §8> §fYou maxed out this spawner at §6x
 #placed
 ISLAND_SPAWNER_CONDITION_BIOME1: '§cNot being placed in a §6%s§7 biome.'
 ISLAND_SPAWNER_CONDITION_BIOME2: '§cNot being placed in the correct biome'
-ISLAND_SPAWNER_CONDITION_HEIGHT: '§fThe Y coordinate not being between §6%s§7 and §6%s§f.'
+ISLAND_SPAWNER_CONDITION_HEIGHT: '§fThe Y coordinate not being between §6%s§7 & §6%s§f.'
 ISLAND_SPAWNER_CONDITION_LIGHT: '§fLacking §6light§f.'
 ISLAND_SPAWNER_CONDITION_DARK: '§fLacking §6darkness§f.'
 ISLAND_SPAWNER_CONDITION_STORM: '§fThere is no storm.'
@@ -2695,7 +2695,7 @@ ISLAND_SPAWNER_GOAL_NEED: '§9SkyBlock §8> §cYou need §6%s §fmore kills to g
 ISLAND_SPAWNER_GOAL_REACHED: '§9SkyBlock §8> §fA §6%s Spawner §fhas been dropped!'
 #event
 ISLAND_SPAWNER_SO_CLOSE: '§9SkyBlock §8> §fThis spawner is too close to another spawner!'
-ISLAND_SPAWNER_COMBINED: '§9SkyBlock §8> §fThis spawner has been combined with another spawner close by %s'
+ISLAND_SPAWNER_COMBINED: '§9SkyBlock §8> §fThis spawner has been combined with another spawner close by §e%s Spawner'
 ISLAND_SPAWNER_LIMIT: '§9SkyBlock §8> §cYou can only place %s spawners'
 ISLAND_SPAWNER_PLACED: '§9SkyBlock §8> §fSpawner %s successfully placed!'
 ISLAND_SPAWNER_BREAK_PAY: '§9SkyBlock §8> §cYou will be charged §6%s %s §7for breaking this spawner. Break again to confirm'
