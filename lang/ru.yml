@@ -3244,7 +3244,67 @@ MODERATOR_STAT:
 TARGET_FRIENDS_LIMIT: '§cУказанный Вами игрок не может принимать заявки в друзья, поскольку его лимит превышен'
 ERROR_WITH_YOUR_BUKKIT: '§cС Вашим аккаунтом произошла ошибка. Перезайдите на сервер и попробуйте ввести команду снова'
 CORE_NAME: '§cСервер'
+#spawners
+#Shop
+ISLAND_SPAWNER_SHOP_TITLE: 'Покупка %s'
+ISLAND_SPAWNER_SHOP_SUCCES: '§9SkyBlock §8> §aВаша покупка успешно совершена'
+ISLAND_SPAWNER_SHOP_NAME: 'Маркет Спавнеров'
+ISLAND_SPAWNER_STATS_NAME: 'Статистика Спавнера'
+#boost
+ISLAND_SPAWNER_OVERVIEW_NAME: '%s x%s'
+ISLAND_SPAWNER_BOOST_NAME: 'Бустер Спавнеров'
+ISLAND_SPAWNER_BOOST_ITEM: '§7Буст §6%s§7 на §7%s'
+ISLAND_SPAWNER_BOOST_MAIN_LORE:
+- '§aАктивирован бустер!'
+- '§7Добавляет §6%s§7 дополнительную §6%s§7 каждый спавн.'
+- '§7Истекает через §c%s§7.'
+ISLAND_SPAWNER_BOOST_ITEM_LORE:
+- '§7Цена §a%s Эмеральдов'
+ISLAND_SPAWNER_BOOST_APPLIED: '§9SkyBlock §8> §aБустер успешно запущен.'
+ISLAND_SPAWNER_BOOST_NOT_AFFORD: '§9SkyBlock §8> §cВы не можете позволить себе этот бустер'
+#general
+ISLAND_SPANER_MAIN_NAME: '§bСтатистика Спавнера'
+ISLAND_SPAWNER_MAIN_SPAWN_ONLY_LORE:
+- '§7Спавнится только на §6%s'
+ISLAND_SPAWNER_MAIN_PAUSED_LORE:
+- '§fСпавн остановлен из-за:'
+- '§8• §c%s'
+ISLAND_SPAWNER_MAIN_STATS_LORE:
+- '§7Заспавнено §6%s§7 за все время.'
+ISLAND_SPAWNER_MAIN_UPGRADE_NAME: '§aНажмите, чтобы прокачать'
+ISLAND_SPAWNER_MAIN_UPGRADE_LORE: '§7Цена: §a%s §e%s'
+ISLAND_SPAWNER_MAIN_UPGRADE_MAX_NAME: '§7Спавнер максимально прокачен'
+ISLAND_SPAWNER_MAIN_CLICK: '§e▸ Нажмите, чтобы открыть меню'
+ISLAND_SPAWNER_NOT_AFFORD_UPGRADE: '§9SkyBlock §8> §fВы не можете позволить себе эту прокачку'
+ISLAND_SPAWNER_UPGRADE_MAX: '§9SkyBlock §8> §fСпавнер максимально прокачен'
+ISLAND_SPAWNER_UPGRADE: '§9SkyBlock §8> §fВы успешно прока §6x%s'
+ISLAND_SPAWNER_UPGRADED: '§9SkyBlock §8> §fВы успешно прокачали спавнер до максимального §6x%s §fуровня'
 
+#placed
+ISLAND_SPAWNER_CONDITION_BIOME1: '§cНе подходящий биом: §6%s'
+ISLAND_SPAWNER_CONDITION_BIOME2: '§cИзмените биом в меню острова'
+ISLAND_SPAWNER_CONDITION_HEIGHT: '§fКордината Y превышает лимит §6%s§7 и §6%s§f.'
+ISLAND_SPAWNER_CONDITION_LIGHT: '§fСлишком мало §6света§f.'
+ISLAND_SPAWNER_CONDITION_DARK: '§fСлишком мало §6темноты§f.'
+ISLAND_SPAWNER_CONDITION_STORM: '§fНе идет шторм'
+ISLAND_SPAWNER_CONDITION_NEARBY_ENT: '§cРядом со спавнером более §6%s§c существ'
+ISLAND_SPAWNER_CONDITION_NEARBY_PL: '§cРядом со спавнером менее §6%s§c игроков. Либо они дальше §6%s§f блоков'
+
+ISLAND_SPAWNER_EGG_NEED: '§9SkyBlock §8> §fНеобходимо §6%s §fяйцо призыва для конвертации.'
+ISLAND_SPAWNER_EGG_SAMETYPE: '§9SkyBlock §8> §cСпавнер уже спавнит §6%s§7.'
+#actionbar
+ISLAND_SPAWNER_GOAL_NEED: '§9SkyBlock §8> §cНеобходимо более §6%s §fубийств, чтобы получить §6%s Спавнер§f.'
+ISLAND_SPAWNER_GOAL_REACHED: '§9SkyBlock §8> §6%s Спавнер §fвыпал из моба'
+#event
+ISLAND_SPAWNER_SO_CLOSE: '§9SkyBlock §8> §fРядом уже есть спавнер'
+ISLAND_SPAWNER_COMBINED: '§9SkyBlock §8> §fЭтот спавнер был объединен с другим спавнером поблизости: §6%s Спавнером'
+ISLAND_SPAWNER_LIMIT: '§9SkyBlock §8> §cУ вас уже есть более %s спавнеров'
+ISLAND_SPAWNER_PLACED: '§9SkyBlock §8> §fСпавнер %s успешно установлен'
+ISLAND_SPAWNER_BREAK_PAY: '§9SkyBlock §8> §cВы должны заплатить §6%s %s §7чтобы сломать этот спавнер. Сломайте еще раз, чтобы подтвердить.'
+ISLAND_SPAWNER_BREAK_NOT_ENOUGH: '§9SkyBlock §8> §cВы не можете позволить себе сломать этот спавнер. Цена: §6%s %s'
+ISLAND_SPAWNER_BREAK: '§9SkyBlock §8> §fСпавнер §6%s §fуспешно сломан.'
+ISLAND_SPAWNER_DOWNGRADED: '§9SkyBlock §8> §fУровень спавнера успешно понижен до §6%sx'
+#misc
 ISLAND_CREATE_TITLE: '§eОстров успешно создан!'
 ISLAND_TOP_LEVEL: 'уровень'
 ISLAND_TOP_LEVEL_HOLO:
