@@ -1934,7 +1934,7 @@ SHOP_BUY_LORE_ITEM:
 - ''
 - '§7Price purchase: §e%s %s'
 - ''
-- '§e▸ Tap, to buy menu'
+- '§e▸ Tap, to buy'
 SHOP_GUIBUY_NAME: 'Bying %s'
 SHOP_GUISELL_NAME: 'Selling %s'
 SHOP_ITEMBUY_LORE:

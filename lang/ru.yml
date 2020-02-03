@@ -2588,7 +2588,7 @@ SHOP_BUY_LORE_ITEM:
 - ''
 - '§7Цена покупки: §e%s %s'
 - ''
-- '§e▸ Щелкните, чтобы открыть меню покупок'
+- '§e▸ Щелкните, чтобы купить'
 SHOP_LORE_KEYS_ITEM:
 - ''
 - '§7Цена покупки: §a%s'
@@ -3279,7 +3279,7 @@ ISLAND_SPAWNER_MAIN_STATS_LORE:
 ISLAND_SPAWNER_MAIN_UPGRADE_NAME: '§aНажмите, чтобы прокачать'
 ISLAND_SPAWNER_MAIN_UPGRADE_LORE: '§7Цена: §a%s §e%s'
 ISLAND_SPAWNER_MAIN_UPGRADE_MAX_NAME: '§7Спавнер максимально прокачен'
-ISLAND_SPAWNER_MAIN_CLICK: '§e▸ Нажмите, чтобы открыть меню'
+ISLAND_SPAWNER_MAIN_CLICK: '§e▸ Нажмите, чтобы купить'
 ISLAND_SPAWNER_NOT_AFFORD_UPGRADE: '§9SkyBlock §8> §fВы не можете позволить себе эту прокачку'
 ISLAND_SPAWNER_UPGRADE_MAX: '§9SkyBlock §8> §fСпавнер максимально прокачен'
 ISLAND_SPAWNER_UPGRADE: '§9SkyBlock §8> §fВы успешно прока §6x%s'
