@@ -2620,6 +2620,100 @@ ERROR_WITH_YOUR_BUKKIT: '§cWith your account happened error. Reconnect to serve
 CORE_NAME: '§cServer'
 
 #Minions
+#Sleep
+MINIONS_SLEEP:
+- '§7zZzZ..'
+#lowFood
+MINIONS_LOW_FOOD:
+- '§c:X'
+- '§9Hey, give me something to eat.'
+- '§9I have really hungry.'
+#lowCD
+MINIONS_LOW_COOLDOWN:
+- '§c#.#'
+- '§cI’m very sleepy.'
+- '§cLet me sleep for a few hours.'
+#lowHeal
+MINIONS_LOW_HEAL:
+- '§c*~*'
+- '§cI can’t take it anymore'
+- '§cI’ll be gone soon'
+#Fun
+MINIONS_SOCIAL_RANCHER:
+- '§eAll right, Sir?'
+- '§eAre you hungry?'
+- '§fCan you make something for me?'
+- '§eI am very worried about this day.'
+MINIONS_SOCIAL_HUNTER:
+- '§cMonster, monster & monster?'
+- '§eWhat a step brotter that waves.'
+- '§eYou have got me here and you do not give me anything.'
+- '§aYou are lucky to have me!'
+- '§eAnother day here.'
+- '§bCan I go to toilet?'
+MINIONS_SOCIAL_WOODCUTTER:
+- '§cPs.. §aThis tree not falling on me? 3:'
+- '§aSomething is quiet today'
+- '§fLook, Squirrel!! §7hihih'
+- '§ck.'
+- '§dHey, Sir could you help?!!'
+- '§eSo SAD 9,='
+MINIONS_SOCIAL_FARMER:
+- '§6Food? Food!'
+- '§aHey, Sir? Are you hungry?'
+- '§eSoo where is my hoe..?'
+- '§eHello My little crops :3'
+- '§9I want water! oh no it’s a joke =D'
+- '§аMay I have a new manure?'
+MINIONS_SOCIAL_MINER:
+- '§bWsap Sir! How are u?'
+- '§aToday's weather is very good =)'
+- '§cMy Pickaxe so bad..'
+- '§eWhat do you need from me?'
+- '§aCan I be your friend?'
+- '§eToday I am very happy.'
+#placeNotCorr
+MINIONS_NO_CORRECT_RANCHER:
+- '§9§lIt’s not Funny!'
+- '§cHow I can work here??'
+- '§cThis place is not Perfect..'
+MINIONS_NO_CORRECT_HUNTER:
+- '§9§lIt’s not Funny!'
+- '§cHow I can work here??'
+- '§cThis place is not Perfect..'
+MINIONS_NO_CORRECT_WOODCUTTER:
+- '§9§lIt’s not Funny!'
+- '§cHow I can work here??'
+- '§cI need 2x2 of dirt or grass'
+MINIONS_NO_CORRECT_FARMER:
+- '§9§lIt’s not Funny!'
+- '§cHow I can work here??'
+- '§cI need 2x2 of air or my material'
+MINIONS_NO_CORRECT_MINER:
+- '§9§lIt’s not Funny!'
+- '§cHow I can work here??'
+- '§cI need 2x2 of air or my material'
+#Fullinv
+MINIONS_FULL_RANCHER:
+- '§9§lHey, You!'
+- '§cMy inventory is §lfull'
+- '§cMy crops will die :x'
+MINIONS_FULL_HUNTER:
+- '§9§lHey, You!'
+- '§cMy inventory is §lfull'
+- '§cThe monsters are already here!'
+MINIONS_FULL_WOODCUTTER:
+- '§9§lHey, You!'
+- '§cMy inventory is §lfull'
+- '§cI not give wood for you =('
+MINIONS_FULL_FARMER:
+- '§9§lHey, You!'
+- '§cMy inventory is §lfull'
+- '§cYou will need more food :O'
+MINIONS_FULL_MINER:
+- '§9§lHey, You!'
+- '§cMy inventory is §lfull'
+- '§cI want to mine more =,('
 #msg
 ISLAND_MINIONS_NOT_YOUR: '§9SkyBlock §8> §cSorry but this not your minions'
 ISLAND_MINIONS_REMOVED: '§9SkyBlock §8> §aMinion successfully removed!'
