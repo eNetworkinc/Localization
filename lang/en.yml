@@ -2620,6 +2620,22 @@ ERROR_WITH_YOUR_BUKKIT: '§cWith your account happened error. Reconnect to serve
 CORE_NAME: '§cServer'
 
 #Minions
+MINIONS_GUI_MAIN_INFO_LORE:
+- '§7Place this minion and it will'
+- '§7start generating and mining %s'
+- '§7ore! Requires and open area to'
+- '§7place iron ore. Minions also work'
+- '§7when you are offline!'
+- '§7'
+- '§7Time Between Actions: §a%s'
+- '§7Max Storage: §e%s'
+- '§7Resources Generated: §b%s'
+MINIONS_GUI_MAIN_NEXT_LORE:
+- '§7The next tier is §6%s'
+- '§7the tier give:'
+- '§8• §fTime Between Actions: §a%s'
+- '§8• §fMax Storage: §a%s'
+#msg
 #Sleep
 MINIONS_SLEEP:
 - '§7zZzZ..'
@@ -2630,12 +2646,12 @@ MINIONS_LOW_FOOD:
 - '§9I have really hungry.'
 #lowCD
 MINIONS_LOW_COOLDOWN:
-- '§c#.#'
+- '§c@.@'
 - '§cI’m very sleepy.'
 - '§cLet me sleep for a few hours.'
 #lowHeal
 MINIONS_LOW_HEAL:
-- '§c*~*'
+- '§c~*~'
 - '§cI can’t take it anymore'
 - '§cI’ll be gone soon'
 #Fun
@@ -2644,6 +2660,8 @@ MINIONS_SOCIAL_RANCHER:
 - '§eAre you hungry?'
 - '§fCan you make something for me?'
 - '§eI am very worried about this day.'
+- ''
+- ''
 MINIONS_SOCIAL_HUNTER:
 - '§cMonster, monster & monster?'
 - '§eWhat a step brotter that waves.'
