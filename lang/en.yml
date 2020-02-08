@@ -2643,16 +2643,13 @@ MINIONS_SLEEP:
 MINIONS_LOW_FOOD:
 - '§c:X'
 - '§9Hey, give me something to eat.'
-- '§9I have really hungry.'
 #lowCD
 MINIONS_LOW_COOLDOWN:
 - '§c@.@'
 - '§cI’m very sleepy.'
-- '§cLet me sleep for a few hours.'
 #lowHeal
 MINIONS_LOW_HEAL:
 - '§c~*~'
-- '§cI can’t take it anymore'
 - '§cI’ll be gone soon'
 #Fun
 MINIONS_SOCIAL_RANCHER:
@@ -2693,45 +2690,35 @@ MINIONS_SOCIAL_MINER:
 #placeNotCorr
 MINIONS_NO_CORRECT_RANCHER:
 - '§9§lIt’s not Funny!'
-- '§cHow I can work here??'
 - '§cThis place is not Perfect..'
 MINIONS_NO_CORRECT_HUNTER:
 - '§9§lIt’s not Funny!'
-- '§cHow I can work here??'
 - '§cThis place is not Perfect..'
 MINIONS_NO_CORRECT_WOODCUTTER:
 - '§9§lIt’s not Funny!'
-- '§cHow I can work here??'
 - '§cI need 2x2 of dirt or grass'
 MINIONS_NO_CORRECT_FARMER:
 - '§9§lIt’s not Funny!'
-- '§cHow I can work here??'
 - '§cI need 2x2 of air or my material'
 MINIONS_NO_CORRECT_MINER:
 - '§9§lIt’s not Funny!'
-- '§cHow I can work here??'
 - '§cI need 2x2 of air or my material'
 #Fullinv
 MINIONS_FULL_RANCHER:
 - '§9§lHey, You!'
 - '§cMy inventory is §lfull'
-- '§cMy crops will die :x'
 MINIONS_FULL_HUNTER:
 - '§9§lHey, You!'
 - '§cMy inventory is §lfull'
-- '§cThe monsters are already here!'
 MINIONS_FULL_WOODCUTTER:
 - '§9§lHey, You!'
 - '§cMy inventory is §lfull'
-- '§cI not give wood for you =('
 MINIONS_FULL_FARMER:
 - '§9§lHey, You!'
 - '§cMy inventory is §lfull'
-- '§cYou will need more food :O'
 MINIONS_FULL_MINER:
 - '§9§lHey, You!'
 - '§cMy inventory is §lfull'
-- '§cI want to mine more =,('
 #msg
 ISLAND_MINIONS_NOT_YOUR: '§9SkyBlock §8> §cSorry but this not your minions'
 ISLAND_MINIONS_REMOVED: '§9SkyBlock §8> §aMinion successfully removed!'
