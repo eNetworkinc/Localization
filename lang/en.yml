@@ -2631,7 +2631,7 @@ MINIONS_GUI_MAIN_INFO_LORE:
 - '§7Max Storage: §e%s'
 - '§7Resources Generated: §b%s'
 - ''
-- '§eClick to pickup'
+- '§e▸ Tap to pickup'
 MINIONS_GUI_MAIN_NEXT_NAME: 'Next Tier'
 MINIONS_GUI_MAIN_NEXT_LORE:
 - '§7The next tier is §6%s'
@@ -2657,7 +2657,11 @@ MINIONS_GUI_MAIN_UPGRADE_LORE:
 - '§7You can insert a Minion Skin'
 - '§7here to change the appearance of'
 - '§7your minion.'
+MINIONS_GUI_MAIN_COLLECT_NAME: 'Collect All'
+MINIONS_GUI_MAIN_COLLECT_LORE:
+- '§e▸ Tap to collect all Items'
 #msg
+MINIONS_SKIN_ERROR: '§9SkyBlock §8> §cError, it’s not a skin!'
 #Sleep
 MINIONS_SLEEP:
 - '§7zZzZ..'
