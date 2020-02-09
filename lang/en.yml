@@ -2630,11 +2630,31 @@ MINIONS_GUI_MAIN_INFO_LORE:
 - '§7Time Between Actions: §a%s'
 - '§7Max Storage: §e%s'
 - '§7Resources Generated: §b%s'
+MINIONS_GUI_MAIN_NEXT_NAME: 'Next Tier'
 MINIONS_GUI_MAIN_NEXT_LORE:
 - '§7The next tier is §6%s'
 - '§7the tier give:'
 - '§8• §fTime Between Actions: §a%s'
 - '§8• §fMax Storage: §a%s'
+MINIONS_GUI_MAIN_SKIN_NAME: 'Minion Skin Slot'
+MINIONS_GUI_MAIN_SKIN_LORE:
+- '§7You can insert a Minion Skin'
+- '§7here to change the appearance of'
+- '§7your minion.'
+MINIONS_GUI_MAIN_FUEL_NAME: 'Fuel Slot'
+MINIONS_GUI_MAIN_FUEL_LORE:
+- '§7Increase the speed of your'
+- '§7minion by adding minion fuel'
+- '§7items here.'
+- ''
+- '§cSteady, You can not take'
+- '§cfuel back out after you'
+- '§cplace it here!'
+MINIONS_GUI_MAIN_UPGRADE_NAME: 'Upgrade Slot'
+MINIONS_GUI_MAIN_UPGRADE_LORE:
+- '§7You can insert a Minion Skin'
+- '§7here to change the appearance of'
+- '§7your minion.'
 #msg
 #Sleep
 MINIONS_SLEEP:
