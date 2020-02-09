@@ -2630,6 +2630,8 @@ MINIONS_GUI_MAIN_INFO_LORE:
 - '§7Time Between Actions: §a%s'
 - '§7Max Storage: §e%s'
 - '§7Resources Generated: §b%s'
+- ''
+- '§eClick to pickup'
 MINIONS_GUI_MAIN_NEXT_NAME: 'Next Tier'
 MINIONS_GUI_MAIN_NEXT_LORE:
 - '§7The next tier is §6%s'
