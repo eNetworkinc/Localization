@@ -2660,6 +2660,10 @@ MINIONS_GUI_MAIN_UPGRADE_LORE:
 MINIONS_GUI_MAIN_COLLECT_NAME: 'Collect All'
 MINIONS_GUI_MAIN_COLLECT_LORE:
 - '§e▸ Tap to collect all Items'
+#skins
+MINIONS_SKINS_NAME: '§eMinion Skin'
+MINIONS_SKINS_LORE:
+- '§7Add this skin to your Minion.'
 #msg
 MINIONS_SKIN_ERROR: '§9SkyBlock §8> §cError, it’s not a skin!'
 #Sleep
