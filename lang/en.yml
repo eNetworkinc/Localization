@@ -2666,7 +2666,11 @@ MINIONS_GUI_MAIN_COLLECT_LORE:
 #skins
 MINIONS_SKINS_NAME: '§eMinion Skin'
 MINIONS_SKINS_LORE:
-- '§7Add this skin to your Minion.'
+- '§7This Minion skin changes'
+- '§7your minion’s appearance to'
+- '§7a %s§7.'
+MINIONS_SKIN_DOGE: 'Doge'
+MINIONS_SKIN_SKULL: 'Skull'
 #msg
 MINIONS_SKIN_ERROR: '§9SkyBlock §8> §cError, it’s not a skin!'
 #Sleep
