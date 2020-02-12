@@ -2638,6 +2638,9 @@ MINIONS_GUI_MAIN_NEXT_LORE:
 - '§7the tier give:'
 - '§8• §fTime Between Actions: §a%s'
 - '§8• §fMax Storage: §a%s'
+MINIONS_GUI_MAIN_SKIN_PLACED_LORE:
+- '§7Your Minion looks'
+- '§7fabulous!'
 MINIONS_GUI_MAIN_SKIN_NAME: 'Minion Skin Slot'
 MINIONS_GUI_MAIN_SKIN_LORE:
 - '§7You can insert a Minion Skin'
