@@ -2620,6 +2620,19 @@ ERROR_WITH_YOUR_BUKKIT: '§cWith your account happened error. Reconnect to serve
 CORE_NAME: '§cServer'
 
 #Minions
+MINIONS_ITEMS_SMELT_NAME: '§aAuto Smelter'
+MINIONS_ITEMS_SMELT_LORE:
+- '§7This item can be used as a'
+- '§7minion upgrade. This will'
+- '§7automatically smelt materials'
+- '§7that a minion produced'
+MINIONS_ITEMS_COMPRESSOR_NAME: '§aCompressor'
+MINIONS_ITEMS_COMPRESSOR_LORE:
+- '§7This item can be used as a'
+- '§7minion upgrade. This will'
+- '§7automatically turn materials'
+- '§7that a minion produced into'
+- '§7their block from.'
 MINIONS_GUI_MAIN_INFO_LORE:
 - '§7Place this minion and it will'
 - '§7start generating and mining %s'
@@ -2673,6 +2686,8 @@ MINIONS_SKIN_DOGE: 'Doge'
 MINIONS_SKIN_SKULL: 'Skull'
 #msg
 MINIONS_SKIN_ERROR: '§9SkyBlock §8> §cError, it’s not a skin!'
+MINIONS_FUEL_ERROR: '§9SkyBlock §8> §cError, it’s not a fuel!'
+MINIONS_UPGRADE_ERROR: '§9SkyBlock §8> §cError, it’s not a upgrade for Minion!'
 #Sleep
 MINIONS_SLEEP:
 - '§7zZzZ..'
