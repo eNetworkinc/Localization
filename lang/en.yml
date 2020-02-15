@@ -2698,7 +2698,7 @@ MINIONS_GUI_MAIN_UPGRADE_2_LORE:
 - '§7here.'
 MINIONS_GUI_MAIN_COLLECT_NAME: 'Collect All'
 MINIONS_GUI_MAIN_COLLECT_LORE:
-- '§e▸ Tap to collect all Items'
+- '§e▸ Tap to collect all §c%s§e Items'
 #skins
 MINIONS_SKINS_NAME: '§eMinion Skin'
 MINIONS_SKINS_LORE:
