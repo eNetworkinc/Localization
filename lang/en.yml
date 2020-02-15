@@ -2686,11 +2686,16 @@ MINIONS_GUI_MAIN_FUEL_LORE:
 - '§cSteady, You can not take'
 - '§cfuel back out after you'
 - '§cplace it here!'
-MINIONS_GUI_MAIN_UPGRADE_NAME: 'Upgrade Slot'
-MINIONS_GUI_MAIN_UPGRADE_LORE:
-- '§7You can insert a Minion Skin'
-- '§7here to change the appearance of'
-- '§7your minion.'
+MINIONS_GUI_MAIN_UPGRADE_1_NAME: 'Auto Smelter'
+MINIONS_GUI_MAIN_UPGRADE_1_LORE:
+- '§7You can improve your Minion by'
+- '§7adding a minion upgrade item'
+- '§7here.'
+MINIONS_GUI_MAIN_UPGRADE_2_NAME: 'Compressor'
+MINIONS_GUI_MAIN_UPGRADE_2_LORE:
+- '§7You can improve your Minion by'
+- '§7adding a minion upgrade item'
+- '§7here.'
 MINIONS_GUI_MAIN_COLLECT_NAME: 'Collect All'
 MINIONS_GUI_MAIN_COLLECT_LORE:
 - '§e▸ Tap to collect all Items'
