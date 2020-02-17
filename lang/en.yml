@@ -2714,6 +2714,7 @@ MINIONS_SKIN_SKULL: 'Skull'
 #msg
 MINIONS_SKIN_ERROR: '§9SkyBlock §8> §cError, it’s not a skin!'
 MINIONS_FUEL_ERROR: '§9SkyBlock §8> §cError, it’s not a fuel!'
+MINIONS_NO_COLLECT: '§9SkyBlock §8> §cThis Minion does not have any items stored!'
 MINIONS_UPGRADE_ERROR: '§9SkyBlock §8> §cError, it’s not a upgrade for Minion!'
 #Sleep
 MINIONS_SLEEP:
