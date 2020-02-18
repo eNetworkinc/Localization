@@ -2663,7 +2663,7 @@ MINIONS_GUI_MAIN_INFO_LORE:
 - '§7when you are offline!'
 - '§7'
 - '§7Time Between Actions: §c%s'
-- '§7Storage: §e%s/§c%s'
+- '§7Storage: §e%s§7/§c%s'
 - '§7Resources Generated: §b%s'
 - ''
 - '§e▸ Tap to pickup'
