@@ -2667,6 +2667,16 @@ MINIONS_GUI_MAIN_INFO_LORE:
 - '§7Resources Generated: §b%s'
 - ''
 - '§e▸ Tap to pickup'
+MINIONS_GUI_MAIN_STATS_NAME: 'Minion Stats'
+MINIONS_GUI_MAIN_STATS_LORE:
+- '§7Food'
+- '§8▪ %s'
+- '§7Health'
+- '§8▪ %s'
+- '§7Work Time'
+- '§8▪ %s'
+- '§7Sleep in'
+- '§8▪ %s'
 MINIONS_GUI_MAIN_NEXT_NAME: 'Next Tier'
 MINIONS_GUI_MAIN_NEXT_LORE:
 - '§7The next tier is §6%s'
