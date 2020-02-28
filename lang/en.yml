@@ -2698,6 +2698,14 @@ MINIONS_GUI_MAIN_INFO_LORE:
 - '§7Resources Generated: §b%s'
 - ''
 - '§e▸ Tap to pickup'
+MINIONS_NEXT_LEVEL_NAME: 'Upgrade to next tier - %s'
+MINIONS_GUI_NEXT_LEVEL_NAME: 'Drag Minion to this layer'
+MINIONS_GUI_NEXT_LEVEL_LORE:
+- '§7As soon as you put'
+- '§7next level Minion to this slot,'
+- '§7it will disappear,'
+- '§7a this minion'
+- '§7raise your level'
 MINIONS_GUI_MAIN_STATS_NAME: 'Minion Stats'
 MINIONS_GUI_MAIN_STATS_LORE:
 - '§7Food'
@@ -2753,6 +2761,7 @@ MINIONS_SKINS_LORE:
 MINIONS_SKIN_DOGE: 'Doge'
 MINIONS_SKIN_SKULL: 'Skull'
 #msg
+MINIONS_LEVEL_UP: '§9SkyBlock §8> §fPlayer §a%s§f has been upgrade %§f to next tier'
 MINIONS_SKIN_ERROR: '§9SkyBlock §8> §cError, it’s not a skin!'
 MINIONS_FUEL_ERROR: '§9SkyBlock §8> §cError, it’s not a fuel!'
 MINIONS_NO_COLLECT: '§9SkyBlock §8> §cThis Minion does not have any items stored!'
