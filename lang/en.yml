@@ -2625,6 +2625,7 @@ CORE_NAME: '§cServer'
 
 #Minions
 MINION: 'Minion'
+MINION_CRAFT_CHOOSE: 'Choose Minion Tier'
 MINION_NAME_COBBLESTONE: 'CobbleStone Minion %s'
 MINION_NAME_IRON: 'Iron Minion %s'
 MINION_NAME_DIAMOND: 'Diamond Minion %s'
