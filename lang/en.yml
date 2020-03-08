@@ -1094,7 +1094,7 @@ TPACCEPT_ERROR: 'You don’t have waiting requests'
 TPACCEPT_ERROR_PLAYER: 'You don’t have waiting requests from %s'
 TPDENY: 'You declined request from %s'
 TPDENY_YOU: '%s §fdeclined your request for teleportation'
-ALTERNATE_GUI_NAME: 'Menu '
+ALTERNATE_GUI_NAME: 'Menu'
 MYWARP_ITEM_CHANGER_NAME: 'Personal warps'
 MYWARP_ITEM_CHANGER_LORE:
 - ''
@@ -2624,6 +2624,7 @@ ERROR_WITH_YOUR_BUKKIT: '§cWith your account happened error. Reconnect to serve
 CORE_NAME: '§cServer'
 
 #Minions
+MINION: 'Minion'
 MINION_NAME_COBBLESTONE: 'CobbleStone Minion %s'
 MINION_NAME_IRON: 'Iron Minion %s'
 MINION_NAME_DIAMOND: 'Diamond Minion %s'
@@ -3180,6 +3181,9 @@ SKYBLOCK_TOP_ISLAND_GUI_LORE:
 - '§8• §fLevel: %s'
 - '§8• §fLeader: %s'
 - '§8• §fMembers: %s'
+ISLAND_PROFILE_CRAFT_PREV_NAME: 'Crafting Preview'
+ISLAND_PROFILE_CRAFT_PREV_LORE:
+- '§7Preview all Minions'
 ISLAND_PROFILE_TOP_NAME: 'Top Islands'
 ISLAND_PROFILE_TOP_LORE:
 - '§7Compete with your'
