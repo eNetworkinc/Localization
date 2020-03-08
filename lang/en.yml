@@ -2703,6 +2703,7 @@ MINIONS_GUI_MAIN_INFO_LORE:
 - '§7Resources Generated: §b%s'
 - ''
 - '§e▸ Click to PickUp'
+MINIONS_CRAFT_PREV_NAME: 'Minion Craft - %s'
 MINIONS_NEXT_LEVEL_NAME: 'Upgrade to next tier - %s'
 MINIONS_GUI_NEXT_LEVEL_NAME: 'Drag Minion to this layer'
 MINIONS_GUI_NEXT_LEVEL_LORE:
