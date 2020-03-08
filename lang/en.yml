@@ -2625,6 +2625,9 @@ CORE_NAME: '§cServer'
 
 #Minions
 MINION: 'Minion'
+MINION_CRAFT_LORE:
+- '§7See all %s'
+- '§7Recipes for crafting'
 MINION_CRAFT_CHOOSE: 'Choose Minion Tier'
 MINION_NAME_COBBLESTONE: 'CobbleStone Minion %s'
 MINION_NAME_IRON: 'Iron Minion %s'
