@@ -1409,10 +1409,10 @@ NOT_PREMIUM_ANYMORE: §9License §8> §fLogin through the license is disabled, h
 YOU_ARE_NOW_PREMIUM: §9License §8> §fCongratulations, now log in possible only with §alicensed account!
 SUCCESSFUL_REGISTRATION: '§9You successfully registered! §fYour current password'
 REGISTERED_PASS_HOVER: 
-- '§fPassword- §a%s'
+- '§fYour Password: %s'
 - ''
 - '§fRemember it or made'
-- '§fscreenshot, to not forget- §ckey F2§7'
+- '§fscreenshot, to not forget - §ckey F2§7'
 KICK_AUTH: 
 - '§cA lot of a attempts incorrect'
 - '§cinput a password. Your account'
