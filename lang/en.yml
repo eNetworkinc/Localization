@@ -1408,6 +1408,7 @@ YOU_HAVE_JUST_LOGGED_OUT: §cYou signed out of your account
 NOT_PREMIUM_ANYMORE: §9License §8> §fLogin through the license is disabled, hope you remember your password for it to come in handy to you
 YOU_ARE_NOW_PREMIUM: §9License §8> §fCongratulations, now log in possible only with §alicensed account!
 SUCCESSFUL_REGISTRATION: '§9You successfully registered! §fYour current password'
+REGISTERED_PASS_CLICK_HOVER: '§fPassword: §a%s §8| §fClick to go our §9VK§f group'
 REGISTERED_PASS_HOVER: 
 - '§fYour Password: %s'
 - ''
