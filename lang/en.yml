@@ -1411,6 +1411,9 @@ SUCCESSFUL_REGISTRATION: '§9You successfully registered! §fYour current passwo
 REGISTERED_PASS_HOVER: 
 - '§fYour Password: %s'
 - ''
+- '§fConnect Your §9VK§f & does'
+- '§cnot pay§f for recovery!'
+- ''
 - '§fRemember it or made'
 - '§fscreenshot, to not forget - §ckey F2§7'
 KICK_AUTH: 
