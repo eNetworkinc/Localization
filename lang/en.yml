@@ -1409,9 +1409,8 @@ NOT_PREMIUM_ANYMORE: §9License §8> §fLogin through the license is disabled, h
 YOU_ARE_NOW_PREMIUM: §9License §8> §fCongratulations, now log in possible only with §alicensed account!
 SUCCESSFUL_REGISTRATION: '§9You successfully registered! §fYour current password'
 REGISTERED_PASS_CLICK_HOVER: '§fPassword: §a%s §8| §fClick to go our §9VK§f group'
-REGISTERED_PASS_HOVER: 
-- '§fYour Password: %s'
-- ''
+REGISTERED_PASS_HOVER_1: '§fYour Password: %s'
+REGISTERED_PASS_HOVER_2:
 - '§fConnect Your §9VK§f & does'
 - '§cnot pay§f for recovery!'
 - ''
