@@ -546,7 +546,7 @@ GUI_HELP_ITEM_3_LORE:
 - ''
 - '§7Also you can create party to teleport'
 - '§7to the same server together'
-- '§7You can use the commands below'
+- '§7You can use the commands below!'
 - ''
 - '§e/party <nickname> §7- Invite player to a party'
 - '§e/party kick <nickname> §7- Kick player from a party'
