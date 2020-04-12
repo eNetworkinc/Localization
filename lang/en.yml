@@ -2629,10 +2629,15 @@ ERROR_WITH_YOUR_BUKKIT: '§cWith your account happened error. Reconnect to serve
 CORE_NAME: '§cServer'
 #SkyPVP
 X2_REWARD: 'Double Reward'
+X2_REWARD_LORE: 'Double Reward for all Player’s'
 KOTH: 'KOTH'
+KOTH_LORE: 'Become the King of the Mountain & get more Souls '
 BOUNTY: 'Bounty'
+BOUNTY_LORE: 'Random Player get a bounty of him death'
 TEAM_DEATHMATCH: 'Team DeathMath'
+TEAM_DEATHMATCH_LORE: 'All Player’s are divided into\ntwo teams and are at war.\nHave Top 3 Player’s'
 THE_BEAST: 'The Beast'
+THE_BEAST_LORE: 'One of the Player’s becomes a beast.\nIf u killed him u get more reward.\nHave Top 3 Player’s'
 
 SKYPVP_ANNOUNCER_BOUNTY: '§fA Bounty of §d%s %s§f has been set on §c%s.'
 SKYPVP_ANNOUNCER_BOUNTY_TARGET: '§fWath out, someone has put a Bounty of §d%s %s§f on you.'
@@ -2654,7 +2659,7 @@ SKYPVP_ANNOUNCER_EVENT_END:
 SKYPVP_ANNOUNCER_EVENT_STARTED:
 - ''
 - '§9Mini-Event:'
-- '§fNew §8[§c%s§8]§f Event will will start in: %s'
+- '§fNew §8[§c%s§8]§f Event will start in: %s'
 - ''
 SKYPVP_ANNOUNCER_EVENT_STARTED_NOW:
 - ''
