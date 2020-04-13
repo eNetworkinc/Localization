@@ -2639,6 +2639,15 @@ TEAM_DEATHMATCH_LORE: 'All Player’s are divided into\ntwo teams and are at war
 THE_BEAST: 'The Beast'
 THE_BEAST_LORE: 'One of the Player’s becomes a beast.\nIf u killed him u get more reward.\nHave Top 3 Player’s'
 
+#holo
+SKYPVP_ITEMS_HOLOGRAM:
+- '§eITEM'
+- '§e%s'
+- ''
+- '§eAllow for: %s%s'
+SkyPVP_ITEMS_HOLOGRAM_ALL: '§aALL'
+SkyPVP_ITEMS_HOLOGRAM_ALL: '%s§eClick to PickUp'
+
 SKYPVP_ANNOUNCER_BOUNTY: '§fA Bounty of §d%s %s§f has been set on §c%s.'
 SKYPVP_ANNOUNCER_BOUNTY_TARGET: '§fWath out, someone has put a Bounty of §d%s %s§f on you.'
 SKYPVP_ANNOUNCER_KILLSTREAK: '§9Streak §8> §fPlayer §6%s§f killed §c%s§f enemy’s!'
