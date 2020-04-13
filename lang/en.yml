@@ -2643,7 +2643,7 @@ THE_BEAST_LORE: 'One of the Player’s becomes a beast.\nIf u killed him u get m
 SKYPVP_ITEMS_HOLOGRAM:
 - '§eITEM'
 - '§e%s'
-- ''
+- '§e'
 - '§eAllow for: %s%s'
 SkyPVP_ITEMS_HOLOGRAM_ALL: '§aALL'
 SkyPVP_ITEMS_HOLOGRAM_PICKUP: '%s§eClick to PickUp'
