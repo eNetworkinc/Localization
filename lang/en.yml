@@ -2969,12 +2969,6 @@ MINIONS_FULL_MINER:
 #msg
 ISLAND_MINIONS_NOT_YOUR: '§9SkyBlock §8> §cSorry but this not your minions'
 ISLAND_MINIONS_REMOVED: '§9SkyBlock §8> §aMinion successfully removed!'
-ISLAND_MINIONS_GIVE_FOOD:
-- '§aYou’ve fed your minion!'
-- '§fState: %s'
-ISLAND_MINIONS_HEALED:
-- '§aYou’ve healed your minion'
-- '§fState: %s'
 ISLAND_CREATE_TITLE: '§eIsland successfully created!'
 ISLAND_CREATE_SUBTITLE: '§7Detailed information §f/is'
 ISLAND_REMOVED_MEMBER: '§9SkyBlock §8> §fIsland owner delete your island, you were teleport to the spawn'
