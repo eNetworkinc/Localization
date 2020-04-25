@@ -2643,11 +2643,10 @@ THE_BEAST_LORE: 'One of the Player’s becomes a beast.\nIf u killed him u get m
 #holo
 SKYPVP_ITEMS_HOLOGRAM:
 - '§eITEM'
-- '§e%s'
-- '§e'
-- '§eAllow for: %s%s'
+- '§c%s'
+- '§fAllow for: §d%s'
+- '§eClick to PickUp'
 SKYPVP_ITEMS_HOLOGRAM_ALL: '§aALL'
-SKYPVP_ITEMS_HOLOGRAM_PICKUP: '%s§eClick to PickUp'
 
 SKYPVP_ANNOUNCER_BOUNTY: '§fA Bounty of §d%s %s§f has been set on §c%s.'
 SKYPVP_ANNOUNCER_BOUNTY_TARGET: '§fWath out, someone has put a Bounty of §d%s %s§f on you.'

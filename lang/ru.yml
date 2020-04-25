@@ -3259,11 +3259,10 @@ THE_BEAST_LORE: 'Один из Игроков становится зверем.
 #holo
 SKYPVP_ITEMS_HOLOGRAM:
 - '§eПРЕДМЕТ'
-- '§e%s'
-- '§e'
-- '§eДоступен для: %s%s'
+- '§c%s'
+- '§fДоступен для: §d%s'
+- '§eКликни, чтобы взять'
 SKYPVP_ITEMS_HOLOGRAM_ALL: '§aВСЕХ'
-SKYPVP_ITEMS_HOLOGRAM_PICKUP: '%s§eКликни, чтобы взять'
 
 SKYPVP_ANNOUNCER_BOUNTY: '§fA Bounty of §d%s %s§f has been set on §c%s.'
 SKYPVP_ANNOUNCER_BOUNTY_TARGET: '§fWath out, someone has put a Bounty of §d%s %s§f on you.'
