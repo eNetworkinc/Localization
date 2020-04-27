@@ -9132,6 +9132,8 @@ GARDENER_ITEM_BOX_KIT: 'Садовник'
 COOK_ITEM_BOX_KIT: 'Повар'
 MUSIC_ITEM_BOX_KIT: 'Музыкант'
 
+BOW: 'Лук'
+BLAZE_POWDER: 'Огненный Порошок'
 POTION: 'Питьевое зелье'
 ANDESITE: 'Андезит'
 DIORITE: 'Диорит'
@@ -9289,4 +9291,8 @@ COOKED_MUTTON: 'Приготовленная баранина'
 COOKED_RABBIT: 'Приготовленная Крольчатина'
 COOKED_CHICKEN: 'Приготовленная курица'
 NETHER_WARTS: 'Нарост из незера'
+IRON_HELMET: 'Железный Шлем'
+DIAMOND_HELMET: 'Алмазный Шлем'
+GOLD_HELMET: 'Золотой Шлем'
+
 
