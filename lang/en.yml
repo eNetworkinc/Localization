@@ -2646,7 +2646,8 @@ SKYPVP_ITEMS_HOLOGRAM:
 - '§eITEM'
 - '§c%s'
 - '§fAllow for: §d%s'
-- '§eClick to PickUp'
+SKYPVP_ITEMS_HOLOGRAM_PICKUP: '§eClick to PickUp'
+SKYPVP_ITEMS_HOLOGRAM_NOT_PICKUP: '§cNot available for You'
 SKYPVP_ITEMS_HOLOGRAM_ALL: '§aALL'
 
 SKYPVP_ANNOUNCER_BOUNTY: '§fA Bounty of §d%s %s§f has been set on §c%s.'
