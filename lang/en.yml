@@ -2691,9 +2691,9 @@ SKYPVP_ANNOUNCER_EVENT_BEAST_END:
 - '§aReward for all: §d%s %s'
 - ''
 - 'Top 3 Player’s'
-- '%s > reward: %s | %s beast kills'
-- '%s > reward: %s | %s beast kills'
-- '%s > reward: %s | %s beast kills'
+- '%s §8>§f reward:§d %s §8|§c %s B. kills'
+- '%s §8>§f reward:§d %s §8|§c %s B. kills'
+- '%s §8>§f reward:§d %s §8|§c %s B. kills'
 SKYPVP_ANNOUNCER_EVENT_TDM_NOUN: '§9Team DeathMath §8> §fTeams decided not to fight'
 SKYPVP_ANNOUNCER_EVENT_TDM_WIN:
 - '§9Team DeathMath'
@@ -2702,9 +2702,9 @@ SKYPVP_ANNOUNCER_EVENT_TDM_WIN:
 - '§eVictory reward: §d%s %s'
 - ''
 - 'Top 3 Player’s'
-- '%s > reward: %s | %s kills'
-- '%s > reward: %s | %s kills'
-- '%s > reward: %s | %s kills'
+- '%s §8>§f reward:§d %s §8|§c %s kills'
+- '%s §8>§f reward:§d %s §8|§c %s kills'
+- '%s §8>§f reward:§d %s §8|§c %s kills'
 SKYPVP_ANNOUNCER_EVENT_TDM_LOSED:
 - '§9Team DeathMath'
 - '%sYour Team has losed!'
@@ -2713,9 +2713,9 @@ SKYPVP_ANNOUNCER_EVENT_TDM_LOSED:
 - '§eVictory reward: §d%s %s'
 - ''
 - 'Top 3 Player’s'
-- '%s > reward: %s | %s kills'
-- '%s > reward: %s | %s kills'
-- '%s > reward: %s | %s kills'
+- '%s §8>§f reward:§d %s §8|§c %s kills'
+- '%s §8>§f reward:§d %s §8|§c %s kills'
+- '%s §8>§f reward:§d %s §8|§c %s kills'
 
 #Minions
 MINION: 'Minion'
