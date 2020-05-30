@@ -345,6 +345,7 @@ LEVEL_COMMAND_1: '§9Level §8> §fYou have §d%s§f level'
 LEVEL_COMMAND_2: '§9Level §8> §fYou need §a%s§f more XP to the next level'
 
 BOARD_TOP: 'Top Leaders'
+BOARD_PLACE: 'place'
 BOARD_ASSIST: 'Assist'
 BOARD_STREAK: 'Streak'
 BOARD_KD: 'K/D'
