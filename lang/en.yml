@@ -2638,9 +2638,9 @@ KOTH_LORE: 'Become the King of the Mountain & get more Souls '
 BOUNTY: 'Bounty'
 BOUNTY_LORE: 'Random Player get a bounty of him death'
 TEAM_DEATHMATCH: 'Team DeathMath'
-TEAM_DEATHMATCH_LORE: 'All Player’s are divided into\ntwo teams and are at war.\nHave Top 3 Player’s'
+TEAM_DEATHMATCH_LORE: 'All Player’s are divided into two teams and are at war. Have Top 3 Player’s'
 THE_BEAST: 'The Beast'
-THE_BEAST_LORE: 'One of the Player’s becomes a beast.\nIf u killed him u get more reward.\nHave Top 3 Player’s'
+THE_BEAST_LORE: 'One of the Player’s becomes a beast. If u killed him u get more reward! Have Top 3 Player’s'
 
 #holo
 SKYPVP_ITEMS_HOLOGRAM:
@@ -2694,6 +2694,7 @@ SKYPVP_ANNOUNCER_EVENT_BEAST_END:
 - '%s > reward: %s | %s beast kills'
 - '%s > reward: %s | %s beast kills'
 - '%s > reward: %s | %s beast kills'
+SKYPVP_ANNOUNCER_EVENT_TDM_NOUN: '§9Team DeathMath §8> §fTeams decided not to fight'
 SKYPVP_ANNOUNCER_EVENT_TDM_WIN:
 - '§9Team DeathMath'
 - '%sYour Team won the Event!'
