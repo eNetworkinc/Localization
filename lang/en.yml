@@ -344,6 +344,7 @@ GET_REWARD: '§fDon’t forget to get your reward §7(Lobby -> Profile -> Levels
 LEVEL_COMMAND_1: '§9Level §8> §fYou have §d%s§f level'
 LEVEL_COMMAND_2: '§9Level §8> §fYou need §a%s§f more XP to the next level'
 
+BOARD_TOP: 'Top Leaders'
 BOARD_ASSIST: 'Assist'
 BOARD_STREAK: 'Streak'
 BOARD_KD: 'K/D'
