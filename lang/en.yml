@@ -2662,6 +2662,7 @@ SKYPVP_BOARD_EVENT: 'Active Event'
 SKYPVP_BOARD_TIME: 'Time Left'
 SKYPVP_CHAT_ASSIST: '§9Assist §8> §fYou assist on kill the %s §fand we give u §d%s %s§f!'
 SKYPVP_CHAT_BOUNTY_KILLED: '§9Bounty §8> §fYou successfully completed the §d%s %s§f Bounty on %s'
+SKYPVP_YOU_BEAST: 'You’re the Beast!'
 SKYPVP_ANNOUNCER_EVENT_BOUNTY:
 - ''
 - '§9Mini-Event:'
