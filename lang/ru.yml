@@ -5192,6 +5192,10 @@ LOBBY_SETTINGS_RPG_MUSIC_NAME: 'Музыка'
 LOBBY_SETTINGS_RPG_MUSIC_LORE:
   - '§7Позволяет включить или отключить'
   - '§7музыку на заднем фоне игры'
+LOBBY_SETTINGS_RPG_INTERFACE_SIMPLE_NAME: 'Игровой Интерфейс'
+LOBBY_SETTINGS_RPG_INTERFACE_SIMPLE_LORE:
+  - '§7Переключения между типами интерфейса'
+  - '§7Легкий с пометками или обычный'
 LOBBY_SETTINGS_RPG_EFFECT_NAME: 'Эффекты'
 LOBBY_SETTINGS_RPG_EFFECT_LORE:
   - '§7Позволяет включить или отключить'
